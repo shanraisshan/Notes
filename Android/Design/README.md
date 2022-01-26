@@ -1,2 +1,3 @@
-# Design
-daily design things
+# Android Design
+android design related stuff
+
