@@ -1,2 +1,2 @@
-# Design
-daily design things
+# Android Names Version
+android names, versions related stuff
