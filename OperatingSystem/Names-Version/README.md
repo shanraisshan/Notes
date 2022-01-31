@@ -1,5 +1,5 @@
-# Android Names Version
-android names, versions related stuff
+# Operating System Names Version
+names and versions of different operating systems
 
 ## Android 
 
