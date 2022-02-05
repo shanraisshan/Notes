@@ -2,5 +2,6 @@
 android related stuff
 
 ### ➼ [Design 🎨](Design)
-### ➼ [Names-Version 📱](Names-Version)
+### ➼ [Names-Version 📚](Names-Version)
 ### ➼ [Push Notification 🔔](Push-Notification)
+### ➼ [Device 📱](Device)
