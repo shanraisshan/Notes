@@ -5,4 +5,4 @@ daily life todo things
 ### ➼ [Design 🎨](/Design)
 ### ➼ [Operating System 💻](/OperatingSystem)
 ### ➼ [Security 🔒](/Security)
-### ➼ [Database](/Database)
+### ➼ [Database 📊](/Database)
