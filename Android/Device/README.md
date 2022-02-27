@@ -12,6 +12,7 @@ android devices information
 |Name|Device|OS|Display [dp]|Code [dp]|Density|Ratio|Type|
 |:---:|:---: |:---:|:---:|:---:|:---:|:---:|:---:|
 |Shayan|Google Pixel 3|12 (31)|1080x2160 [360x720]|1080x2028 [360x676]|~443 ppi|18:9|Long
+|Danish|
 
 ### References
 px2dp: http://labs.rampinteractive.co.uk/android_dp_px_calculator/
