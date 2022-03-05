@@ -6,3 +6,9 @@ linking much?
 https://savyour.com.pk/.well-known/apple-app-site-association
 
 https://savyour.com.pk/.well-known/assetlinks.json
+
+## Platforms
+1. [Android App Links](App)
+2. [Firebase Dynamic Link](Firebase)
+3. [Facebook Deep Link](Facebook)
+4. [Appsflyer OneLink](Appsflyer)
