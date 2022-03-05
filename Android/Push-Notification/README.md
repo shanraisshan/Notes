@@ -10,5 +10,5 @@ https://dontkillmyapp.com/
 2. [Huawei Push Kit](Huawei)
 3. [Mixpanel](Mixpanel)
 4. [Urban Airship](Airship)
-5. [One Signal](Onesignal)
+5. [One Signal](OneSignal)
 6. [Appsflyer](Appsflyer)
