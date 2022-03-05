@@ -8,6 +8,7 @@ android related stuff
 ### ➼ [Link (App/Deep/Dynamic/Universal) 🔗](Link)
 ### ➼ [Names-Version 📚](Names-Version)
 ### ➼ [Push Notification 🔔](Push-Notification)
+### ➼ [Referral 🤝](Referral)
 ### ➼ [Security 🔒](Security)
 
 
