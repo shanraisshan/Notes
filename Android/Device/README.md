@@ -1,17 +1,27 @@
 # Android Device
 android devices information
 
-|Name|Device|OS|Display [dp]|Code [dp]|Density|Ratio|Type|
+dpi|px|dp
+:-:|:-:|:-:
+xxx | 1440 x 2560|360 x 640
+ xx | 1080 x 1920|360 x 640
+  x | 720 x 1280 |360 x 640
+  h | 540 x 960  |360 x 640
+  m | 360 x 640  |360 x 640
+  l | 270 x 480  |360 x 640
+
+|Name|Device|OS|px|dp|Density|Ratio|Type|
 |:---:|:---: |:---:|:---:|:---:|:---:|:---:|:---:|
-|Shayan|Nexus 5X|8.1.0 (27)|1080x1920 [360x640]|1080x1794 [360x598]|~423 ppi|16:9|Actual
-|Mom|Huawei Y6p|10 (29)|720x1600 [360x800]|720x1470 [360x735]|~278 ppi|20:9|Long
-|Dad|Samsung Galaxy J5|5.1.1 (22)|720x1280 [360x640]||~294 ppi|16:9|Actual
+|Shayan|Redmi Note 11|8.1.0 (27)|1080x2400|360x800|~409 ppi|20:9|Long
+|Mom|Huawei Y6p|10 (29)|720x1600|360x800|~278 ppi|20:9|Long
+|Dad|Nexus 5X|8.1.0 (27)|1080x1920|360x640|~423 ppi|16:9|Actual
+|Extra|Samsung Galaxy J5|5.1.1 (22)|720x1280|360x640|~294 ppi|16:9|Actual
 |Bro|
 
 ### QA Devices
-|Name|Device|OS|Display [dp]|Code [dp]|Density|Ratio|Type|
+|Name|Device|OS|px|dp|Density|Ratio|Type|
 |:---:|:---: |:---:|:---:|:---:|:---:|:---:|:---:|
-|Shayan|Google Pixel 3|12 (31)|1080x2160 [360x720]|1080x2028 [360x676]|~443 ppi|18:9|Long
+|Shayan|Google Pixel 3|12 (31)|1080x2160|360x720|~443 ppi|18:9|Long
 |Danish|
 
 ### References
