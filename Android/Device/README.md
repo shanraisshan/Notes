@@ -24,6 +24,3 @@ xxx | 1440 x 2560|360 x 640|16 : 9
 |:---:|:---: |:---:|:---:|:---:|:---:|:---:|:---:|
 |Shayan|Google Pixel 3|12 (31)|1080x2160|360x720|~443 ppi|18:9|Long
 |Danish|
-
-### References
-px2dp: http://labs.rampinteractive.co.uk/android_dp_px_calculator/
