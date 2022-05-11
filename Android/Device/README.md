@@ -10,6 +10,7 @@ xxx | 1440 x 2560|360 x 640|16 : 9
   m | 360 x 640  |360 x 640|16 : 9
   l | 270 x 480  |360 x 640|16 : 9
 
+### Home Devices
 |Name|Device|OS|px|dp|Density|Ratio|Type|
 |:---:|:---: |:---:|:---:|:---:|:---:|:---:|:---:|
 |Shayan|Redmi Note 11|8.1.0 (27)|1080x2400|360x800|~409 ppi|20:9|Long
