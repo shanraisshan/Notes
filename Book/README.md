@@ -9,4 +9,5 @@
 |Object oriented programming in C++|Robert Lafore|-|NED University|
 |The Complete Reference: C++|Herbert Schildt|-|NED University|
 |Object oriented programming with C++|David Parsons|-|NED University|
+|C++ How to program|Deitel and Deitel|-|NED University|
 
