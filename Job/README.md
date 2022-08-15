@@ -1,5 +1,5 @@
 # Job
 
-### ➼ [Company 🏢](/Company)
-### ➼ [Interview 👨‍💻](/Interview)
+### ➼ [Company 🏢](Company)
+### ➼ [Interview 👨‍💻](Interview)
 
