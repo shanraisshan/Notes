@@ -1,4 +1,4 @@
 # Academic
 certificications, courses
 
-### ➼ [Certification 📜](/Certification)
+### ➼ [Certification 📜](Certification)
