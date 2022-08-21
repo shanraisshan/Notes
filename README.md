@@ -7,4 +7,5 @@ i like writing and saving things that are useful, some of the content that is he
 ### ➼ [Design 🎨](/Design)
 ### ➼ [Job 💼](/Job)
 ### ➼ [Operating System 💻](/OperatingSystem)
+### ➼ [Profile 👤](/Profile)
 ### ➼ [Security 🔒](/Security)
