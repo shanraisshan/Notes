@@ -2,6 +2,7 @@
 android related stuff
 
 ### ➼ [Analytics 📈](Analytics)
+### ➼ [Architecture 🧱](Architecture)
 ### ➼ [Data 📊](Data)
 ### ➼ [Design 🎨](Design)
 ### ➼ [Device 📱](Device)
