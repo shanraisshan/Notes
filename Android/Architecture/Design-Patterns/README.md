@@ -5,7 +5,7 @@ solid, dry, kiss, ioc, antipatterns
 # DEPENDENCY INJECTION
 
 ```
-do not create hardcode engine object inside a car, instead pass all dependencies as parameters
+do not create hardcode 'Engine' object inside a 'Car', instead pass all dependencies ('Engine') as parameters
 ```
 
 How to explain dependency injection to a 5-year-old?
