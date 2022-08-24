@@ -21,3 +21,4 @@ https://stackoverflow.com/q/1638919/4754141
 #### Why Dependency Injection?
 
  https://youtu.be/DtzQkBp2M5M?list=PLRKyZvuMYSIPwjYw1bt_7u7nEwe6vATQd&t=146
+![why-dependency-injection](https://github.com/shanraisshan/Notes/blob/main/Android/Architecture/Design-Patterns/!/why-dependency-injection.png)
