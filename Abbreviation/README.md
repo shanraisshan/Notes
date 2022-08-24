@@ -16,9 +16,9 @@ SOLID|Single-R-P / Open-C-P / Liskov-S-P / Interface-S-P / Dependency-I-P |
 TDD|Test Driven Development|
 YAGNI|You Aren’t Gonna Need It|
 
-# TERMINOLGY
+# TERMINOLOGY
 
-Terminolgy|Defination
+Terminology|Defination
 :-:|:-:
 Boilerplate|Verbose - expressed in more words than are needed
 Code review|
