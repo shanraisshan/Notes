@@ -4,7 +4,7 @@
 https://github.com/jwasham/coding-interview-university
 
 
-### Certificates
+# CERTIFICATE
 Company|Name|Link
 :-:|:-:|:-:
 LinkedIn|Skill Assessment| https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes
