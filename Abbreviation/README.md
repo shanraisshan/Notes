@@ -21,4 +21,17 @@ YAGNI|You Aren’t Gonna Need It|
 Terminolgy|Defination
 :-:|:-:
 Boilerplate|Verbose - expressed in more words than are needed
+Code review|
+Code smell|
+Decomposition|
+Design smell|
+Modular programming|
+Obfuscated code|
+Peer review|
+Prefactoring|
+Refactoring|
+Separation of concerns|
+
+
+
 
