@@ -1,9 +1,11 @@
 # Push Notification
 push related stuff
 
-## Vendors kill app
+## Not receiving push?
 
-https://dontkillmyapp.com/
+Vendors kill app -> https://dontkillmyapp.com/
+
+One Signal -> https://documentation.onesignal.com/docs/notifications-show-successful-but-are-not-being-shown
 
 ## Platforms
 1. [Firebase Cloud Messaging (FCM)](Firebase)
