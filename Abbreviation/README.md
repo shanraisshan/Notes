@@ -1,4 +1,6 @@
-# Abbreviation
+# Abbreviation (Terminology)
+
+# ABBREVIATION
 
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
@@ -11,6 +13,12 @@ IoC|Inversion of Control|
 KISS|Keep it simple! Stupid|
 SLAP|Single Layer of abstraction principle|
 SOLID|Single-R-P / Open-C-P / Liskov-S-P / Interface-S-P / Dependency-I-P |
+TDD|Test Driven Development|
 YAGNI|You Aren’t Gonna Need It|
 
+# TERMINOLGY
+
+Terminolgy|Defination
+:-:|:-:
+Boilerplate|Verbose - expressed in more words than are needed
 
