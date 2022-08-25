@@ -8,6 +8,7 @@ i like writing and saving things that are useful, some of the content that is he
 ### ➼ [Database 📊](/Database)
 ### ➼ [Design 🎨](/Design)
 ### ➼ [Job 💼](/Job)
+### ➼ [Language 🗣️](/Language)
 ### ➼ [Operating System 💻](/OperatingSystem)
 ### ➼ [Profile 👤](/Profile)
 ### ➼ [Security 🔒](/Security)
