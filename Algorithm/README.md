@@ -1,5 +1,8 @@
 # Algorithm
 
+# STRING
+https://www.hackerrank.com/challenges/time-conversion/problem
+
 # IMPLEMENTATION
 
 1- LinkedList
