@@ -1,13 +1,19 @@
 # Algorithm
 
-# CHEAT SHEET
+# IMPLEMENTATION
 
-## Java
+1- LinkedList
+2- HashMap
 
-### Array
-```
-int[] array = new int[10]; //declare
-int[] array = new int[]{13, 14, 15}; //delare & initialize
-int array[] = {13, 14, 15}; //(this syntax was only added to help C devs get used to java)
-String[] array = new String[]{"zelda", "link", "ganon"}; //string
-```
+# RECURSION
+
+# SEARCH
+
+# SORT
+
+# LOGIC
+
+1- Binary
+2- Primary
+3- Palindrome
+4- Pyramid
