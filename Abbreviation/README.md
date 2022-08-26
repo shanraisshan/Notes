@@ -27,7 +27,8 @@ Decomposition|
 Design smell|
 Modular programming|
 Obfuscated code|
-Peer review|
+Pair Programming|agile software development technique in which two programmers work together at one workstation
+Peer review|evaluation of work by one or more people with similar competencies as the producers of the work (peers)
 Prefactoring|
 Refactoring|
 Separation of concerns|
