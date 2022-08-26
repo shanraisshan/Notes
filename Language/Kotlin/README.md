@@ -1,6 +1,6 @@
 # Kotlin
 
-# STRING
+# [STRING](https://pl.kotl.in/r9QQ840Oc)
 ```kotlin
 var name1: String = "abcdef"
 var name2: String = "abcdyz"
@@ -13,7 +13,7 @@ name1 = name1.substring(0,2).plus(name1.substring(3)) //remove character at inde
 println(name1) //abdef
 ```
 
-# LOOP
+# [LOOP](https://pl.kotl.in/lB3HSRU4v)
 ```kotlin
 val items = listOf(1,3,8,5,4) //items = ArrayList<Int>(); items.add(1)
 for (item in items) {
