@@ -1,5 +1,18 @@
 # Kotlin
 
+# STRING
+```kotlin
+var name1: String = "abcdef"
+var name2: String = "abcdyz"
+for(i in 0 until name1.length) { //length
+    if(name1.get(i) == name2.get(i)) //get(i)
+        println("logs-> true ${name1.get(i)} + ${name2.get(i)}") //true a + a
+}
+println(name1.substring(2,3)) //c -> substring(startIndex, endIndex(not included))
+name1 = name1.substring(0,2).plus(name1.substring(3)) //remove character at index
+println(name1) //abdef
+```
+
 # LOOP
 ```kotlin
 val items = listOf(1,3,8,5,4) //items = ArrayList<Int>(); items.add(1)
