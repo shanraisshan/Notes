@@ -10,3 +10,4 @@ sample profiles on different platforms with unique ideas
 ||https://github.com/muhammadawaisshaikh|-
 |-|https://github.com/wajahatkarim3|-
 |-|https://github.com/Kashif-E|-
+|-|https://github.com/skydoves|Android Roadmap 2022
