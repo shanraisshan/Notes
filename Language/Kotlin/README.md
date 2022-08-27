@@ -27,6 +27,24 @@ for (index in 0 until items.size) {
 }
 ```
 
+### issue in kotlin
+i++ in for loop -> val cannot be reassigned [Solution](https://pl.kotl.in/crSb2A5oU)
+
+```kotlin
+var n = 5
+for (i in 0 until n) {
+    println("log->loop (for) $i/$n")
+    i++ //todo comment out this to run
+}
+
+//use while loop instead
+var i = 0
+while (i <= n) {
+    println("log->loop (while) $i/$n")
+    i+=2
+}
+```
+
 # LIST | SET | MAP
 
 https://www.geeksforgeeks.org/difference-between-list-set-and-map-in-java/
