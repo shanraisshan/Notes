@@ -23,8 +23,8 @@ result = 40
 
 ### Increase from 100 to 140, find % increase.
 ```
-140-100 = 40          ➼ [incr-actual = diff]
-(40/100)x100 = 40%    ➼ [diff/actual) x 100 = incr%]
+140-100 = 40          ■ [incr-actual = diff]
+(40/100)x100 = 40%    ■ [diff/actual) x 100 = incr%]
 ```
 
 # FORMULAS
