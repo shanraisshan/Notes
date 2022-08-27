@@ -28,3 +28,9 @@ result = 40
 ```
 
 # FORMULAS
+
+### Distance between 2 points
+
+```
+sqrt((x2-x1)*(x2-x1) + (y2-y1)*(y2-y1))
+```	
