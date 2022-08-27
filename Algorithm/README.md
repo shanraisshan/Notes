@@ -8,6 +8,8 @@ https://www.hackerrank.com/challenges/time-conversion/problem
 1. LinkedList
 2. HashMap
 3. Stack
+4. Singelton class
+5. Custom class override equals and hashCode
 
 # RECURSION
 
