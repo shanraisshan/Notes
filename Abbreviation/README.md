@@ -8,6 +8,7 @@ DbC|Design by contract|
 DIE|Duplication is evil|
 DIP|Dependency inversion principle|
 DRY|Don't repeat yourself|
+ER model|Entity relationship model|
 GRASP|General responsibility assignment software patterns|
 IoC|Inversion of control| 
 KISS|Keep it simple! Stupid|
