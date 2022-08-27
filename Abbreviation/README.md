@@ -5,16 +5,20 @@
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 DbC|Design by contract|
-DIE|Duplication is Evil|
-DIP|Dependency Inversion Principle|
-DRY|Don't Repeat Yourself|
+DIE|Duplication is evil|
+DIP|Dependency inversion principle|
+DRY|Don't repeat yourself|
 GRASP|General responsibility assignment software patterns|
-IoC|Inversion of Control| 
+IoC|Inversion of control| 
 KISS|Keep it simple! Stupid|
-SLAP|Single Layer of abstraction principle|
+OOAD|Object oriented analysis and design|
+OOD|Object oriented design
+OOP|Object oriented programming|
+SLAP|Single layer of abstraction principle|
 SOLID|Single-R-P / Open-C-P / Liskov-S-P / Interface-S-P / Dependency-I-P |
-TDD|Test Driven Development|
-YAGNI|You Aren’t Gonna Need It|
+TDD|Test driven development|
+UML|Unified modeling language|
+YAGNI|You aren’t gonna need it|
 
 # TERMINOLOGY
 
