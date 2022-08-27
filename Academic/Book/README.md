@@ -18,6 +18,7 @@ a room without books is like a body without a soul
 |Name|Author|Edition|Source|
 |:-:|:-:|:-:|:-:|
 |Effective Java|Joshua Bloch|2(2008)|Professional
+|Head First Java|Bert Bates and Kathy Sierra|2(2003)|Professional
 
 # AUTHOR
 Name|Desc
