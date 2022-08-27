@@ -23,3 +23,8 @@ https://www.hackerrank.com/challenges/time-conversion/problem
 4. Primary
 5. Palindrome
 6. Pyramid
+
+### Modulus Operator % [grading round-off problem](https://pl.kotl.in/E9BqWmJLJ)
+```
+ 8 % 3 evaluates to 2 because 8 divided by 3 has a remainder of 2
+```
