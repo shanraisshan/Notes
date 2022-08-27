@@ -1,7 +1,7 @@
 # Profile
 sample profiles on different platforms with unique ideas
 
-## Github 
+# GITHUB 
 
 |Name|Link|Unique
 |:-:|:-:|:-:
@@ -11,3 +11,10 @@ sample profiles on different platforms with unique ideas
 |-|https://github.com/wajahatkarim3|-
 |-|https://github.com/Kashif-E|-
 |-|https://github.com/skydoves|Android Roadmap 2022
+
+
+# LINKEDIN
+
+|Name|Link|Unique
+|:-:|:-:|:-:
+|Deepak Kumar|https://www.linkedin.com/in/dee-android/|Animated slides of android concepts
