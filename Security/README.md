@@ -1,2 +1,2 @@
 # Security
-security security 
+Obfuscation, SSL Pinning, OAuth2
