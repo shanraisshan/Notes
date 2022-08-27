@@ -157,6 +157,8 @@ linkedHashTreeMap["key2"] = 3
 
 # Of
 ```kotlin
+arrayOf(1,2,3)
+intArrayOf(1,2,3)
 listOf(1,2,3)
 arrayListOf(1,2,3)
 setOf(1,2,3)
