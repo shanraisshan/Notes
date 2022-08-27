@@ -2,6 +2,8 @@
 
 # ABBREVIATION
 
+## Software
+
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 DbC|Design by contract|
@@ -20,6 +22,26 @@ SOLID|Single-R-P / Open-C-P / Liskov-S-P / Interface-S-P / Dependency-I-P |
 TDD|Test driven development|
 UML|Unified modeling language|
 YAGNI|You aren’t gonna need it|
+
+## Management
+Abbreviation|Full Form|Desc
+:-:|:-:|:-:
+CRM|Customer Relationship Management|
+EHS|Environment, Health & Safety|
+EP|Enterprise Portal|
+ERP|Enterprise Resource Planning|
+HCM|Human Capital Management|
+HR|Human Resources|
+LES|Logistics Execution System|
+MIS|Management Information System|
+PLM|Product Lifecycle Management|
+PP|Production Planning|
+SAP|Systems, Applications & Products|
+SCM|System Capital Management|
+SCM|Supply chain management|x2
+SD|Sales and Distribution|
+SRM|Supplier Relationship Management|
+WMS|Warehouse management system|
 
 # TERMINOLOGY
 
