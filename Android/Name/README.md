@@ -1,7 +1,7 @@
-# Android Names Version
-android names, versions related stuff
+# Name (Version)
+names, versions related stuff
 
-## Android 
+# ANDROID OS
 
 https://source.android.com/setup/start/build-numbers
 
@@ -40,7 +40,7 @@ https://source.android.com/setup/start/build-numbers
 |(no codename)|	1.1|	API level 2|Petit Four
 |(no codename)|	1.0|	API level 1|-
 
-## Android Studio
+# ANDROID STUDIO
 
 We are also giving each major release a version name, incrementing from A to Z based on animal names.
 https://developer.android.com/studio/releases
@@ -55,7 +55,7 @@ https://developer.android.com/studio/releases
 | 4.0  | May 20  |
 | 3.6  | Feb 20  |
 
-## Mac OS X / OS X / macOS
+# Mac OS X / OS X / macOS
 
 https://en.wikipedia.org/wiki/MacOS_version_history
 
