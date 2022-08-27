@@ -45,6 +45,33 @@ while (i <= n) {
 }
 ```
 
+# [ARRAY](https://pl.kotl.in/DNMLuXzLz)
+```kotlin
+val array1 = arrayOf(1,3,8) //decalre + initialize
+for (i in 0 until array1.size) {
+    println("log->array1 " + array1[i])//[1, 3, 8]
+}
+
+
+val array2: IntArray = IntArray(3) //declare only with size
+//array2[0]=1
+array2[1]=3
+array2[2]=8
+for (i in 0 until array2.size) {
+    println("log->array2 " + array2[i])//[0, 3, 8]
+}
+
+//Array<Int> is an Integer[] (object) under the hood, while IntArray is an int[] (primitive)
+
+val array3 = Array(3) {0}
+//array3[0]=1
+array3[1]=3
+array3[2]=8
+for (i in 0 until array3.size) {
+    println("log->array3 " + array3[i])//[0, 3, 8]
+}
+```
+
 # LIST | SET | MAP
 
 https://www.geeksforgeeks.org/difference-between-list-set-and-map-in-java/
