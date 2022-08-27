@@ -30,7 +30,7 @@ result = 40
 # FORMULAS
 
 ### Distance between 2 points
-
+![formula-distance-2-points](https://github.com/shanraisshan/Notes/blob/main/Math/!/formula-distance-2-points.png)
 ```
 sqrt((x2-x1)*(x2-x1) + (y2-y1)*(y2-y1))
 ```	
