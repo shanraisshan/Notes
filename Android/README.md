@@ -1,7 +1,7 @@
 # Android
 android related stuff
 
-### ➼ [A/B Testing 🆎](AB-Testing)
+### ➼ [A/B Testing 🆎](AB)
 ### ➼ [Analytics 📈](Analytics)
 ### ➼ [Architecture 🧱](Architecture)
 ### ➼ [Data 📊](Data)
@@ -9,7 +9,7 @@ android related stuff
 ### ➼ [Device 📱](Device)
 ### ➼ [Link (+App,Deep,Dynamic,Universal) 🔗](Link)
 ### ➼ [Name (+Version) 📚](Name)
-### ➼ [Push Notification 🔔](Push-Notification)
+### ➼ [Push Notification 🔔](Push)
 ### ➼ [Referral 🤝](Referral)
 ### ➼ [Security 🔒](Security)
 ### ➼ [Tutorial ✒️](Tutorial)
