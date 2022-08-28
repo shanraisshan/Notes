@@ -31,7 +31,8 @@ result = 40
 distance formula, way point, mid point formula, haversine formula
 
 ### Distance between 2 points
-![formula-distance-2-points](https://github.com/shanraisshan/Notes/blob/main/Math/!/formula-distance-2-points.png)
+![](https://github.com/shanraisshan/Notes/blob/main/Math/!/distance-1.png)
 ```
 sqrt((x2-x1)*(x2-x1) + (y2-y1)*(y2-y1))
-```	
+```
+![](https://github.com/shanraisshan/Notes/blob/main/Math/!/distance-2.png)	
