@@ -13,17 +13,23 @@ name1 = name1.substring(0,2).plus(name1.substring(3)) //remove character at inde
 println(name1) //abdef
 ```
 
-# [LOOP](https://pl.kotl.in/lB3HSRU4v)
+# [LOOP](https://pl.kotl.in/X330G78pm)
 ```kotlin
 val items = listOf(1,3,8,5,4) //items = ArrayList<Int>(); items.add(1)
 for (item in items) {
     println("log->loop1 $item")
 }
 for (index in items.indices) {
-    println("log->loop2 item at $index is ${items[index]}")
+    println("log->loop2 item at $index : ${items[index]}")
 }
 for (index in 0 until items.size) {
-    println("log->loop3 item at $index is ${items[index]}")
+    println("log->loop3 item at $index : ${items[index]}")
+}
+for (index in 6 downTo 0 step 2) {
+    println("log->loop4 - range1 : $index") //6,4,2,0
+}
+for (index in 1..3) {
+    println("log->loop5 - range2 : $index") //1,2,3
 }
 ```
 
@@ -43,6 +49,14 @@ while (i <= n) {
     println("log->loop (while) $i/$n")
     i+=2
 }
+
+//do while loop -> factorial
+var number = 6; var factorial = 1
+do {
+    factorial *= number
+    number--
+} while(number > 0)
+println("Factorial of 6 is $factorial")
 ```
 
 # [ARRAY](https://pl.kotl.in/DNMLuXzLz)
