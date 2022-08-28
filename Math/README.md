@@ -35,4 +35,5 @@ distance formula, way point, mid point formula, haversine formula
 ```
 sqrt((x2-x1)*(x2-x1) + (y2-y1)*(y2-y1))
 ```
+
 ![](https://github.com/shanraisshan/Notes/blob/main/Math/!/distance-2.png)	
