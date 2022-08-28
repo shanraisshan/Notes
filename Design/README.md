@@ -1,2 +1,2 @@
 # Design
-daily design things
+zeplin, figma
