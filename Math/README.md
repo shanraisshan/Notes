@@ -26,14 +26,13 @@ result = 40
 140-100 = 40          ■ [incr-actual = diff]
 (40/100)x100 = 40%    ■ [diff/actual) x 100 = incr%]
 ```
-
 # DISTANCE
 distance formula, way point, mid point formula, haversine formula
 
 ### Distance between 2 points
-![](https://github.com/shanraisshan/Notes/blob/main/Math/!/distance-1.PNG)
+![](https://github.com/shanraisshan/Notes/blob/main/Math/!/distance-1.png)
 ```
 sqrt((x2-x1)*(x2-x1) + (y2-y1)*(y2-y1))
 ```
 
-![](https://github.com/shanraisshan/Notes/blob/main/Math/!/distance-2.png)	
+![](https://github.com/shanraisshan/Notes/blob/main/Math/!/distance-2.PNG)	
