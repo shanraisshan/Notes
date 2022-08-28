@@ -23,6 +23,16 @@ TDD|Test driven development|
 UML|Unified modeling language|
 YAGNI|You aren’t gonna need it|
 
+## Networking
+Abbreviation|Full Form|Desc
+:-:|:-:|:-:
+FTP|File Transfer Protocol|
+IP|Internet Protocol|
+HTTP|Hypertext Transfer Protocol|
+SMTP|Simple Mail Transfer Protocol|
+TCP|Transmission Control Protocol|
+UDP|User Datagram Protocol|
+
 ## Management
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
@@ -61,5 +71,11 @@ Refactoring|
 Separation of concerns|
 
 
+# QUOTES
+
+Quotes|Description
+:-:|:-:
+Don't call us, we'll call you|Hollywood Principle
+Fire and forget|UDP, async
 
 
