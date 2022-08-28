@@ -1,5 +1,22 @@
 # Kotlin
 
+# [INPUT](https://ideone.com/V4txKj)
+```kotlin
+import java.util.*
+fun main(args: Array<String>) {
+    //method 1
+    val xInteger = readLine() //007
+    val yString = readLine() //kotlin
+    println(xInteger + yString) //007kotlin
+ 
+    //method 2
+    val sc = Scanner(System.`in`)
+    val a = sc.nextInt() //2
+    val b = sc.nextInt() //3
+    println(a + b) //5
+}
+```
+
 # [STRING](https://pl.kotl.in/r9QQ840Oc)
 ```kotlin
 var name1: String = "abcdef"
