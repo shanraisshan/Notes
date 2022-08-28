@@ -26,7 +26,25 @@ https://github.com/daolq3012/Kotlin-Algorithms
 5. Palindrome
 6. Pyramid
 
-### Modulus Operator % [grading round-off problem](https://pl.kotl.in/E9BqWmJLJ)
+### [Factorial](https://pl.kotl.in/wQATBU-j2)
+```kotlin
+//for (requires 3 variables)
+var number = 5; var fact = 1
+for(i in number downTo 1) {
+    fact *= i
+}
+println("Factorial of $number is $fact")
+
+//do-while (does not need 3rd variable)
+var _number = 5; var _fact = 1
+do {
+    _fact *= _number
+    _number--
+} while(_number > 0)
+println("Factorial of 5 is $_fact")
 ```
+
+### Modulus Operator % [grading round-off problem](https://pl.kotl.in/E9BqWmJLJ)
+```kotlin
  8 % 3 evaluates to 2 because 8 divided by 3 has a remainder of 2
 ```
