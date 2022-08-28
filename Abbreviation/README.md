@@ -26,7 +26,7 @@ SLAP|Single Layer of Abstraction Principle|
 SOLID|Single-R-P / Open-C-P / Liskov-S-P / Interface-S-P / Dependency-I-P |
 SQL|Structured Query Language|
 TDD|Test Driven Development|
-UML|Unified Modeling Language|Extensible Messaging and Presence Protocol|
+UML|Unified Modeling Language|
 XML|Extensible Markup Language|
 YAGNI|You Aren’t Gonna Need It|
 
@@ -41,7 +41,7 @@ REST|Representational state transfer|
 SMTP|Simple Mail Transfer Protocol|
 TCP|Transmission Control Protocol|
 UDP|User Datagram Protocol|
-XMPP|
+XMPP|Extensible Messaging and Presence Protocol|
 
 ## Management
 Abbreviation|Full Form|Desc
@@ -58,7 +58,7 @@ PLM|Product Lifecycle Management|
 PP|Production Planning|
 SAP|Systems, Applications & Products|
 SCM|System Capital Management|
-SCM|Supply chain management|x2
+SCM|Supply Chain management|x2
 SD|Sales and Distribution|
 SRM|Supplier Relationship Management|
 WMS|Warehouse management system|
