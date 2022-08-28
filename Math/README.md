@@ -27,7 +27,8 @@ result = 40
 (40/100)x100 = 40%    ■ [diff/actual) x 100 = incr%]
 ```
 
-# FORMULAS
+# DISTANCE
+distance formula, way point, mid point formula, haversine formula
 
 ### Distance between 2 points
 ![formula-distance-2-points](https://github.com/shanraisshan/Notes/blob/main/Math/!/formula-distance-2-points.png)
