@@ -17,6 +17,7 @@ KISS|Keep it simple! Stupid|
 OOAD|Object oriented analysis and design|
 OOD|Object oriented design
 OOP|Object oriented programming|
+PR|Pull Request|
 SLAP|Single layer of abstraction principle|
 SOLID|Single-R-P / Open-C-P / Liskov-S-P / Interface-S-P / Dependency-I-P |
 TDD|Test driven development|
@@ -62,6 +63,8 @@ Code review|
 Code smell|
 Decomposition|
 Design smell|
+Firmware|permanent software programmed into a ROM (OS in mobile)
+Idempotent|executing it multiple times is equivalent to executing it once (state unchange [put, delete]) (result is same, response may vary)
 Modular programming|
 Obfuscated code|
 Pair Programming|agile software development technique in which two programmers work together at one workstation
