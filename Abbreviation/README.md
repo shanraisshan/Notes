@@ -26,7 +26,8 @@ SLAP|Single Layer of Abstraction Principle|
 SOLID|Single-R-P / Open-C-P / Liskov-S-P / Interface-S-P / Dependency-I-P |
 SQL|Structured Query Language|
 TDD|Test Driven Development|
-UML|Unified Modeling Language|
+UML|Unified Modeling Language|Extensible Messaging and Presence Protocol|
+XML|Extensible Markup Language|
 YAGNI|You Aren’t Gonna Need It|
 
 ## Network
@@ -40,6 +41,7 @@ REST|Representational state transfer|
 SMTP|Simple Mail Transfer Protocol|
 TCP|Transmission Control Protocol|
 UDP|User Datagram Protocol|
+XMPP|
 
 ## Management
 Abbreviation|Full Form|Desc
