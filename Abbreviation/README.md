@@ -2,37 +2,59 @@
 
 # ABBREVIATION
 
-## Software
-
+## Android
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
-API|Application Programming Interface|
-CRUD|Create Read Update Delete|
-DAO|Data Access Object|
+AAPT|Android Asset Packaging Tool|
+ADB|Android Debug Bridge|
+ADT|Android Development Tools|
+AIDL|Android Interface Definition Language|
+ANR|Application Not Responding|
+.apk|Android Application Package (Android Package)|
+AVD|Android Virtual Devices|
+DDMS|Dalvik Debug Monitoring Service|
+.dex|Dalvik Executable|
+DVM|Dalvik Virtual Machine|
+JVM|Java Virtual Machine|
+
+## Architecture
+Abbreviation|Full Form|Desc
+:-:|:-:|:-:
 DbC|Design by Contract|
 DIE|Duplication Is Evil|
 DIP|Dependency Inversion Principle|
 DRY|Don't Repeat Yourself|
-ER model|Entity Relationship Model|
 GRASP|General Responsibility Assignment Software Patterns|
 IoC|Inversion of Control| 
 KISS|Keep It Simple! Stupid|
 OOAD|Object Oriented Analysis and Design|
 OOD|Object Oriented Design
 OOP|Object Oriented Programming|
-PR|Pull Request|
-SDK|Software Development Kit|
 SLAP|Single Layer of Abstraction Principle|
 SOLID|Single-R-P / Open-C-P / Liskov-S-P / Interface-S-P / Dependency-I-P |
-SQL|Structured Query Language|
 TDD|Test Driven Development|
 UML|Unified Modeling Language|
-XML|Extensible Markup Language|
 YAGNI|You Aren’t Gonna Need It|
+
+## Database
+Abbreviation|Full Form|Desc
+:-:|:-:|:-:
+CRUD|Create Read Update Delete|
+DAO|Data Access Object|
+ER model|Entity Relationship Model|
+SQL|Structured Query Language|
+
+## General
+Abbreviation|Full Form|Desc
+:-:|:-:|:-:
+PR|Pull Request|
+SDK|Software Development Kit|
+XML|Extensible Markup Language|
 
 ## Network
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
+API|Application Programming Interface|
 FTP|File Transfer Protocol|
 IP|Internet Protocol|
 HTTP|Hypertext Transfer Protocol|
