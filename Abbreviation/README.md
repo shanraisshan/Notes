@@ -6,30 +6,37 @@
 
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
-DbC|Design by contract|
-DIE|Duplication is evil|
-DIP|Dependency inversion principle|
-DRY|Don't repeat yourself|
-ER model|Entity relationship model|
-GRASP|General responsibility assignment software patterns|
-IoC|Inversion of control| 
-KISS|Keep it simple! Stupid|
-OOAD|Object oriented analysis and design|
-OOD|Object oriented design
-OOP|Object oriented programming|
+API|Application Programming Interface|
+CRUD|Create Read Update Delete|
+DAO|Data Access Object|
+DbC|Design by Contract|
+DIE|Duplication Is Evil|
+DIP|Dependency Inversion Principle|
+DRY|Don't Repeat Yourself|
+ER model|Entity Relationship Model|
+GRASP|General Responsibility Assignment Software Patterns|
+IoC|Inversion of Control| 
+KISS|Keep It Simple! Stupid|
+OOAD|Object Oriented Analysis and Design|
+OOD|Object Oriented Design
+OOP|Object Oriented Programming|
 PR|Pull Request|
-SLAP|Single layer of abstraction principle|
+SDK|Software Development Kit|
+SLAP|Single Layer of Abstraction Principle|
 SOLID|Single-R-P / Open-C-P / Liskov-S-P / Interface-S-P / Dependency-I-P |
-TDD|Test driven development|
-UML|Unified modeling language|
-YAGNI|You aren’t gonna need it|
+SQL|Structured Query Language|
+TDD|Test Driven Development|
+UML|Unified Modeling Language|
+YAGNI|You Aren’t Gonna Need It|
 
-## Networking
+## Network
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 FTP|File Transfer Protocol|
 IP|Internet Protocol|
 HTTP|Hypertext Transfer Protocol|
+JSON|JavaScript Object Notation|
+REST|Representational state transfer|
 SMTP|Simple Mail Transfer Protocol|
 TCP|Transmission Control Protocol|
 UDP|User Datagram Protocol|
