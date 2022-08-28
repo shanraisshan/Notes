@@ -13,6 +13,7 @@ i like writing and saving things that are useful, some of the content that is he
 ### ➼ [Language 🗣️](/Language)
 ### ➼ [Math 🔢](/Math)
 ### ➼ [Operating System 💻](/Operating)
+### ➼ [Other ⛔](/Other)
 ### ➼ [Profile 👤](/Profile)
 ### ➼ [Security 🔒](/Security)
 ### ➼ [Software Engineering (+System Deign) 👷🏻](/Software)
