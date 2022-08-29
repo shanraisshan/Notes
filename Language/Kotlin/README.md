@@ -153,7 +153,7 @@ val treeSet = sortedSetOf(1,3,8,5,4) //not treeSetOf(1,3,8,5,4)
 println("log->treeSet $treeSet") //[1, 3, 4, 5, 8]
 ```
 
-# MAP
+# [MAP](https://pl.kotl.in/ANkK4gRcz)
 ```kotlin
 //-> random insertion order
 //kotlin.collections
