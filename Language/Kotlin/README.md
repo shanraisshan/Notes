@@ -199,3 +199,24 @@ mapOf(1,2,3)
 hashMapOf(1,2,3)
 linkedMapOf(1,2,3)
 ```
+
+# HASHMAP | JSONOBJECT
+
+HashMap|JsonObject
+:-:|:-:
+-|JSONObject is backed by a HashMap
+{one=1, two=2}|{"one":1,"two":2}
+
+```kotlin
+val hashMap = HashMap<String, Int>()
+hashMap.put("one",1)
+hashMap.put("two",2)
+hashMap.put("three",3)
+println("log->hashMap $hashMap") //{one=1, two=2, three=3}
+
+val jsonObject = JSONObject()
+jsonObject.put("one",1)
+jsonObject.put("two",2)
+jsonObject.put("three",3)
+println("log->jsonObject $jsonObject") //{"one":1,"two":2,"three":3}
+```
