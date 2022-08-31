@@ -27,7 +27,10 @@ a room without books is like a body without a soul
 |[Shape Up](https://basecamp.com/shapeup/shape-up.pdf)|Ryan Singer|Basecamp|By U.A.K
 
 # AUTHOR
-Name|Desc
-:-:|:-:
-Robert C. Martin|Uncle Bob ■ SOLID ■ 1/17 Manifesto for Agile Software Development ■ software engineer, instructor, best-selling author
-Martin Fowler| OOAD, UML ■ 1/17 Manifesto for Agile Software Development ■ software developer, author and international public speaker
+Name|Subject|Desc
+:-:|:-:|:-:
+Joshua Bloch|Java|implementation of java collections framework, java.math package, assert mechanism ■ technology author, formerly employed at Sun Microsystems & Google
+Robert C. Martin|Architecture|Uncle Bob ■ SOLID ■ 1/17 Manifesto for Agile Software Development ■ software engineer, instructor, best-selling author
+Martin Fowler|Architecture|OOAD, UML ■ 1/17 Manifesto for Agile Software Development ■ software developer, author and international public speaker
+Dennis Ritchie|C|inventor of C programming language, co-developer of Unix
+Mark Murphy|Android|commonsguy ■ founder of CommonsWare ■ author of the Busy Coder's Guide to Android Development
