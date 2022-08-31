@@ -20,6 +20,12 @@ a room without books is like a body without a soul
 |Effective Java|Joshua Bloch|2(2008)|Professional
 |Head First Java|Bert Bates and Kathy Sierra|2(2003)|Professional
 
+## Project Management
+
+|Name|Author|Edition|Source|
+|:-:|:-:|:-:|:-:|
+|[Shape Up](https://basecamp.com/shapeup/shape-up.pdf)|Ryan Singer|Basecamp|By U.A.K
+
 # AUTHOR
 Name|Desc
 :-:|:-:
