@@ -85,6 +85,29 @@ SD|Sales and Distribution|
 SRM|Supplier Relationship Management|
 WMS|Warehouse management system|
 
+## Project/Product
+Abbreviation|Full Form|Desc
+:-:|:-:|:-:
+AC|Actual Cost|
+CSAT|Customer Satisfaction|
+CES|Customer Experience Service|
+GMV|Gross Merchandise Value|
+JIT|Just In Time|
+JIC|Just In Case|
+KPI|Key Performance Indicator|
+LTV|Lifetime Value|
+NPS|Net Promoter Score|
+OKR|Objectives and Key Results|
+PM|Project Manager/Project Management|
+PMO|Project Management Office|
+PMP|Project Management Professional|
+QA|Quality Assurance|
+QC|Quality Control|
+QCD|Quality, Cost, Delivery|
+QFD|Quality Function Deployment|
+QP|Quality Planning|
+ROI|Return on Investment|
+
 # TERMINOLOGY
 
 Terminology|Defination
