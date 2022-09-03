@@ -115,6 +115,7 @@ Terminology|Defination
 Boilerplate|Verbose - expressed in more words than are needed
 Code review|
 Code smell|
+Debounce|
 Decomposition|
 Design smell|
 Firmware|permanent software programmed into a ROM (OS in mobile)
@@ -126,6 +127,7 @@ Peer review|evaluation of work by one or more people with similar competencies a
 Prefactoring|
 Refactoring|
 Separation of concerns|
+Throttle|
 
 
 # QUOTES
