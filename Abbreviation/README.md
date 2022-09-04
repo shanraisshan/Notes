@@ -115,6 +115,7 @@ Terminology|Defination
 Boilerplate|Verbose - expressed in more words than are needed
 Code review|
 Code smell|
+Day of the Programmer|256th (hexadecimal 100th, or the 2^8) day of each year (Sep-13 normal / Sep-12 in leap years) ■ In China, October 24 (1024) = 2^10 (Ki binary prefix)
 Debounce|
 Decomposition|
 Design smell|
