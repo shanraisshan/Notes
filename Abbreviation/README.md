@@ -124,6 +124,7 @@ Modular programming|
 Obfuscated code|
 Pair Programming|agile software development technique in which two programmers work together at one workstation
 Peer review|evaluation of work by one or more people with similar competencies as the producers of the work (peers)
+Pragmatic|dealing with things realistically, based on practical rather than theoretical considerations
 Prefactoring|
 Refactoring|
 Separation of concerns|
