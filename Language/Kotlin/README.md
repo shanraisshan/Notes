@@ -186,6 +186,24 @@ linkedHashTreeMap["key1"] = 1
 linkedHashTreeMap["key2"] = 3
 ```
 
+## Operations on Map
+
+### [Loop](https://pl.kotl.in/Xq1jDOQtO)
+```
+var map = hashMapOf(1 to 1, 2 to 2)   //trick -> 121
+map.forEach { (key, value) -> 
+    println("$key:$value") //1:1 2:2
+}
+
+map.forEach { entry ->
+    println("${entry.key}:${entry.value}") //1:1 2:2
+}
+
+for (entry in map.entries.iterator()) {
+    println("${entry.key}:${entry.value}") //1:1 2:2
+}
+```
+
 # Of
 ```kotlin
 arrayOf(1,2,3)
