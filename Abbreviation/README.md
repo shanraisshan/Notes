@@ -139,4 +139,23 @@ Quotes|Description
 Don't call us, we'll call you|Hollywood Principle
 Fire and forget|UDP, async
 
+# OPERATORS
+
+Name|Op|Desc
+:-:|:-:|:-:
+Ternary|cond?a:b|a<b ? a : b
+Elvis/Binary|?:|a = a<b ?: a
+Safe Navigation|?.|
+Null Coalescing|??|
+Double Bang|!!|
+Double Colon|::|
+Range|..|
+Colon|:|
+Conditional|?|
+Lambda|->|
+OR| \|\| |
+AND| && |
+
+
+
 
