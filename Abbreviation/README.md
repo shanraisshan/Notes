@@ -152,7 +152,7 @@ Colon|:|C++(Inheritance)
 Double Colon|::|Kotlin(Class/Method Reference) \| Java(Method Reference) \| C++(Scope Resolution) 
 Range|..|
 Exclamation|!|
-Double Bang|!!|
+Double Bang|!!|Kotlin(Non-Null Assertion)
 Lambda|->|
 OR| \|\| |
 AND| && |
