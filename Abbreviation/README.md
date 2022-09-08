@@ -143,15 +143,16 @@ Fire and forget|UDP, async
 
 Name|Op|Desc
 :-:|:-:|:-:
-Ternary|cond?a:b|a<b ? a : b
-Elvis/Binary|?:|a = a<b ?: a
-Safe Navigation|?.|
-Null Coalescing|??|
-Double Bang|!!|
-Double Colon|::|
-Range|..|
-Colon|:|
 Conditional|?|
+Elvis/Binary|?:|a = a<b ?: a
+Ternary|cond?a:b|a<b ? a : b
+Safe Call|?.|
+Null Coalescing|??|
+Colon|:|C++(Inheritance)
+Double Colon|::|Kotlin(Class/Method Reference) \| Java(Method Reference) \| C++(Scope Resolution) 
+Range|..|
+Exclamation|!|
+Double Bang|!!|
 Lambda|->|
 OR| \|\| |
 AND| && |
