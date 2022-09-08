@@ -30,6 +30,18 @@ name1 = name1.substring(0,2).plus(name1.substring(3)) //remove character at inde
 println(name1) //abdef
 ```
 
+# [CONDITION](https://pl.kotl.in/8UpHUDgt9)
+```kotlin
+//if expression
+println( if(a>b) a else b ) //2
+    
+//ternary a ? b : c
+println( a.takeIf{a>b} ?: b ) //2
+    
+//when
+println( when(a>b) { true->a false->b } ) //2
+```
+
 # [LOOP](https://pl.kotl.in/X330G78pm)
 ```kotlin
 val items = listOf(1,3,8,5,4) //items = ArrayList<Int>(); items.add(1)
