@@ -36,6 +36,12 @@ TDD|Test Driven Development|
 UML|Unified Modeling Language|
 YAGNI|You Aren’t Gonna Need It|
 
+## Business
+Abbreviation|Full Form|Desc
+:-:|:-:|:-:
+B2B|Business to Business|
+B2C|Business to Consumer|
+
 ## Database
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
