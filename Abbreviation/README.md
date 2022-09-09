@@ -17,13 +17,14 @@ DDMS|Dalvik Debug Monitoring Service|
 DVM|Dalvik Virtual Machine|
 JVM|Java Virtual Machine|
 
-## Architecture
+## Architecture/Design
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 DbC|Design by Contract|
 DIE|Duplication Is Evil|
 DIP|Dependency Inversion Principle|
 DRY|Don't Repeat Yourself|
+GoF|Gang of Four|
 GRASP|General Responsibility Assignment Software Patterns|
 IoC|Inversion of Control| 
 KISS|Keep It Simple! Stupid|
