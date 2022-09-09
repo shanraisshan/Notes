@@ -41,8 +41,12 @@ Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 CRUD|Create Read Update Delete|
 DAO|Data Access Object|
+DCL|Data Control Language|
+DDL|Data Definition Language|
+DML|Data Manipulation Language|
 ER model|Entity Relationship Model|
 SQL|Structured Query Language|
+TCL|Transaction Control Language|
 
 ## General
 Abbreviation|Full Form|Desc
