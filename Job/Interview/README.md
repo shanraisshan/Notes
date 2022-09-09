@@ -15,6 +15,7 @@ Google|?|https://grow.google/certificates/interview-warmup/
 CodeSignal|Airus|https://app.codesignal.com/coding-report/wuF48FtfA8xYKhirv-KrnEvmbDQjjMw8kkgWF4vb7M/ctMHd6iqDrQ36NztY
 HackerRank|Khurram|https://www.hackerrank.com/
 LeetCode|Khurram|https://leetcode.com/
+Codility|Careem(Airus)/Gaditek|https://www.codility.com/
 
 # JOB DESCRIPTION
 
