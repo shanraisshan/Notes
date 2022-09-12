@@ -144,8 +144,8 @@ Obfuscated code|
 Pair Programming|agile software development technique in which two programmers work together at one workstation
 Peer review|evaluation of work by one or more people with similar competencies as the producers of the work (peers)
 Pragmatic|dealing with things realistically, based on practical rather than theoretical considerations
-Prefactoring|
-Refactoring|
+Prefactoring|applying expertise gained in refactoring
+Refactoring|restructuring code, while not changing its original functionality
 Separation of concerns|
 Throttle|
 
@@ -157,6 +157,9 @@ Quotes|Description
 Don't call us, we'll call you|Hollywood Principle
 Fire and forget|UDP, async
 Any fool can write code that a computer can understand. Good programmers write code that humans can understand|Martin Fowler (Book: Refactoring)
+When you're abstract, be abstract all the way|https://en.wikipedia.org/wiki/Prefactoring
+Splitters can be lumped more easily than lumpers can be split|https://en.wikipedia.org/wiki/Prefactoring
+Use the client’s language|https://en.wikipedia.org/wiki/Prefactoring
 
 # OPERATORS
 
