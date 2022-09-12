@@ -156,6 +156,7 @@ Quotes|Description
 :-:|:-:
 Don't call us, we'll call you|Hollywood Principle
 Fire and forget|UDP, async
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand|Martin Fowler (Book: Refactoring)
 
 # OPERATORS
 
