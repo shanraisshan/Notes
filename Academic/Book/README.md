@@ -17,9 +17,12 @@ a room without books is like a body without a soul
 
 |Name|Author|Edition|Source|
 |:-:|:-:|:-:|:-:|
+|Clean Architecture: A Craftsman's Guide to Software Structure and Design|Robert Cecil Martin|-|-|
 |Clean Code: A Handbook of Agile Software Craftsmanship|Robert Cecil Martin|-|-|
+|Code Complete|Steve McConnell|-|-|
 |Design Patterns: Elements of Reusable Object-Oriented Software|Gang of 4 (Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, foreword by Grady Booch)|-|-|
-|Refactoring|Kent Beck, Martin Fowler|-|-|
+|Refactoring: Improving the Design of Existing Code|Kent Beck, Martin Fowler|-|-|
+The Pragmatic Programmer|Andy Hunt and Dave Thomas|-|-|
 
 ## Java
 
