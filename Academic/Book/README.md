@@ -13,6 +13,14 @@ a room without books is like a body without a soul
 |Object oriented programming with C++|David Parsons|-|NED University|
 |C++ How to program|Deitel and Deitel|-|NED University|
 
+## Design Patterns
+
+|Name|Author|Edition|Source|
+|:-:|:-:|:-:|:-:|
+|Clean Code: A Handbook of Agile Software Craftsmanship|Robert Cecil Martin|-|-|
+|Design Patterns: Elements of Reusable Object-Oriented Software|Gang of 4 (Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, foreword by Grady Booch)|-|-|
+|Refactoring|Kent Beck, Martin Fowler|-|-|
+
 ## Java
 
 |Name|Author|Edition|Source|
