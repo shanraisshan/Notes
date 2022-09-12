@@ -119,6 +119,13 @@ QFD|Quality Function Deployment|
 QP|Quality Planning|
 ROI|Return on Investment|
 
+## Tech Stack
+Abbreviation|Full Form|Desc
+:-:|:-:|:-:
+LAMP|Linux, Apache, MySQL, PHP|
+MEAN|MongoDB, Express, Angular, Node|
+MERN|MongoDB, Express, React, Node|
+
 # TERMINOLOGY
 
 Terminology|Defination
