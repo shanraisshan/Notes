@@ -88,31 +88,39 @@ do {
 println("Factorial of 6 is $factorial")
 ```
 
-# [ARRAY](https://pl.kotl.in/DNMLuXzLz)
+# [ARRAY](https://pl.kotl.in/GNA_9D8of)
 ```kotlin
-val array1 = arrayOf(1,3,8) //decalre + initialize
-for (i in 0 until array1.size) {
-    println("log->array1 " + array1[i])//[1, 3, 8]
-}
+//https://stackoverflow.com/q/73705958/4754141
+//decalre + initialize
+var a = arrayOf(1,2,3) 
+var b = arrayOf<Int>(4,5,6)
+var c = intArrayOf(7,8,9)
 
-
-val array2: IntArray = IntArray(3) //declare only with size
-//array2[0]=1
-array2[1]=3
-array2[2]=8
-for (i in 0 until array2.size) {
-    println("log->array2 " + array2[i])//[0, 3, 8]
-}
+println(a) //[Ljava.lang.Integer;@5d099f62
+println(b) //[Ljava.lang.Integer;@31cefde0
+println(c) //[I@439f5b3d
 
 //Array<Int> is an Integer[] (object) under the hood, while IntArray is an int[] (primitive)
+//arr[1] or arr.get(1) both can be used
+//arr[1]=2 or arr.set(1,2)
 
-val array3 = Array(3) {0}
-//array3[0]=1
-array3[1]=3
-array3[2]=8
-for (i in 0 until array3.size) {
-    println("log->array3 " + array3[i])//[0, 3, 8]
+//IntArray example
+val arrPrimitive: IntArray = IntArray(3) //declare only with size
+//arrPrimitive[0]=1
+arrPrimitive[1]=3
+arrPrimitive.set(2,8)
+for (i in 0 until arrPrimitive.size) {
+    println("log->arrPrimitive " + arrPrimitive[i] + "|" + arrPrimitive.get(i))//[0, 3, 8]
 }
+
+//Array<Int> example
+val arrInteger = Array(3) {0}
+//arrInteger[0]=1
+arrInteger[1]=3
+arrInteger.set(2,8)
+for (i in 0 until arrInteger.size) {
+    println("log->arrInteger " + arrInteger[i] + "|" + arrInteger.get(i))//[0, 3, 8]
+    }
 ```
 
 # LIST | SET | MAP
