@@ -88,17 +88,38 @@ do {
 println("Factorial of 6 is $factorial")
 ```
 
-# [ARRAY](https://pl.kotl.in/GNA_9D8of)
+# [ARRAY](https://pl.kotl.in/6VkE_x43F)
 ```kotlin
 //https://stackoverflow.com/q/73705958/4754141
 //decalre + initialize
 var a = arrayOf(1,2,3) 
 var b = arrayOf<Int>(4,5,6)
 var c = intArrayOf(7,8,9)
+var d = IntArray(3) {it}
 
-println(a) //[Ljava.lang.Integer;@5d099f62
-println(b) //[Ljava.lang.Integer;@31cefde0
-println(c) //[I@439f5b3d
+println("" + a + "|" + a.asList()) //[Ljava.lang.Integer;@5d099f62 | 1,2,3
+println("" + b + "|" + b.asList()) //[Ljava.lang.Integer;@5197848c | 4,5,6
+println("" + c + "|" + c.asList()) //[I@17f052a3 | 7,8,9
+println("" + d + "|" + d.asList()) //[I@7ab2bfe1 | 0,1,2
+println()
+
+//Assignment in Array
+a=b
+c=d
+//a=c | a=d | b=c | b=d //not possible
+
+println("" + a + "|" + a.asList()) //[Ljava.lang.Integer;@5197848c | 4,5,6
+println("" + b + "|" + b.asList()) //[Ljava.lang.Integer;@5197848c | 4,5,6
+println("" + c + "|" + c.asList()) //[I@7ab2bfe1 | 0,1,2
+println("" + d + "|" + d.asList()) //[I@7ab2bfe1 | 0,1,2
+println()
+
+//Adding 2 arrays
+println((a+b).asList()) //[4, 5, 6, 4, 5, 6]
+println((c+d).asList()) //[0, 1, 2, 0, 1, 2]
+//a+c | a+d | b+c | b+d //not possible
+println()
+
 
 //Array<Int> is an Integer[] (object) under the hood, while IntArray is an int[] (primitive)
 //arr[1] or arr.get(1) both can be used
@@ -112,6 +133,7 @@ arrPrimitive.set(2,8)
 for (i in 0 until arrPrimitive.size) {
     println("log->arrPrimitive " + arrPrimitive[i] + "|" + arrPrimitive.get(i))//[0, 3, 8]
 }
+println()
 
 //Array<Int> example
 val arrInteger = Array(3) {0}
@@ -120,7 +142,7 @@ arrInteger[1]=3
 arrInteger.set(2,8)
 for (i in 0 until arrInteger.size) {
     println("log->arrInteger " + arrInteger[i] + "|" + arrInteger.get(i))//[0, 3, 8]
-    }
+}
 ```
 
 # LIST | SET | MAP
