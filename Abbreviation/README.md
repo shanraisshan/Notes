@@ -130,6 +130,7 @@ MERN|MongoDB, Express, React, Node|
 
 Terminology|Defination
 :-:|:-:
+Anti Pattern|
 Boilerplate|Verbose - expressed in more words than are needed
 Code review|
 Code smell|
@@ -138,15 +139,20 @@ Debounce|
 Decomposition|
 Design smell|
 Firmware|permanent software programmed into a ROM (OS in mobile)
+God object|(also known an omniscient or all-knowing object) is an object that references a large number of distinct types, has too many unrelated methods
 Idempotent|executing it multiple times is equivalent to executing it once (state unchange [put, delete]) (result is same, response may vary)
-Modular programming|
-Obfuscated code|
+Lasagna Code|code whose layers are so complicated and intertwined that making a change in one layer would necessitate changes in all other layers
+Modular Programming|
+Obfuscated Code|
 Pair Programming|agile software development technique in which two programmers work together at one workstation
 Peer review|evaluation of work by one or more people with similar competencies as the producers of the work (peers)
 Pragmatic|dealing with things realistically, based on practical rather than theoretical considerations
 Prefactoring|applying expertise gained in refactoring
+Ravioli Code|specific to object-oriented programming, code that comprises well-structured classes that are easy to understand in isolation, but difficult to understand as a whole
 Refactoring|restructuring code, while not changing its original functionality
-Separation of concerns|
+Separation Of Concerns|
+Spaghetti Code|unstructured and difficult-to-maintain source code. example: God Class
+Syntactic Sugar|syntax within a programming language that is designed to make things easier to read or to express
 Throttle|
 
 
