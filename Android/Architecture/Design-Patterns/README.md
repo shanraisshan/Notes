@@ -34,3 +34,5 @@ https://stackoverflow.com/q/1638919/4754141
 
 ![concept-dependency-injection](https://github.com/shanraisshan/Notes/blob/main/Android/Architecture/Design-Patterns/!/concept-dependency-injection.png)
 
+![concept2-dependency-injection](https://github.com/shanraisshan/Notes/blob/main/Android/Architecture/Design-Patterns/!/concept2-dependency-injection.png)
+
