@@ -26,6 +26,16 @@ https://github.com/daolq3012/Kotlin-Algorithms
 5. Palindrome
 6. Pyramid
 
+### [Alphabets](https://pl.kotl.in/zcI7ztf2b)
+```kotlin
+for(i in 65 until 91) {
+    println(i.toChar()) //A B C ... Z
+}
+for(i in 97 until 123) {
+    println(i.toChar()) //a b c ... z
+}
+```
+
 ### [Factorial](https://pl.kotl.in/wQATBU-j2)
 ```kotlin
 //for (requires 3 variables)
