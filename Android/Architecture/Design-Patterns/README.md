@@ -22,3 +22,12 @@ https://stackoverflow.com/q/1638919/4754141
 
  https://youtu.be/DtzQkBp2M5M?list=PLRKyZvuMYSIPwjYw1bt_7u7nEwe6vATQd&t=146
 ![why-dependency-injection](https://github.com/shanraisshan/Notes/blob/main/Android/Architecture/Design-Patterns/!/why-dependency-injection.png)
+
+|#|Types Of Injection|
+|:-:|:-:|
+|1|Constructor Injection|
+|2|Field Injection|
+
+# DAGGER 2
+
+
