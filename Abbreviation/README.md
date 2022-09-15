@@ -16,6 +16,7 @@ DDMS|Dalvik Debug Monitoring Service|
 .dex|Dalvik Executable|
 DVM|Dalvik Virtual Machine|
 JVM|Java Virtual Machine|
+KAPT|Kotlin Annotation Processing Tool|
 
 ## Architecture/Design
 Abbreviation|Full Form|Desc
