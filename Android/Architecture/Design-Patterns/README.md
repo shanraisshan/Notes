@@ -32,3 +32,5 @@ https://stackoverflow.com/q/1638919/4754141
 
 [Concept](https://youtu.be/cg0yCHW2Keg?t=139)
 
+![concept-dependency-injection](https://github.com/shanraisshan/Notes/blob/main/Android/Architecture/Design-Patterns/!/concept-dependency-injection.png)
+
