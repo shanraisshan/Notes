@@ -18,9 +18,8 @@ https://stackoverflow.com/q/1638919/4754141
 |:-:|:-:|:-:
 |Basic(Hindi)|Cheezy Code|https://www.youtube.com/watch?v=DtzQkBp2M5M&list=PLRKyZvuMYSIPwjYw1bt_7u7nEwe6vATQd
 
-#### Why Dependency Injection?
+### [Why Dependency Injection?](https://youtu.be/DtzQkBp2M5M?list=PLRKyZvuMYSIPwjYw1bt_7u7nEwe6vATQd&t=146)
 
- https://youtu.be/DtzQkBp2M5M?list=PLRKyZvuMYSIPwjYw1bt_7u7nEwe6vATQd&t=146
 ![why-dependency-injection](https://github.com/shanraisshan/Notes/blob/main/Android/Architecture/Design-Patterns/!/why-dependency-injection.png)
 
 |#|Types Of Injection|
@@ -29,5 +28,7 @@ https://stackoverflow.com/q/1638919/4754141
 |2|Field Injection|
 
 # DAGGER 2
+[Dagger ko aap 1 programmer samjh saktay ho, jo aap ki madad karta hai 1 acha code likhnay mein](https://youtu.be/cg0yCHW2Keg?t=130)
 
+[Concept](https://youtu.be/cg0yCHW2Keg?t=139)
 
