@@ -47,7 +47,8 @@ https://developer.android.com/studio/releases
 
 | Names  | Release Date |
 | :---:  | :---:  |
-| Chipmunk - 2021.2.1  | 2022  |
+| Doplhin - 2021.3.1  | Sep 22  |
+| Chipmunk - 2021.2.1  | May 22  |
 | Bumblebee - 2021.1.1  | Jan 22  |
 | Arctic Fox - 2020.3.1  | July 21  |
 | 4.2  | Apr 21  |
