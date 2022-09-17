@@ -136,6 +136,7 @@ MERN|MongoDB, Express, React, Node|
 Terminology|Defination
 :-:|:-:
 Anti Pattern|
+Bootstrap|process of starting a company with only personal savings, including borrowed or invested funds from family or friends, as well as income from initial sales
 Boilerplate|Verbose - expressed in more words than are needed
 Code review|
 Code smell|
