@@ -101,6 +101,7 @@ WMS|Warehouse management system|
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 AC|Actual Cost|
+BRD|Business Requirements Document|
 CSAT|Customer Satisfaction|
 CES|Customer Experience Service|
 GMV|Gross Merchandise Value|
@@ -108,8 +109,10 @@ JIT|Just In Time|
 JIC|Just In Case|
 KPI|Key Performance Indicator|
 LTV|Lifetime Value|
+MRD|Marketting Requirements Document|
 NPS|Net Promoter Score|
 OKR|Objectives and Key Results|
+PRD|Product Requirements Document|
 PM|Project Manager/Project Management|
 PMO|Project Management Office|
 PMP|Project Management Professional|
@@ -119,6 +122,7 @@ QCD|Quality, Cost, Delivery|
 QFD|Quality Function Deployment|
 QP|Quality Planning|
 ROI|Return on Investment|
+SRS|Software Requirements Specification|
 
 ## Tech Stack
 Abbreviation|Full Form|Desc
