@@ -42,6 +42,22 @@ println( a.takeIf{a>b} ?: b ) //2
 println( when(a>b) { true->a false->b } ) //2
 ```
 
+# [FUNCTION](https://pl.kotl.in/ZdTU0UzbY)
+```kotlin
+fun func1(a:String) {} //valid
+
+fun func2(var a:String) {} //'var' on function parameter is not allowed
+
+fun func3(val a:String) {} //'val' on function parameter is not allowed
+
+//constructor
+class Animal(var a: String) { //allowed here
+    fun walk() {
+        println(a)
+    }
+}
+```
+
 # [LOOP](https://pl.kotl.in/X330G78pm)
 ```kotlin
 val items = listOf(1,3,8,5,4) //items = ArrayList<Int>(); items.add(1)
