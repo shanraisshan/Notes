@@ -53,6 +53,7 @@ DCL|Data Control Language|
 DDL|Data Definition Language|
 DML|Data Manipulation Language|
 ER model|Entity Relationship Model|
+SIUD|Select Insert Update Delete|
 SQL|Structured Query Language|
 TCL|Transaction Control Language|
 
