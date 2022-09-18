@@ -36,6 +36,20 @@ for(i in 97 until 123) {
 }
 ```
 
+### [Reverse Int](https://pl.kotl.in/VI3t5j2e9)
+```kotlin
+fun reverseInt(_num: Int): Int {
+    var reverse = 0
+    var num = _num //var not allowed in function
+    while (num != 0) {
+        val digit = num % 10
+        reverse = reverse * 10 + digit
+        num = num/10
+    }
+    return reverse
+}
+```
+
 ### [Factorial](https://pl.kotl.in/wQATBU-j2)
 ```kotlin
 //for (requires 3 variables)
