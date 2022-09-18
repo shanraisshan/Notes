@@ -16,8 +16,8 @@ CONNECT|establishes a tunnel to the server identified by the target resource|[NO
 OPTION|describes the communication options for the target resource|YES
 TRACE|performs a message loop-back test along the path to the target resource|YES
 
-### CRUD vs HTTP vs SQL
-CRUD|HTTP Methods|SQL Equivalent
+### CRUD vs HTTP vs SUID
+CRUD|HTTP Methods|SUID
 :-:|:-:|:-:|
 CREATE|POST/PUT|INSERT
 READ|GET|SELECT
