@@ -17,6 +17,7 @@ DDMS|Dalvik Debug Monitoring Service|
 DVM|Dalvik Virtual Machine|
 JVM|Java Virtual Machine|
 KAPT|Kotlin Annotation Processing Tool|
+MAD Skills|Modern Android Development Skills|
 
 ## Architecture/Design
 Abbreviation|Full Form|Desc
@@ -54,6 +55,7 @@ DAO|Data Access Object|
 DCL|Data Control Language|
 DDL|Data Definition Language|
 DML|Data Manipulation Language|
+DTO|Data Transfer Object|
 ER model|Entity Relationship Model|
 SIUD|Select Insert Update Delete|
 SQL|Structured Query Language|
