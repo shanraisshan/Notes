@@ -21,7 +21,9 @@ KAPT|Kotlin Annotation Processing Tool|
 ## Architecture/Design
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
+BDD|Behavior Driven Development|
 DbC|Design by Contract|
+DDD|Domain Driven Design| 
 DIE|Duplication Is Evil|
 DIP|Dependency Inversion Principle|
 DRY|Don't Repeat Yourself|
