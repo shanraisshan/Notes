@@ -171,8 +171,10 @@ Don't call us, we'll call you|Hollywood Principle
 Fire and forget|UDP, async
 Any fool can write code that a computer can understand. Good programmers write code that humans can understand|Martin Fowler (Book: Refactoring)
 When you're abstract, be abstract all the way|https://en.wikipedia.org/wiki/Prefactoring
+Sometimes it is the people whom no one imagines anything of who do the things that no one can imagine|Alan Turing
 Splitters can be lumped more easily than lumpers can be split|https://en.wikipedia.org/wiki/Prefactoring
 Use the client’s language|https://en.wikipedia.org/wiki/Prefactoring
+
 
 # OPERATORS
 
