@@ -1,7 +1,7 @@
 # Architecture
 architecture, naming conventions, design patterns, anti patterns, design principles, naming convention
 
-### ➼ [Architectural Patterns 🧱](Architectural)
+### ➼ [Architecture 🧱](Architecture)
 ### ➼ [Design Patterns 🎨](Design)
 ### ➼ [Modularization 🗄️](Modularization)
 
