@@ -27,3 +27,4 @@ Use|Description|Example
 -> details|hyperlink|[-> details](https://github.com/shanraisshan/Notes/blob/9d3cc08f8acc6424aa660eff00627cf0e8832262/Language/Kotlin/README.md#function)
 ■|separator|[■](https://github.com/shanraisshan/Notes/tree/9d3cc08f8acc6424aa660eff00627cf0e8832262/Academic/Book#author)
 ->|separator2|[->](https://github.com/shanraisshan/Notes/tree/9d3cc08f8acc6424aa660eff00627cf0e8832262/Language/Kotlin#list)
+➼ Link (+App,Deep,Dynamic,Universal)|comma separated naming| [➼ Link (+App,Deep,Dynamic,Universal) 🔗](https://github.com/shanraisshan/Notes/tree/main/Android#-link-appdeepdynamicuniversal-)
