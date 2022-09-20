@@ -1,4 +1,4 @@
-# Architecture (+Design Pattern, Priciple, Paradigm) 🧱
+# Architecture (+Design Pattern, Principle, Paradigm) 🧱
 architecture, naming conventions, design patterns, anti patterns, design principles, programming paradigms
 
 ### ➼ [Architecture 🧱](Architecture)
