@@ -17,7 +17,6 @@ i like writing and saving things that are useful, some of the content that is he
 ### ➼ [Operating System 💻](/Operating)
 ### ➼ [Other ⛔](/Other)
 ### ➼ [Profile 👤](/Profile)
-### ➼ [Programming Paradigm 🌀](/Programming)
 ### ➼ [Security 🔒](/Security)
 ### ➼ [Software Engineering (+System Deign) 👷🏻](/Software)
 
