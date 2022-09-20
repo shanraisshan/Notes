@@ -1,5 +1,5 @@
-# Architecture
-architecture, naming conventions, design patterns, anti patterns, design principles, naming convention
+# Architecture (+Design Pattern, Priciple, Paradigm) 🧱
+architecture, naming conventions, design patterns, anti patterns, design principles, programming paradigms
 
 ### ➼ [Architecture 🧱](Architecture)
 ### ➼ [Design Patterns 🎨](Design)
