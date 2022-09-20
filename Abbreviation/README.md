@@ -1,6 +1,6 @@
 # Abbreviation (Terminology)
 
-1. [Abbreviation](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#abbreviation) [9]
+1. [Abbreviation](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#abbreviation) [10]
 2. [Terminology](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#terminology) [2]
 3. [Quotes](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#quotes)
 4. [Similarity](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#similarity)
@@ -67,7 +67,12 @@ SIUD|Select Insert Update Delete|
 SQL|Structured Query Language|
 TCL|Transaction Control Language|
 
-## 5. General
+## 5. Design
+Abbreviation|Full Form|Desc
+:-:|:-:|:-:
+CGI|Computer-generated Imagery|
+
+## 6. General
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 PR|Pull Request|
@@ -75,7 +80,7 @@ SDK|Software Development Kit|
 RC|Release Candidate|
 XML|Extensible Markup Language|
 
-## 6. Network
+## 7. Network
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 API|Application Programming Interface|
@@ -89,7 +94,7 @@ TCP|Transmission Control Protocol|
 UDP|User Datagram Protocol|
 XMPP|Extensible Messaging and Presence Protocol|
 
-## 7. Management
+## 8. Management
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 CRM|Customer Relationship Management|
@@ -109,7 +114,7 @@ SD|Sales and Distribution|
 SRM|Supplier Relationship Management|
 WMS|Warehouse management system|
 
-## 8. Project/Product
+## 9. Project/Product
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 AC|Actual Cost|
@@ -137,7 +142,7 @@ ROI|Return on Investment|
 SRS|Software Requirements Specification|
 
 
-## 9. Tech Stack
+## 10. Tech Stack
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 LAMP|Linux, Apache, MySQL, PHP|
