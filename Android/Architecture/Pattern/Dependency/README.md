@@ -17,7 +17,7 @@ https://stackoverflow.com/q/1638919/4754141
 
 ### [Why Dependency Injection?](https://youtu.be/DtzQkBp2M5M?list=PLRKyZvuMYSIPwjYw1bt_7u7nEwe6vATQd&t=146)
 
-![why-dependency-injection](https://github.com/shanraisshan/Notes/blob/main/Android/Architecture/Design/Dependency/!/why-dependency-injection.png)
+![why-dependency-injection](https://github.com/shanraisshan/Notes/blob/main/Android/Architecture/Pattern/Dependency/!/why-dependency-injection.png)
 
 |#|Types Of Injection|
 |:-:|:-:|
@@ -29,7 +29,7 @@ https://stackoverflow.com/q/1638919/4754141
 
 [Concept](https://youtu.be/cg0yCHW2Keg?t=139)
 
-![concept-dependency-injection](https://github.com/shanraisshan/Notes/blob/main/Android/Architecture/Design/Dependency/!/concept-dependency-injection.png)
+![concept-dependency-injection](https://github.com/shanraisshan/Notes/blob/main/Android/Architecture/Pattern/Dependency/!/concept-dependency-injection.png)
 
-![concept2-dependency-injection](https://github.com/shanraisshan/Notes/blob/main/Android/Architecture/Design/Dependency/!/concept2-dependency-injection.png)
+![concept2-dependency-injection](https://github.com/shanraisshan/Notes/blob/main/Android/Architecture/Pattern/Dependency/!/concept2-dependency-injection.png)
 
