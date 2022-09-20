@@ -140,18 +140,21 @@ MERN|MongoDB, Express, React, Node|
 
 Terminology|Defination
 :-:|:-:
+Agnostic Approach|which is interoperable across the systems and there are no prejudices towards using a specific technology, model, methodology or data
 Anti Pattern|
 Bootstrap|process of starting a company with only personal savings, including borrowed or invested funds from family or friends, as well as income from initial sales
 Boilerplate|Verbose - expressed in more words than are needed
 Code review|
 Code smell|
 Day of the Programmer|256th (hexadecimal 100th, or the 2^8) day of each year (Sep-13 normal / Sep-12 in leap years) ■ In China, October 24 (1024) = 2^10 (Ki binary prefix)
-Debounce|
+Debounce|(1 sec - start at 1,2 - delay) executes the function after the interval if function isn't being called within that interval [-> details](https://stackoverflow.com/a/52192108/4754141)
 Decomposition|
 Design smell|
+Elapsed|(of time) pass or go by
 Firmware|permanent software programmed into a ROM (OS in mobile)
 God object|(also known an omniscient or all-knowing object) is an object that references a large number of distinct types, has too many unrelated methods
 Idempotent|executing it multiple times is equivalent to executing it once (state unchange [put, delete]) (result is same, response may vary)
+Language-agnostic|software development paradigm where a language is chosen because of its appropriateness, and not because of the skill-set available within a team
 Lasagna Code|code whose layers are so complicated and intertwined that making a change in one layer would necessitate changes in all other layers
 Modular Programming|
 Obfuscated Code|
@@ -164,7 +167,15 @@ Refactoring|restructuring code, while not changing its original functionality
 Separation Of Concerns|
 Spaghetti Code|unstructured and difficult-to-maintain source code. example: God Class
 Syntactic Sugar|syntax within a programming language that is designed to make things easier to read or to express
-Throttle|
+Throttle|(1 sec - start at 0,1,2 - no delay) executes the function n times at fixed interval [-> details](https://stackoverflow.com/a/52192108/4754141)
+
+General|Defination
+:-:|:-:
+Agnostic|having the belief that it is not possible to know whether god exists
+Elapsed|(of time) pass or go by
+Interoperable|[backward-compatible] (of computer systems) able to exchange and make use of information 
+Prejudice|[تعصب, bias] preconceived opinion that is not based on reason or actual experience
+Verbose|[لفظی, wordy] expressed in more words than are needed 
 
 
 # QUOTES
