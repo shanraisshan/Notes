@@ -1,5 +1,5 @@
 # Programming Paradigm
-imperative vs declarative
+Action, Array-oriented, Automata-based, Concurrent computing, Data-driven, Declarative, Imperative, Structured + many more
 
 
 ### ➼ [Imperative](Imperative)
