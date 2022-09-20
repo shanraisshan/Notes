@@ -183,6 +183,7 @@ Refactoring|restructuring code, while not changing its original functionality
 Separation Of Concerns|
 Spaghetti Code|unstructured and difficult-to-maintain source code. example: God Class
 Syntactic Sugar|syntax within a programming language that is designed to make things easier to read or to express
+Test Double|where you replace a production(or behave like their release-intended counterpart) object for testing purposes
 Throttle|(1 sec - start at 0,1,2 - no delay) executes the function n times at fixed interval [-> details](https://stackoverflow.com/a/52192108/4754141)
 
 ## 2. General
@@ -221,6 +222,7 @@ Words
 :-:
 object, instance
 parameter, argument
+dummy, fake, stub, mock
 function, method, procedure, routine
 property, attribute, field, variable, member
 delegate, callback, interface, annonymous, lambdas
