@@ -147,6 +147,7 @@ Boilerplate|Verbose - expressed in more words than are needed
 Callback Hell|nested callbacks stacked below one another forming a pyramid structure
 Code review|
 Code smell|
+Coroutines|Co+Routine - Co means Coopearion, Routine means Function. [when functions cooperate with each other](https://www.youtube.com/watch?v=EUlpxloAcWw&list=PLBF0Hb1Nl6I-GZS5U1FrCYHvWK-5qmDgc&t=969)
 Day of the Programmer|256th (hexadecimal 100th, or the 2^8) day of each year (Sep-13 normal / Sep-12 in leap years) ■ In China, October 24 (1024) = 2^10 (Ki binary prefix)
 Debounce|(1 sec - start at 1,2 - delay) executes the function after the interval if function isn't being called within that interval [-> details](https://stackoverflow.com/a/52192108/4754141)
 Decomposition|
@@ -170,6 +171,8 @@ Spaghetti Code|unstructured and difficult-to-maintain source code. example: God 
 Syntactic Sugar|syntax within a programming language that is designed to make things easier to read or to express
 Throttle|(1 sec - start at 0,1,2 - no delay) executes the function n times at fixed interval [-> details](https://stackoverflow.com/a/52192108/4754141)
 
+## General
+
 General|Defination
 :-:|:-:
 Agnostic|having the belief that it is not possible to know whether god exists
@@ -184,13 +187,24 @@ Verbose|[لفظی, wordy] expressed in more words than are needed
 
 Quotes|Description
 :-:|:-:
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand|Martin Fowler (Book: Refactoring)
+Arguments are passed while Parameters are received|[-> details](https://stackoverflow.com/a/46360559/4754141)
 Don't call us, we'll call you|Hollywood Principle
 Fire and forget|UDP, async
-Any fool can write code that a computer can understand. Good programmers write code that humans can understand|Martin Fowler (Book: Refactoring)
-When you're abstract, be abstract all the way|https://en.wikipedia.org/wiki/Prefactoring
 Sometimes it is the people whom no one imagines anything of who do the things that no one can imagine|Alan Turing
 Splitters can be lumped more easily than lumpers can be split|https://en.wikipedia.org/wiki/Prefactoring
 Use the client’s language|https://en.wikipedia.org/wiki/Prefactoring
+When you're abstract, be abstract all the way|https://en.wikipedia.org/wiki/Prefactoring
+
+
+# SIMILARITY
+
+Words
+:-:
+object, instance
+parameter, argument
+function, method, procedure, routine
+property, attribute, field, variable, member 
 
 
 # OPERATORS
