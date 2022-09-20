@@ -2,7 +2,7 @@
 architecture, naming conventions, design patterns, anti patterns, design principles, programming paradigms
 
 ### ➼ [Architecture 🧱](Architecture)
-### ➼ [Design Patterns 🎨](Design)
+### ➼ [Design Pattern 🧮](Pattern)
 ### ➼ [Modularization 🗄️](Modularization)
 
 # LINKS
