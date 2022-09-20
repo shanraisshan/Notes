@@ -1,8 +1,6 @@
 # Modularization
 
-## NOW IN ANDROID
-
-https://github.com/android/nowinandroid
+### Tutorial Followed
 
 |Desc|Name|Link|
 |:-:|:-:|:-:
