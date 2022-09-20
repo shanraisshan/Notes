@@ -66,6 +66,7 @@ Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 PR|Pull Request|
 SDK|Software Development Kit|
+RC|Release Candidate|
 XML|Extensible Markup Language|
 
 ## Network
@@ -128,6 +129,7 @@ QFD|Quality Function Deployment|
 QP|Quality Planning|
 ROI|Return on Investment|
 SRS|Software Requirements Specification|
+
 
 ## Tech Stack
 Abbreviation|Full Form|Desc
