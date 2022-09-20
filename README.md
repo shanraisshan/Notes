@@ -19,3 +19,11 @@ i like writing and saving things that are useful, some of the content that is he
 ### ➼ [Programming Paradigm 🌀](/Programming)
 ### ➼ [Security 🔒](/Security)
 ### ➼ [Software Engineering (+System Deign) 👷🏻](/Software)
+
+# FORMATTING
+
+Use|Description|Example
+:-:|:-:|:-:
+-> details|hyperlink|[-> details](https://github.com/shanraisshan/Notes/blob/9d3cc08f8acc6424aa660eff00627cf0e8832262/Language/Kotlin/README.md#function)
+■|separator|[■](https://github.com/shanraisshan/Notes/tree/9d3cc08f8acc6424aa660eff00627cf0e8832262/Academic/Book#author)
+->|separator2|[->](https://github.com/shanraisshan/Notes/tree/9d3cc08f8acc6424aa660eff00627cf0e8832262/Language/Kotlin#list)
