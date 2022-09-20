@@ -144,6 +144,7 @@ Agnostic Approach|which is interoperable across the systems and there are no pre
 Anti Pattern|
 Bootstrap|process of starting a company with only personal savings, including borrowed or invested funds from family or friends, as well as income from initial sales
 Boilerplate|Verbose - expressed in more words than are needed
+Callback Hell|nested callbacks stacked below one another forming a pyramid structure
 Code review|
 Code smell|
 Day of the Programmer|256th (hexadecimal 100th, or the 2^8) day of each year (Sep-13 normal / Sep-12 in leap years) ■ In China, October 24 (1024) = 2^10 (Ki binary prefix)
@@ -173,6 +174,7 @@ General|Defination
 :-:|:-:
 Agnostic|having the belief that it is not possible to know whether god exists
 Elapsed|(of time) pass or go by
+Enqueue|[wait in line] add (an item of data awaiting processing) to a queue of such items
 Interoperable|[backward-compatible] (of computer systems) able to exchange and make use of information 
 Prejudice|[تعصب, bias] preconceived opinion that is not based on reason or actual experience
 Verbose|[لفظی, wordy] expressed in more words than are needed 
