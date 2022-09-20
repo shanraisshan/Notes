@@ -218,7 +218,8 @@ object, instance
 parameter, argument
 function, method, procedure, routine
 property, attribute, field, variable, member
-delegate, callback, interface
+delegate, callback, interface, annonymous, lambdas
+design principles, design patterns, architecture, paradigm
 
 
 # OPERATORS
