@@ -1,4 +1,4 @@
-# Architectural Patterns
+# Architecture
 
 ## MVVM
 
