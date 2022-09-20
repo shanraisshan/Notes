@@ -23,6 +23,7 @@ and is described in detail in the
 [architecture learning journey](https://github.com/android/nowinandroid/tree/main/docs/ArchitectureLearningJourney.md).
 
 ### Modularization
+> Design Pattern (Module Pattern), Paradigm (Structured Programming)
 
 The **Now in Android** app has been fully modularized and you can find the detailed guidance and
 description of the modularization strategy used in
