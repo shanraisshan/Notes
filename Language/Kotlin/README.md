@@ -43,6 +43,10 @@ println( when(a>b) { true->a false->b } ) //2
 ```
 
 # [FUNCTION](https://pl.kotl.in/ZdTU0UzbY)
+
+> The support for var was removed way back coz this was confusing: people tend to think that this means passing a parameter by reference, which we do not support (it is costly at runtime) [-> details](https://stackoverflow.com/a/68822771/4754141)
+
+
 ```kotlin
 fun func1(a:String) {} //valid
 
