@@ -8,7 +8,7 @@
 
 # ABBREVIATION
 
-## Android
+## 1. Android
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 AAPT|Android Asset Packaging Tool|
@@ -25,7 +25,7 @@ JVM|Java Virtual Machine|
 KAPT|Kotlin Annotation Processing Tool|
 MAD Skills|Modern Android Development Skills|
 
-## Architecture/Design
+## 2. Architecture/Design
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 BDD|Behavior Driven Development|
@@ -47,13 +47,13 @@ TDD|Test Driven Development|
 UML|Unified Modeling Language|
 YAGNI|You Aren’t Gonna Need It|
 
-## Business
+## 3. Business
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 B2B|Business to Business|
 B2C|Business to Consumer|
 
-## Database
+## 4. Database
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 CRUD|Create Read Update Delete|
@@ -67,7 +67,7 @@ SIUD|Select Insert Update Delete|
 SQL|Structured Query Language|
 TCL|Transaction Control Language|
 
-## General
+## 5. General
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 PR|Pull Request|
@@ -75,7 +75,7 @@ SDK|Software Development Kit|
 RC|Release Candidate|
 XML|Extensible Markup Language|
 
-## Network
+## 6. Network
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 API|Application Programming Interface|
@@ -89,7 +89,7 @@ TCP|Transmission Control Protocol|
 UDP|User Datagram Protocol|
 XMPP|Extensible Messaging and Presence Protocol|
 
-## Management
+## 7. Management
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 CRM|Customer Relationship Management|
@@ -109,7 +109,7 @@ SD|Sales and Distribution|
 SRM|Supplier Relationship Management|
 WMS|Warehouse management system|
 
-## Project/Product
+## 8. Project/Product
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 AC|Actual Cost|
@@ -137,7 +137,7 @@ ROI|Return on Investment|
 SRS|Software Requirements Specification|
 
 
-## Tech Stack
+## 9. Tech Stack
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 LAMP|Linux, Apache, MySQL, PHP|
@@ -145,6 +145,8 @@ MEAN|MongoDB, Express, Angular, Node|
 MERN|MongoDB, Express, React, Node|
 
 # TERMINOLOGY
+
+## 1. Tech
 
 Terminology|Defination
 :-:|:-:
@@ -178,7 +180,7 @@ Spaghetti Code|unstructured and difficult-to-maintain source code. example: God 
 Syntactic Sugar|syntax within a programming language that is designed to make things easier to read or to express
 Throttle|(1 sec - start at 0,1,2 - no delay) executes the function n times at fixed interval [-> details](https://stackoverflow.com/a/52192108/4754141)
 
-## General
+## 2. General
 
 General|Defination
 :-:|:-:
