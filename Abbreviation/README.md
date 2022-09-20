@@ -152,7 +152,6 @@ Day of the Programmer|256th (hexadecimal 100th, or the 2^8) day of each year (Se
 Debounce|(1 sec - start at 1,2 - delay) executes the function after the interval if function isn't being called within that interval [-> details](https://stackoverflow.com/a/52192108/4754141)
 Decomposition|
 Design smell|
-Elapsed|(of time) pass or go by
 Firmware|permanent software programmed into a ROM (OS in mobile)
 God object|(also known an omniscient or all-knowing object) is an object that references a large number of distinct types, has too many unrelated methods
 Idempotent|executing it multiple times is equivalent to executing it once (state unchange [put, delete]) (result is same, response may vary)
@@ -176,9 +175,11 @@ Throttle|(1 sec - start at 0,1,2 - no delay) executes the function n times at fi
 General|Defination
 :-:|:-:
 Agnostic|having the belief that it is not possible to know whether god exists
+Canonical|[lawful] accepted as being accurate and authoritative
 Elapsed|(of time) pass or go by
 Enqueue|[wait in line] add (an item of data awaiting processing) to a queue of such items
-Interoperable|[backward-compatible] (of computer systems) able to exchange and make use of information 
+Interoperable|[backward-compatible] (of computer systems) able to exchange and make use of information
+Orthodox|[traditional] of the ordinary or usual type; normal
 Prejudice|[تعصب, bias] preconceived opinion that is not based on reason or actual experience
 Verbose|[لفظی, wordy] expressed in more words than are needed 
 
@@ -192,9 +193,9 @@ Arguments are passed while Parameters are received|[-> details](https://stackove
 Don't call us, we'll call you|Hollywood Principle
 Fire and forget|UDP, async
 Sometimes it is the people whom no one imagines anything of who do the things that no one can imagine|Alan Turing
-Splitters can be lumped more easily than lumpers can be split|https://en.wikipedia.org/wiki/Prefactoring
-Use the client’s language|https://en.wikipedia.org/wiki/Prefactoring
-When you're abstract, be abstract all the way|https://en.wikipedia.org/wiki/Prefactoring
+Splitters can be lumped more easily than lumpers can be split|[-> details](https://en.wikipedia.org/wiki/Prefactoring)
+Use the client’s language|[-> details](https://en.wikipedia.org/wiki/Prefactoring)
+When you're abstract, be abstract all the way|[-> details](https://en.wikipedia.org/wiki/Prefactoring)
 
 
 # SIMILARITY
