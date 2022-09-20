@@ -185,6 +185,7 @@ Throttle|(1 sec - start at 0,1,2 - no delay) executes the function n times at fi
 General|Defination
 :-:|:-:
 Agnostic|having the belief that it is not possible to know whether god exists
+Analogue|[equivalent, cognate, correlate] a person or thing seen as comparable to another
 Canonical|[lawful] accepted as being accurate and authoritative
 Elapsed|(of time) pass or go by
 Enqueue|[wait in line] add (an item of data awaiting processing) to a queue of such items
@@ -216,7 +217,8 @@ Words
 object, instance
 parameter, argument
 function, method, procedure, routine
-property, attribute, field, variable, member 
+property, attribute, field, variable, member
+delegate, callback, interface
 
 
 # OPERATORS
