@@ -1,7 +1,7 @@
 # Abbreviation (Terminology)
 
-1. [Abbreviation](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#abbreviation)
-2. [Terminology](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#terminology)
+1. [Abbreviation](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#abbreviation) [9]
+2. [Terminology](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#terminology) [2]
 3. [Quotes](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#quotes)
 4. [Similarity](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#similarity)
 5. [Operators](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#operators)
