@@ -158,12 +158,12 @@ Terminology|Defination
 Agnostic Approach|which is interoperable across the systems and there are no prejudices towards using a specific technology, model, methodology or data
 Anti Pattern|
 Bootstrap|process of starting a company with only personal savings, including borrowed or invested funds from family or friends, as well as income from initial sales
-Boilerplate|Verbose - expressed in more words than are needed
+Boilerplate|sections of code that have to be included in many places with little or no alteration ■ often used when referring to languages that are considered verbose
 Callback Hell|nested callbacks stacked below one another forming a pyramid structure
 Code review|
 Code smell|
 Coroutines|Co+Routine - Co means Coopearion, Routine means Function. [when functions cooperate with each other](https://www.youtube.com/watch?v=EUlpxloAcWw&list=PLBF0Hb1Nl6I-GZS5U1FrCYHvWK-5qmDgc&t=969)
-Day of the Programmer|256th (hexadecimal 100th, or the 2^8) day of each year (Sep-13 normal / Sep-12 in leap years) ■ In China, October 24 (1024) = 2^10 (Ki binary prefix)
+Day of the Programmer|256th (hexadecimal 100th, or the 2^8) day of each year (Sep-13 normal / Sep-12 in leap years) ■ in China, October 24 (1024) = 2^10 (Ki binary prefix)
 Debounce|(1 sec - start at 1,2 - delay) executes the function after the interval if function isn't being called within that interval [-> details](https://stackoverflow.com/a/52192108/4754141)
 Decomposition|
 Design smell|
