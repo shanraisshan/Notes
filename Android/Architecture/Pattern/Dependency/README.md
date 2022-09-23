@@ -29,9 +29,8 @@ https://stackoverflow.com/q/1638919/4754141
 
 [Concept](https://youtu.be/cg0yCHW2Keg?t=139)
 
-![concept-dependency-injection](https://github.com/shanraisshan/Notes/blob/main/Android/Architecture/Pattern/Dependency/!/concept-dependency-injection.png)
-
-![concept2-dependency-injection](https://github.com/shanraisshan/Notes/blob/main/Android/Architecture/Pattern/Dependency/!/concept2-dependency-injection.png)
+![dagger1](https://github.com/shanraisshan/Notes/blob/main/Android/Architecture/Pattern/Dependency/!/dagger1.png)
+![dagger2](https://github.com/shanraisshan/Notes/blob/main/Android/Architecture/Pattern/Dependency/!/dagger2.png)
 
 # HILT
 
@@ -42,3 +41,8 @@ https://stackoverflow.com/q/1638919/4754141
 3. Repository -> @Inject constructor
 4. RemoteDataSource -> @Inject constructor
 5. for abstract class/interface (ApiClass) -> create module class and provide methods
+
+![hilt1](https://github.com/shanraisshan/Notes/blob/main/Android/Architecture/Pattern/Dependency/!/hilt1.png)
+![hilt2](https://github.com/shanraisshan/Notes/blob/main/Android/Architecture/Pattern/Dependency/!/hilt2.png)
+![hilt3](https://github.com/shanraisshan/Notes/blob/main/Android/Architecture/Pattern/Dependency/!/hilt3.png)
+![hilt4](https://github.com/shanraisshan/Notes/blob/main/Android/Architecture/Pattern/Dependency/!/hilt4.png)
