@@ -33,3 +33,12 @@ https://stackoverflow.com/q/1638919/4754141
 
 ![concept2-dependency-injection](https://github.com/shanraisshan/Notes/blob/main/Android/Architecture/Pattern/Dependency/!/concept2-dependency-injection.png)
 
+# HILT
+
+### Migration Steps (Dagger 2 to Hilt) 
+
+1. Application -> @HiltAndroidApp
+2. All Activities/Fragments/Service -> @AndroidEntryPoint
+3. Repository -> @Inject constructor
+4. RemoteDataSource -> @Inject constructor
+5. for abstract class/interface (ApiClass) -> create module class and provide methods
