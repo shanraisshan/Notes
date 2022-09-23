@@ -32,6 +32,8 @@ https://stackoverflow.com/q/1638919/4754141
 ![dagger1](https://github.com/shanraisshan/Notes/blob/main/Android/Architecture/Pattern/Dependency/!/dagger1.png)
 ![dagger2](https://github.com/shanraisshan/Notes/blob/main/Android/Architecture/Pattern/Dependency/!/dagger2.png)
 
+### Analytics Service via [Dagger2](https://youtube.com/watch?v=szs80OgMsy8?list=PLRKyZvuMYSIPwjYw1bt_7u7nEwe6vATQd&t=296)
+
 # HILT
 
 ### Migration Steps (Dagger 2 to Hilt) 
