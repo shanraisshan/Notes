@@ -4,7 +4,7 @@
 
 ### Tutorial Followed
 
-|Desc|Name|Link|
+|Name|Link|Date
 |:-:|:-:|:-:
 |Cheezy Code|[Android Notes App Last Video - Improvements & Suggestions](https://www.youtube.com/watch?v=CEifFyzYfSI)|2/Jul/2022
 |Philip Lackner|[How to Make a Clean Architecture Note App (MVVM / CRUD / Jetpack Compose)](https://www.youtube.com/watch?v=8YPXv7xKh2w)|22/Sep/2021
