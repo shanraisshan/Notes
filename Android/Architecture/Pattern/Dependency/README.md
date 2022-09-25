@@ -11,9 +11,9 @@ https://stackoverflow.com/q/1638919/4754141
 
 
 ### Tutorial Followed
-|Desc|Name|Link|
+|Name|Link|Date|
 |:-:|:-:|:-:
-|Basic(Hindi)|Cheezy Code|https://www.youtube.com/watch?v=DtzQkBp2M5M&list=PLRKyZvuMYSIPwjYw1bt_7u7nEwe6vATQd
+|Cheezy Code|[What is Dependency Injection? Tutorial - CheezyCode (Hindi) #1](https://www.youtube.com/watch?v=DtzQkBp2M5M&list=PLRKyZvuMYSIPwjYw1bt_7u7nEwe6vATQd)|1/Feb/2022
 
 ### [Why Dependency Injection?](https://youtu.be/DtzQkBp2M5M?list=PLRKyZvuMYSIPwjYw1bt_7u7nEwe6vATQd&t=146)
 
