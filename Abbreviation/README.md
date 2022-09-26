@@ -1,7 +1,7 @@
 # Abbreviation (Terminology)
 
 1. [Abbreviation](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#abbreviation) [10]
-2. [Terminology](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#terminology) [2]
+2. [Terminology](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#terminology) [3]
 3. [Quotes](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#quotes)
 4. [Similarity](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#similarity)
 5. [Operators](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#operators)
@@ -201,6 +201,11 @@ Peer|[ساتھی] look with concentration at something
 Prejudice|[تعصب, bias] preconceived opinion that is not based on reason or actual experience
 Verbose|[لفظی, wordy] expressed in more words than are needed 
 
+## 3. Product
+
+General|Defination
+:-:|:-:
+Vicinity|the area near or surrounding a particular place
 
 # QUOTES
 
@@ -225,8 +230,8 @@ parameter, argument
 dummy, fake, stub, mock
 function, method, procedure, routine
 property, attribute, field, variable, member
-delegate, callback, interface, annonymous, lambdas
 design principles, design patterns, architecture, paradigm
+delegate, callback, interface, abstract, annonymous, lambdas
 
 
 # OPERATORS
