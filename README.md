@@ -28,3 +28,4 @@ Use|Description|Example
 ■|separator|[■](https://github.com/shanraisshan/Notes/tree/9d3cc08f8acc6424aa660eff00627cf0e8832262/Academic/Book#author)
 ->|separator2|[->](https://github.com/shanraisshan/Notes/tree/9d3cc08f8acc6424aa660eff00627cf0e8832262/Language/Kotlin#list)
 ➼ Link (+App,Deep,Dynamic,Universal)|comma separated naming| [➼ Link (+App,Deep,Dynamic,Universal) 🔗](https://github.com/shanraisshan/Notes/tree/main/Android#-link-appdeepdynamicuniversal-)
+image size|600x282|[sample](https://github.com/shanraisshan/Notes/blob/main/Android/Architecture/Pattern/Dependency/!/dagger1.png)
