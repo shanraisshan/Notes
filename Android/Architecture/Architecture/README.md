@@ -16,3 +16,9 @@
 |:-:|:-:|:-:
 |Philip Lackner|[VM classes are directly coupled to UI. In MVP, ViewModel is basically a Presenter](https://youtube.com/watch?v=8YPXv7xKh2w?t=2877)|22/Sep/2021
 |Florina|[Should I switch to MVVM from MVP](https://youtube.com/watch?v=Ts-uxYiBEQ8&t=549s) / [Stackoverflow](https://stackoverflow.com/a/46763456/4754141)|6/Sep/2017
+
+
+### [Cheezy Code Implementation](https://youtube.com/watch?v=8ZLbv6TSa-U?list=PLRKyZvuMYSIMO2ebTldbwMTnDCn5klzjS&t=71)
+
+![mvvm base](https://github.com/shanraisshan/Notes/blob/main/Android/Architecture/Architecture/!/mvvm.png)
+
