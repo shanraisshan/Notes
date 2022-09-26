@@ -13,10 +13,10 @@ do not create hardcode 'Engine' object inside a 'Car', instead pass all dependen
 |Cheezy Code|[What is Dependency Injection? Tutorial - CheezyCode (Hindi) #1](https://www.youtube.com/watch?v=DtzQkBp2M5M&list=PLRKyZvuMYSIPwjYw1bt_7u7nEwe6vATQd)|1/Feb/2022
 
 ### Examples
-|Name|Example|Link|Date|
-|:-:|:-:|:-:|:-:
-|Cheezy Code|TokenManager(Prefs) + AuthInterceptor|[Android Notes App with API - HILT & Retrofit](https://www.youtube.com/watch?v=8ZLbv6TSa-U&list=PLRKyZvuMYSIMO2ebTldbwMTnDCn5klzjS)|8/June/2022
-|Cheezy Code|Analytics Service|[Dagger 2 Concepts Revisted, Component Dependencies #10](https://youtube.com/watch?v=szs80OgMsy8?list=PLRKyZvuMYSIPwjYw1bt_7u7nEwe6vATQd&t=296)|19/Feb/2022
+|Name|Example|Library|Link|Date|
+|:-:|:-:|:-:|:-:|:-:
+|Cheezy Code|API + AuthInterceptor + TokenManager(Prefs)|Hilt|[Android Notes App with API - HILT & Retrofit](https://www.youtube.com/watch?v=8ZLbv6TSa-U&list=PLRKyZvuMYSIMO2ebTldbwMTnDCn5klzjS)|8/June/2022
+|Cheezy Code|API + Database + Analytics|Dagger2|[Dagger 2 Concepts Revisted, Component Dependencies #10](https://youtube.com/watch?v=szs80OgMsy8?list=PLRKyZvuMYSIPwjYw1bt_7u7nEwe6vATQd&t=296)|19/Feb/2022
 
 
 
