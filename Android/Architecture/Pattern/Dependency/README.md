@@ -5,10 +5,7 @@ dagger, hilt, koin
 do not create hardcode 'Engine' object inside a 'Car', instead pass all dependencies ('Engine') as parameters
 ```
 
-How to explain dependency injection to a 5-year-old?
-
-https://stackoverflow.com/q/1638919/4754141
-
+[How to explain dependency injection to a 5-year-old?](https://stackoverflow.com/q/1638919/4754141)
 
 ### Tutorial Followed
 |Name|Link|Date|
@@ -23,7 +20,7 @@ https://stackoverflow.com/q/1638919/4754141
 
 
 
-### [Why Dependency Injection?](https://youtu.be/DtzQkBp2M5M?list=PLRKyZvuMYSIPwjYw1bt_7u7nEwe6vATQd&t=146)
+### [Why Dependency Injection?](https://youtube.com/watch?v=DtzQkBp2M5M?list=PLRKyZvuMYSIPwjYw1bt_7u7nEwe6vATQd&t=146)
 
 ![why-dependency-injection](https://github.com/shanraisshan/Notes/blob/main/Android/Architecture/Pattern/Dependency/!/why-dependency-injection.png)
 
@@ -33,9 +30,9 @@ https://stackoverflow.com/q/1638919/4754141
 |2|Field Injection|
 
 # DAGGER 2
-[Dagger ko aap 1 programmer samjh saktay ho, jo aap ki madad karta hai 1 acha code likhnay mein](https://youtu.be/cg0yCHW2Keg?t=130)
+[Dagger ko aap 1 programmer samjh saktay ho, jo aap ki madad karta hai 1 acha code likhnay mein](https://youtube.com/watch?v=cg0yCHW2Keg&t=130)
 
-[Concept](https://youtu.be/cg0yCHW2Keg?t=139)
+[Concept](https://youtube.com/watch?v=cg0yCHW2Keg&t=139)
 
 ![dagger1](https://github.com/shanraisshan/Notes/blob/main/Android/Architecture/Pattern/Dependency/!/dagger1.png)
 ![dagger2](https://github.com/shanraisshan/Notes/blob/main/Android/Architecture/Pattern/Dependency/!/dagger2.png)
