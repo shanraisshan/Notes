@@ -1,17 +1,25 @@
 # Basic
 
-# [var - val - const val](https://pl.kotl.in/dyle-3t_D)
+# [var - val - const val](https://pl.kotl.in/EAwQARgk2)
 
 var|val|const val
 :-:|:-:|:-:
+variable|value|constant
 run-time|run-time|compile-time
-
+mutable|[read-only, not truly immutable](https://stackoverflow.com/a/70486344/4754141), [example2](https://stackoverflow.com/a/63055134/4754141)|immutable
+can be defined local + global|local or global|global
+var a = func()|val a = func()|const val a = func() //Error
+-|final|static final
 
 ```kotlin
 const val c=1
+val d=2 //can also be defined globally
+var e=3 //can also be defined globally
+
+//const val f3 = func(1) //Const 'val' initializer should be a constant value
 
 fun main() {
-    
+
     var a=1
     a=2
     println("var " + a) //2
@@ -28,6 +36,19 @@ fun main() {
     
     //const val c=1 //Modifier 'const' is not applicable to 'local variable'
     println("const val " + c)
+
+    println("global var " + d)
+    println("global val " + e)
+    
+    var f1 = func(50)
+	println("func var " + f1) //51
+    
+    val f2 = func(100)
+    println("func val " + f2) //101
+}
+
+fun func(a: Int): Int {
+	return a+1    
 }
 
 class Test {
