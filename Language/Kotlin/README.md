@@ -1,5 +1,35 @@
 # Kotlin
 
+# [var - val - const val](https://pl.kotl.in/dyle-3t_D)
+```kotlin
+const val c=1
+
+fun main() {
+    
+    var a=1
+    a=2
+    println("var " + a) //2
+
+    val b=1
+    //b=2 //Val cannot be reassigned
+    println("val " + b)
+    
+    //val as mutable
+    val obj = Test()
+    println("val " + obj.b) //10
+    obj.a = 20
+    println("val " + obj.b) //20
+    
+    //const val c=1 //Modifier 'const' is not applicable to 'local variable'
+    println("const val " + c)
+}
+
+class Test {
+    var a: Int = 10
+    val b get()=a
+}
+```
+
 # [INPUT](https://ideone.com/V4txKj)
 ```kotlin
 import java.util.*
