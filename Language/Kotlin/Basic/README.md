@@ -1,6 +1,12 @@
 # Basic
 
 # [var - val - const val](https://pl.kotl.in/dyle-3t_D)
+
+var|val|const val
+:-:|:-:|:-:
+run-time|run-time|compile-time
+
+
 ```kotlin
 const val c=1
 
