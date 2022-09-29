@@ -5,6 +5,7 @@
 var|val|const val
 :-:|:-:|:-:
 variable|value|constant
+recomended for variables|-|string or any primitive data type
 run-time|run-time|compile-time
 mutable|[read-only, not truly immutable](https://stackoverflow.com/a/70486344/4754141), [example2](https://stackoverflow.com/a/63055134/4754141)|immutable
 can be defined local + global|local or global|global
