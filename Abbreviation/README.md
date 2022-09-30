@@ -214,6 +214,9 @@ Verbose|[لفظی, wordy] expressed in more words than are needed
 General|Defination
 :-:|:-:
 Vicinity|the area near or surrounding a particular place
+Ball park|range within which an estimate is likely to be correct
+Barter|exchange (goods or services) for other without using money
+Compliance|the act of obeying an order
 
 # QUOTES
 
