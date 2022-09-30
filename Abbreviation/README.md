@@ -56,6 +56,9 @@ B2C|Business to Consumer|
 ## 4. Database
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
+ACID|Atomicity Consistency Isolation Durability|
+BASE|Basically Available, Soft-state, Eventually-consistent|
+CAP|Consistency Availability Partition-tolerance|
 CRUD|Create Read Update Delete|
 DAO|Data Access Object|
 DCL|Data Control Language|
