@@ -19,6 +19,7 @@ i like writing and saving things that are useful, some of the content that is he
 ### ➼ [Profile 👤](/Profile)
 ### ➼ [Security 🔒](/Security)
 ### ➼ [Software Engineering (+System Deign) 👷🏻](/Software)
+### ➼ [Writing ✍️](/Writing)
 
 # FORMATTING
 
