@@ -13,4 +13,5 @@ https://www.tutorialspoint.com/system_analysis_and_design/system_design.htm
 
 System|Link
 :-:|:-:
+Alex Lu|System Design Tips - https://www.linkedin.com/in/alexxubyte/
 Stackoverflow|https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-6983452178417860608-YGFP
