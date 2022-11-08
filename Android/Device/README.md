@@ -1,5 +1,7 @@
-# Android Device
+# Device, Emulator, Mirror
 android devices information
+
+# DEVICE
 
 dpi|px|dp|aspect
 :-:|:-:|:-:|:-:
