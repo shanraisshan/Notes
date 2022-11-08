@@ -26,3 +26,9 @@ xxx | 1440 x 2560|360 x 640|16:9
 |:-:   |:-:           |:-:    |:-:      |:-:    |:-:     |:-:|:-:
 |Shayan|Google Pixel 3|12 (31)|1080x2160|360x720|~443 ppi|2:1|Long
 |Danish|
+
+# MIRRORING
+
+Name|Desc|Link
+:-:|:-:|:-:
+Vysor|Mobile Mirroring|https://www.vysor.io/download/
