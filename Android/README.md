@@ -6,7 +6,7 @@ android related stuff
 ### ➼ [Architecture (+Design Pattern, Principle, Paradigm) 🧱](Architecture)
 ### ➼ [Data 📊](Data)
 ### ➼ [Design 🎨](Design)
-### ➼ [Device 📱](Device)
+### ➼ [Device (+Emulator, Mirror) 📱](Device)
 ### ➼ [Link (+App,Deep,Dynamic,Universal) 🔗](Link)
 ### ➼ [Name (+Version) 📚](Name)
 ### ➼ [Push Notification 🔔](Push)
