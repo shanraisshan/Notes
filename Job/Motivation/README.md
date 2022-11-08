@@ -1,6 +1,13 @@
 # Motivation
 
-# LINKS
+# RELOCATION
+
+Company|Link|Date
+:-:|:-:|:-:
+Article|[How to find relocation jobs via LinkedIn?](https://www.linkedin.com/posts/laraib-fakhr_jobpostings-linkedin-relocation-activity-6989135485591781377-yuZH/)|25/Oct/2022
+
+
+# TECH
 
 Company|Link|Date
 :-:|:-:|:-:
