@@ -21,6 +21,14 @@ result = 40
 50 = result
 ```
 
+### 40 is 5% of What
+```
+40 = 5% of result 
+40 = (5/100) x result
+(40 x 100)/5 = result
+800 = result
+```
+
 ### Increase from 100 to 140, find % increase.
 ```
 140-100 = 40          ■ [incr-actual = diff]
