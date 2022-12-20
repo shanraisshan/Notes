@@ -7,7 +7,7 @@ android related stuff
 ### ➼ [Data 📊](Data)
 ### ➼ [Design 🎨](Design)
 ### ➼ [Device (+Emulator, Mirror) 📱](Device)
-### ➼ [Link (+App,Deep,Dynamic,Universal) 🔗](Link)
+### ➼ [Link (+App,Deep,Deferred,Dynamic,Universal) 🔗](Link)
 ### ➼ [Name (+Version) 📚](Name)
 ### ➼ [Push Notification 🔔](Push)
 ### ➼ [Referral 🤝](Referral)
