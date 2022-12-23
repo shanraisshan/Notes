@@ -1,7 +1,7 @@
 # Appsflyer
 
 ## Unified Deep Linking [Deferred Deep Link]
-https://dev.appsflyer.com/hc/docs/unified-deep-linking-udl-1
+https://dev.appsflyer.com/hc/docs/unified-deep-linking-udl
 
 |Examples|
 |---|
