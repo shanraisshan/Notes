@@ -3,16 +3,37 @@ history
 
 # LINKEDIN
 
-### [About - 21/Jan/2023](https://www.linkedin.com/in/shanraisshan/)
+## 21/Jan/2023
+### [About](https://www.linkedin.com/in/shanraisshan/)
 ```
 ■ DETAIL 
-••• Mobile Application Stores ♦
+••• Mobile A...
 ••• Languages ♦ Kotlin, Java, C, C++, C#, JS, XML, XAML, J2ME, HTML, CSS, Dart
 ••• IDE ♦ Android Studio, XCode, Visual Studio Code, Unity Game Engine
-••• Architecture ♦
+••• Architect...
 ```
 
-### [About - 30/Sep/2022](https://www.linkedin.com/in/shanraisshan/)
+### [Savyour](https://www.linkedin.com/in/shanraisshan/)
+```
+▌▌▌ Savyour ▌▌▌ 
+■ Responsibilities as a Lead ■
+● Team building...
+● Training and onboarding junior developers on product
+
+▌▌▌ Savyour Partner Apps (3 Platforms) - KOTLIN | FLUTTER | REACT NATIVE ▌▌▌ 
+■ Sample App that communicate with Savyour based on schemes, and notifies Savyour when order is placed
+
+▌▌▌ Savyour Utility App ▌▌▌ 
+Utility App developed to test
+■ Firebase/Huawei Push Notifications
+■ Deeplinks
+■ Partner App to App Integration of 3 Platforms (Kotlin | Flutter | React Native)
+
+```
+
+
+## 30/Sep/2022
+### [About](https://www.linkedin.com/in/shanraisshan/)
 ```
 ■ BASIC 
 ••• Mobile Application Enthusiast with an industry experience in scalable Android Applications.
@@ -41,7 +62,7 @@ history
 ••• Other Tools ♦ Adobe Photoshop, After Effects, FileZilla, Bandicam
 ```
 
-### [Savyour - 30/Sep/2022](https://www.linkedin.com/in/shanraisshan/)
+### [Savyour](https://www.linkedin.com/in/shanraisshan/)
 ```
 ▌▌▌ Savyour ▌▌▌ 
 ■ Responsibilities as a Lead ■
