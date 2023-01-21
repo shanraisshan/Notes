@@ -3,6 +3,15 @@ history
 
 # LINKEDIN
 
+### [About - 21/Jan/2023](https://www.linkedin.com/in/shanraisshan/)
+```
+■ DETAIL 
+••• Mobile Application Stores ♦
+••• Languages ♦ Kotlin, Java, C, C++, C#, JS, XML, XAML, J2ME, HTML, CSS, Dart
+••• IDE ♦ Android Studio, XCode, Visual Studio Code, Unity Game Engine
+••• Architecture ♦
+```
+
 ### [About - 30/Sep/2022](https://www.linkedin.com/in/shanraisshan/)
 ```
 ■ BASIC 
