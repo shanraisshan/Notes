@@ -48,6 +48,7 @@ https://developer.android.com/studio/releases
 
 | Names  | Release Date |
 | :---:  | :---:  |
+| Electric Eel - 2022.1.1  | Jan 23  |
 | Doplhin - 2021.3.1  | Sep 22  |
 | Chipmunk - 2021.2.1  | May 22  |
 | Bumblebee - 2021.1.1  | Jan 22  |
@@ -82,3 +83,4 @@ https://en.wikipedia.org/wiki/MacOS_version_history
 |macOS Catalina | 10.15|
 |macOS Big Sur | 11|
 |macOS Monterey | 12|
+|macOS Ventura | 13|
