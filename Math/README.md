@@ -29,10 +29,10 @@ result = 40
 800 = result
 ```
 
-### Increase from 100 to 140, find % increase.
+### Increase from 50 to 75, find % increase.
 ```
-140-100 = 40          ■ [incr-actual = diff]
-(40/100)x100 = 40%    ■ [diff/actual) x 100 = incr%]
+75-50 = 25           ■ [incr-actual = diff]
+(25/50)x100 = 50%    ■ [diff/actual) x 100 = incr%]
 ```
 # DISTANCE
 distance formula, way point, mid point formula, haversine formula
