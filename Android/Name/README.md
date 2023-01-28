@@ -48,6 +48,8 @@ https://developer.android.com/studio/releases
 
 | Names  | Release Date |
 | :---:  | :---:  |
+| Giraffe - 2022.3.1  | Canary Jan 23  |
+| Flamingo - 2022.2.1  | Canary Jan 23  |
 | Electric Eel - 2022.1.1  | Jan 23  |
 | Doplhin - 2021.3.1  | Sep 22  |
 | Chipmunk - 2021.2.1  | May 22  |
