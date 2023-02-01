@@ -9,6 +9,7 @@ Amazon|Osama Bin Bashir|https://www.linkedin.com/feed/update/urn:li:activity:697
 Google|Arsalan Ahmad|https://www.linkedin.com/posts/arslanahmad_google-sde-datastructures-activity-6982939240624005120-ewHQ - Google Interview Guide 2022
 Leetcode|Pratham Kohli|https://www.linkedin.com/posts/pratham-kohli_topleetcodeposts-that-you-cannot-miss-activity-6985883736722583553-ucr6 - top leet code post 
 Meta|Abdullah Al Mamun|https://www.linkedin.com/posts/newabdullah_coding-softwareengineer-machinelearning-activity-6988871617611264000-u0ps 
+Dry Code|Senior Android Developer Checklist|https://youtu.be/Rba2NkrRnHE
 
 # RESOURCE
 
