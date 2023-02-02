@@ -3,7 +3,7 @@ history
 
 # LINKEDIN
 
-## 21/Jan/2023
+## 2/Feb/2023
 ### [About](https://www.linkedin.com/in/shanraisshan/)
 ```
 ■ DETAIL 
@@ -20,7 +20,7 @@ history
 ● Team building...
 ● Training and onboarding junior developers on product
 
-▌▌▌ Savyour Partner Apps (3 Platforms) - KOTLIN | FLUTTER | REACT NATIVE ▌▌▌ 
+▌▌▌ Savyour Partner Apps (4 Platforms) - KOTLIN | FLUTTER | REACT NATIVE | IONIC ▌▌▌ 
 ■ Sample App that communicate with Savyour based on schemes, and notifies Savyour when order is placed
 
 ▌▌▌ Savyour Utility App ▌▌▌ 
