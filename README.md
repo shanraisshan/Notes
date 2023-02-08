@@ -10,6 +10,7 @@ i like writing and saving things that are useful, some of the content that is he
 ### ➼ [Database 📊](/Database)
 ### ➼ [Design 🎨](/Design)
 ### ➼ [Hardware 📦](/Hardware)
+### ➼ [Hybrid (+Cross Platform) ✝️](/Hybrid)
 ### ➼ [IQ 🧠](/IQ)
 ### ➼ [Job 💼](/Job)
 ### ➼ [Language 🗣️](/Language)
