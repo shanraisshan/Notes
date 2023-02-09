@@ -10,3 +10,5 @@ different cross platform technologies
 5|Phone Gap|Javascript
 6|Unity3D|C#, Javascript
 7|Apache Cordova|Javascript
+
+![alt text](!/hybrid.png)
