@@ -1,6 +1,6 @@
 # Abbreviation (Terminology)
 
-1. [Abbreviation](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#abbreviation) [11]
+1. [Abbreviation](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#abbreviation) [12]
 2. [Terminology](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#terminology) [3]
 3. [Quotes](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#quotes)
 4. [Similarity](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#similarity)
@@ -53,7 +53,14 @@ Abbreviation|Full Form|Desc
 B2B|Business to Business|
 B2C|Business to Consumer|
 
-## 4. Database
+## 4. Command
+Abbreviation|Full Form|Desc
+:-:|:-:|:-:
+npm|Node Package Manager|
+npx|Node Package eXecute|
+yarn|Yet Another Resource Negotiator|
+
+## 5. Database
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 ACID|Atomicity Consistency Isolation Durability|
@@ -70,12 +77,12 @@ SIUD|Select Insert Update Delete|
 SQL|Structured Query Language|
 TCL|Transaction Control Language|
 
-## 5. Design
+## 6. Design
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 CGI|Computer-generated Imagery|
 
-## 6. General
+## 7. General
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 PR|Pull Request|
@@ -83,7 +90,7 @@ SDK|Software Development Kit|
 RC|Release Candidate|
 XML|Extensible Markup Language|
 
-## 7. Network
+## 8. Network
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 API|Application Programming Interface|
@@ -97,7 +104,7 @@ TCP|Transmission Control Protocol|
 UDP|User Datagram Protocol|
 XMPP|Extensible Messaging and Presence Protocol|
 
-## 8. Management
+## 9. Management
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 CRM|Customer Relationship Management|
@@ -117,7 +124,7 @@ SD|Sales and Distribution|
 SRM|Supplier Relationship Management|
 WMS|Warehouse management system|
 
-## 9. Project/Product
+## 10. Project/Product
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 AC|Actual Cost|
@@ -144,17 +151,19 @@ QP|Quality Planning|
 ROI|Return on Investment|
 SRS|Software Requirements Specification|
 
-## 10. Security
+## 11. Security
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 CIA|Confidentiality Integrity Availability|
 
-## 11. Tech Stack
+## 12. Tech Stack
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 LAMP|Linux, Apache, MySQL, PHP|
-MEAN|MongoDB, Express, Angular, Node|
-MERN|MongoDB, Express, React, Node|
+MEAN|MongoDB, ExpressJS, AngularJS, Node.JS|
+MERN|MongoDB, ExpressJS, ReactJS, Node.JS|
+MEVN|MongoDB, ExpressJS, Vue.JS, Node.JS|
+WAMP|Windows, Apache, MySQL, PHP|
 
 # TERMINOLOGY
 
@@ -213,10 +222,11 @@ Verbose|[لفظی, wordy] expressed in more words than are needed
 
 General|Defination
 :-:|:-:
-Vicinity|the area near or surrounding a particular place
 Ball park|range within which an estimate is likely to be correct
 Barter|exchange (goods or services) for other without using money
 Compliance|the act of obeying an order
+Pivot|[محور] rotate, turn, revolve, spin
+Vicinity|the area near or surrounding a particular place
 
 # QUOTES
 
