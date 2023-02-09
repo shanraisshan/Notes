@@ -1,12 +1,12 @@
 # Hybrid (+Cross Platform) ✝️
 different cross platform technologies
 
-#|Technologies
-:-:|:-:
-1|React Native
-2|Flutter
-3|Ionic
-4|Titanium
-5|Phone Gap
-6|Unity3D
-7|Apache Cordova
+#|Technologies|Languages
+:-:|:-:|:-:
+1|React Native|Javascript
+2|Flutter|Dart
+3|Ionic|Typescript
+4|Titanium|Javascript
+5|Phone Gap|Javascript
+6|Unity3D|C#, Javascript
+7|Apache Cordova|Javascript
