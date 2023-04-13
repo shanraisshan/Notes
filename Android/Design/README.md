@@ -25,4 +25,11 @@ resolution scale: https://www.omnicalculator.com/other/resolution-scale
 
 https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/video/
 
+# Backend
+Normally provide 3X, if pixelate then 4X
+dp|3x|4x
+:-:|:-:|:-:
+360x135 dp|1080x405 px|1440x540 px
+
+
 
