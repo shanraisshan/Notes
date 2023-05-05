@@ -48,6 +48,7 @@ https://developer.android.com/studio/releases
 
 | Names  | Release Date |
 | :---:  | :---:  |
+| Hedgehog - 2023.1.1  | Canary Apr 23  |
 | Giraffe - 2022.3.1  | Canary Jan 23  |
 | Flamingo - 2022.2.1  | Canary Jan 23  |
 | Electric Eel - 2022.1.1  | Jan 23  |
