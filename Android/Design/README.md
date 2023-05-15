@@ -36,5 +36,15 @@ dp|3x|4x
 ![dp-width](https://github.com/shanraisshan/Notes/blob/main/Android/Design/!/dp-width.png)
 ![dp-height](https://github.com/shanraisshan/Notes/blob/main/Android/Design/!/dp-height.png)
 
+----
+
+### Dashboard Greeting Image
+
+Platform|Old|New
+:-:|:-:|:-:
+Android|360:481 dp = 1.336|360:581 dp = 1.613
+iOS|414:538 pt = 1.299|414:623 pt = 1.504
+Backend (4x)|1440:2324 px = 1.613|1440:2324 px = 1.613
+
 
 
