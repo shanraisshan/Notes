@@ -38,7 +38,7 @@ dp|3x|4x
 
 ----
 
-### Dashboard Greeting Image
+### [Dashboard Greeting Image](https://docs.google.com/document/d/1cAYB_hRuZOD9TBVNiuQNsw_vnmTUAY8ifTa0kiQsqzk/edit#heading=h.fvouov8v0qs1)
 
 Platform|Old|New
 :-:|:-:|:-:
