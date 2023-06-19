@@ -66,3 +66,17 @@ https://en.wikipedia.org/wiki/MacOS_version_history
 |macOS Catalina | 10.15|
 |macOS Big Sur | 11|
 |macOS Monterey | 12|
+
+## Others
+
+https://en.wikipedia.org/wiki/MacOS_version_history
+
+| Device  | OS |
+| :---:  | :---:  |
+|Huawei | Harmony|
+|Huawei | EMUI (Emotion UI)|
+|OnePlus | OxygenOS|
+|Infinix | XOS|
+|Xiomi | MIUI|
+|Techno | HiOS|
+|Oppo | ColorOS|
