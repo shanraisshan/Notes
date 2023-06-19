@@ -42,6 +42,30 @@ https://source.android.com/setup/start/build-numbers
 |(no codename)|	1.1|	API level 2|Petit Four
 |(no codename)|	1.0|	API level 1|-
 
+## Other Mobile OS
+
+| Device  | OS | Latest (19/June/23)|
+| :---:  | :---:  | :---:  |
+|Samsung | One UI|5.1|
+|Xiomi | MIUI| 14.0.2|
+|Huawei | Harmony| 3.1|
+|Huawei | EMUI (Emotion UI)|13|
+|OnePlus | OxygenOS|13
+|Infinix | XOS|7.6|
+|Techno | HiOS|13|
+|Oppo | ColorOS| 13.1|
+
+## Smartwatch
+
+| Device  | OS | Latest (19/June/23)|
+| :---:  | :---:  | :---:  |
+|Google | Wear OS| 4.0|
+
+## TV
+
+| Device  | OS | Latest (19/June/23)|
+| :---:  | :---:  | :---:  |
+|x | x| x|
 
 ## Mac OS X / OS X / macOS
 
@@ -70,18 +94,3 @@ https://en.wikipedia.org/wiki/MacOS_version_history
 |macOS Monterey | 12|
 |macOS Ventura | 13|
 |macOS Sonoma | 14|
-
-## Others
-
-https://en.wikipedia.org/wiki/MacOS_version_history
-
-| Device  | OS | Latest (19/June/23)|
-| :---:  | :---:  | :---:  |
-|Samsung | One UI|5.1|
-|Xiomi | MIUI| 14.0.2|
-|Huawei | Harmony| 3.1|
-|Huawei | EMUI (Emotion UI)|13|
-|OnePlus | OxygenOS|13
-|Infinix | XOS|7.6|
-|Techno | HiOS|13|
-|Oppo | ColorOS| 13.1|
