@@ -65,7 +65,7 @@ https://source.android.com/setup/start/build-numbers
 
 | Device  | OS | Latest (19/June/23)|
 | :---:  | :---:  | :---:  |
-|x | x| x|
+|TCL Roku TV | Roku OS| 12|
 
 ## Mac OS X / OS X / macOS
 
