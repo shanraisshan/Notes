@@ -60,12 +60,15 @@ https://source.android.com/setup/start/build-numbers
 | Device  | OS | Latest (19/June/23)|
 | :---:  | :---:  | :---:  |
 |Google | Wear OS| 4.0|
+|Samsung | Tizen| 8.0|
 
 ## TV
 
 | Device  | OS | Latest (19/June/23)|
 | :---:  | :---:  | :---:  |
 |TCL Roku TV | Roku OS| 12|
+|Samsung | Tizen OS| x|
+|LG | webOS| x|
 
 ## Mac OS X / OS X / macOS
 
