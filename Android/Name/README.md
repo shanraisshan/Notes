@@ -7,6 +7,8 @@ https://source.android.com/setup/start/build-numbers
 
 |Codename|	Version	|API level/NDK release|Internal codename|Release
 |:-:|:-:|:-:|:-:|:-:
+|Android15 |	15|	API level 35|Vanilla Ice Cream
+|Android14 |	14|	API level 34|Upside Down Cake
 |Android13 |	13|	API level 33|Tiramisu|August 15, 2022
 |Android12 |	12|	API level 32|Snow Cone v2|March 7, 2022
 |Android12 |	12|	API level 31|Snow Cone|October 4, 2021
@@ -60,3 +62,23 @@ https://developer.android.com/studio/releases
 | 4.1  | Aug 20  |
 | 4.0  | May 20  |
 | 3.6  | Feb 20  |
+
+
+# STORES
+
+| Platform  | Store |
+| :---:  | :---:  |
+| Google | Playstore |
+| Huawei | App Gallery |
+| Samsung | Galaxy Store |
+| Infinix | Palm Store (Transsion Developer) |
+| Xiomi | Mi Picks |
+| Oppo | App Market |
+| Amazon | Appstore |
+| iOS | App Store |
+| Nokia | Ovi Store |
+| Microsoft | Microsoft Store |
+
+
+
+
