@@ -5,7 +5,8 @@ latest devices info
 
 | Brand| Device| OS| Release Date (21/June/23)|
 | :---: | :---: | :---: |:---: |
-|Samsung|Galaxy S23|5.1|17/Feb/23|
+|Samsung|Galaxy S23|Android 13, One UI 5.1|17/Feb/23|
+|Redmi|Note 12 Pro+ 5G|Android 12, MIUI 13|1/Nov/22|
 
 ## Smartwatch
 | Brand| Device| OS| Release Date (21/June/23)|
