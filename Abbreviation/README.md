@@ -43,6 +43,7 @@ OOD|Object Oriented Design
 OOP|Object Oriented Programming|
 SLAP|Single Layer of Abstraction Principle|
 SOLID|Single-R-P / Open-C-P / Liskov-S-P / Interface-S-P / Dependency-I-P |
+SSOT|Single Source of Truth
 TDD|Test Driven Development|
 UML|Unified Modeling Language|
 YAGNI|You Aren’t Gonna Need It|
