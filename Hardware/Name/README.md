@@ -1,8 +1,7 @@
 # Names Version
-latest devices info
+latest info
 
 ## Mobile
-
 | Brand| Device| OS| Release Date (21/June/23)|
 | :---: | :---: | :---: |:---: |
 |Samsung|Galaxy S23|Android 13, One UI 5.1|17/Feb/23|
@@ -16,9 +15,13 @@ latest devices info
 |Google| Pixel Watch|x|x/x/23|
 |Apple| Series 8|x|x/x/23|
 
+## TYPES OF DEVICES
 
-Samsung
-Huawei Watch 3 Pro Classic
-Amazfit GTR 4
-Google Pixel Watch
-Apple Series 8
+### Mobile
+| Type| Description|
+| :---: | :---: |
+|Rooted (Android)(Software)|do things like overclock and underclock the cpu/gpu, use a custom kernel, remove bloatware, and more.|
+|Jailbreak (iOS)(Software)|abc|
+|Flagship (Hardware)|abc|
+|Kit (Hardware)|abc|
+|Refurbished (Hardware)|abc|
