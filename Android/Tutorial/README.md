@@ -1,4 +1,4 @@
-# Tutorial
+# Tutorial, Cheat Sheet, Quick Reference
 famous personalities
 
 ## Android Personalities
