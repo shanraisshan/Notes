@@ -100,6 +100,7 @@ IP|Internet Protocol|
 HTTP|Hypertext Transfer Protocol|
 JSON|JavaScript Object Notation|
 REST|Representational state transfer|
+SOAP|Simple Object Access Protocol|
 SMTP|Simple Mail Transfer Protocol|
 TCP|Transmission Control Protocol|
 UDP|User Datagram Protocol|
