@@ -12,6 +12,6 @@ android related stuff
 ### ➼ [Push Notification 🔔](Push)
 ### ➼ [Referral 🤝](Referral)
 ### ➼ [Security 🔒](Security)
-### ➼ [Tutorial ✒️](Tutorial)
+### ➼ [Tutorial (+Cheat Sheet, Quick Reference) ✒️](Tutorial)
 
 
