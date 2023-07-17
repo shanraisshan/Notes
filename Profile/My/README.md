@@ -40,7 +40,7 @@ Utility App developed to test
 ••• A Gamer. Keen Interest in VR/AR with Bachelor's FYP is an AR Mobile Game and Master's FYP is a VR Medical Mobile Game. Also the founder of Gaming Channel (youtube.com/gamersmeetworld)
 
 ■ DETAIL 
-••• Mobile Application Stores ♦ Google Play, Huawei App Gallery, Microsoft Store, Nokia Ovi Store
+••• Mobile Application Stores ♦ Google Play, Huawei App Gallery, Palm Store, Microsoft Store, Nokia Ovi Store
 ••• Languages ♦ Kotlin, Java, C, C++, C#, JS, XML, XAML, J2ME, HTML, CSS
 ••• Architecture ♦ Clean Code Architecture, MVP, MVVM
 ••• Analytics ♦ Mixpanel, Facebook, Firebase (Google-GA4), Urban Airship, AppsFlyer
