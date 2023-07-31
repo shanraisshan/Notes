@@ -18,3 +18,4 @@ sample profiles on different platforms with unique ideas
 |Name|Link|Unique
 |:-:|:-:|:-:
 |Deepak Kumar|https://www.linkedin.com/in/dee-android/|Animated slides of android concepts
+|Yasir Israr - Islamabad|https://www.linkedin.com/in/yasir-israr-0b017656/|App Growth - Transsion Developer
