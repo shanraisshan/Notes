@@ -11,8 +11,8 @@ https://savyour.com.pk/.well-known/assetlinks.json
 1. [Android App Links](Android)
 2. [Adjust Deep Link](Adjust)
 3. [Appsflyer OneLink](Appsflyer)
-4. [Firebase Dynamic Link](Firebase)
-5. [Facebook Deep Link](Facebook)
+4. [Facebook Deep Link](Facebook)
+5. [Firebase Dynamic Link](Firebase)
 
 ## Defaults
 [set default](Default)
