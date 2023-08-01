@@ -2,7 +2,7 @@
 android related stuff
 
 ### ➼ [A/B Testing 🆎](AB)
-### ➼ [Analytics 📈](Analytics)
+### ➼ [Analytic 📈](Analytic)
 ### ➼ [Architecture (+Design Pattern, Principle, Paradigm) 🧱](Architecture)
 ### ➼ [Data 📊](Data)
 ### ➼ [Design 🎨](Design)
