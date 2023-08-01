@@ -15,4 +15,7 @@ https://savyour.com.pk/.well-known/assetlinks.json
 5. [Firebase Dynamic Link](Firebase)
 
 ## Defaults
+Settings -> Apps -> Manage Apps -> Default Apps -> Opening Links -> Savyour (Open Supported Links)
+
+
 [set default](Default)
