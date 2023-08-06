@@ -167,6 +167,11 @@ MERN|MongoDB, ExpressJS, ReactJS, Node.JS|
 MEVN|MongoDB, ExpressJS, Vue.JS, Node.JS|
 WAMP|Windows, Apache, MySQL, PHP|
 
+## 13. Others
+Abbreviation|Full Form|Desc
+:-:|:-:|:-:
+IELTS|International English Language Testing System|
+
 # TERMINOLOGY
 
 ## 1. Tech
