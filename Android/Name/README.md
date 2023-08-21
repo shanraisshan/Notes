@@ -74,6 +74,7 @@ https://developer.android.com/studio/releases
 | Infinix | Palm Store (Transsion Developer) |
 | Xiomi | Mi Picks |
 | Oppo | App Market |
+| Vivo | V-Appstore |
 | Amazon | Appstore |
 | iOS | App Store |
 | Nokia | Ovi Store |
