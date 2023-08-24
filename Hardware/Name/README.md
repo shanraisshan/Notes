@@ -15,6 +15,12 @@ latest info
 |Google| Pixel Watch|x|x/x/23|
 |Apple| Series 8|x|x/x/23|
 
+## Companies
+| Companies| Subsidiaries|
+| :---: | :---: |
+|Transsion Holdings|Tecno Mobile, Infinix Mobile, itel Mobile|
+|BBK Electronics| Oppo, Vivo, and Realme. (Oppo's subsidiaries -> OnePlus)|
+
 ## DEFINATIONS
 
 ### MOBILE DEVICES
