@@ -16,10 +16,11 @@ latest info
 |Apple| Series 8|x|x/x/23|
 
 ## Companies
-| Companies| Subsidiaries|
-| :---: | :---: |
-|Transsion Holdings|Tecno Mobile, Infinix Mobile, itel Mobile|
-|BBK Electronics| Oppo, Vivo, and Realme. (Oppo's subsidiaries -> OnePlus)|
+| Companies| Subsidiaries|Details|
+| :---: | :---: |:---: |
+|Transsion Holdings|Infinix Mobile, itel Mobile, Tecno Mobile||
+|BBK Electronics| Oppo, Realme, Vivo| Oppo's subsidiaries -> OnePlus|
+|Xiomi|Mi, Poco, Redmi||
 
 ## DEFINATIONS
 
