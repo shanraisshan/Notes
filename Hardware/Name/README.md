@@ -18,9 +18,9 @@ latest info
 ## Companies
 | Companies| Subsidiaries|Details|
 | :---: | :---: |:---: |
-|Transsion Holdings|Infinix Mobile, itel Mobile, Tecno Mobile||
-|BBK Electronics| Oppo, Realme, Vivo| Oppo's subsidiaries -> OnePlus|
-|Xiomi|Mi, Poco, Redmi||
+|BBK Electronics| Oppo, Realme, Vivo| Oppo subsidiary -> OnePlus|
+|Transsion Holdings|Infinix Mobile, itel Mobile, Tecno Mobile|-|
+|Xiomi|Mi, Poco, Redmi|-|
 
 ## DEFINATIONS
 
