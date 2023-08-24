@@ -18,7 +18,9 @@ latest info
 ## Companies
 | Companies| Subsidiaries|Details|
 | :---: | :---: |:---: |
-|BBK Electronics| Oppo, Realme, Vivo| Oppo subsidiary -> OnePlus|
+|BBK Electronics| Oppo, Realme, Vivo| Oppo subsidiary (OnePlus)|
+|Honor|municipal government of Shenzhen|formerly (Huawei)|
+|Lenovo|Motorola Mobility|-|
 |Transsion Holdings|Infinix Mobile, itel Mobile, Tecno Mobile|-|
 |Xiomi|Mi, Poco, Redmi|-|
 
