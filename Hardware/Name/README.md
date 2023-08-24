@@ -15,9 +15,9 @@ latest info
 |Google| Pixel Watch|x|x/x/23|
 |Apple| Series 8|x|x/x/23|
 
-## TYPES OF DEVICES
+## DEFINATIONS
 
-### Mobile
+### MOBILE DEVICES
 | Type| Description|
 | :---: | :---: |
 |Rooted (Android)(Software)|do things like overclock and underclock the cpu/gpu, use a custom kernel, remove bloatware, and more.|
@@ -25,3 +25,8 @@ latest info
 |Flagship (Hardware)|abc|
 |Kit (Hardware)|abc|
 |Refurbished (Hardware)|abc|
+
+### COMPANIES
+| Type| Description|
+| :---: | :---: |
+|Subsidiary|a company controlled by a holding (parent) company|
