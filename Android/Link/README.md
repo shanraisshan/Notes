@@ -5,6 +5,8 @@ linking much?
 
 https://savyour.com.pk/.well-known/apple-app-site-association
 
+https://ps43.adj.st/.well-known/apple-app-site-association
+
 https://savyour.com.pk/.well-known/assetlinks.json
 
 ## Platforms
