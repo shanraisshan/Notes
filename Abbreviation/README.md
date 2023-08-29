@@ -1,6 +1,6 @@
 # Abbreviation (Terminology)
 
-1. [Abbreviation](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#abbreviation) [13]
+1. [Abbreviation](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#abbreviation) [14]
 2. [Terminology](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#terminology) [3]
 3. [Quotes](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#quotes)
 4. [Similarity](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#similarity)
@@ -91,7 +91,13 @@ SDK|Software Development Kit|
 RC|Release Candidate|
 XML|Extensible Markup Language|
 
-## 8. Network
+## 8. Hardware
+Abbreviation|Full Form|Desc
+:-:|:-:|:-:
+ODM|original design manufacturer|
+OEM|original equipment manufacturer|
+
+## 9. Network
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 API|Application Programming Interface|
@@ -106,7 +112,7 @@ TCP|Transmission Control Protocol|
 UDP|User Datagram Protocol|
 XMPP|Extensible Messaging and Presence Protocol|
 
-## 9. Management
+## 10. Management
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 CRM|Customer Relationship Management|
@@ -126,7 +132,7 @@ SD|Sales and Distribution|
 SRM|Supplier Relationship Management|
 WMS|Warehouse management system|
 
-## 10. Project/Product
+## 11. Project/Product
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 AC|Actual Cost|
@@ -153,12 +159,12 @@ QP|Quality Planning|
 ROI|Return on Investment|
 SRS|Software Requirements Specification|
 
-## 11. Security
+## 12. Security
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 CIA|Confidentiality Integrity Availability|
 
-## 12. Tech Stack
+## 13. Tech Stack
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 LAMP|Linux, Apache, MySQL, PHP|
@@ -167,7 +173,7 @@ MERN|MongoDB, ExpressJS, ReactJS, Node.JS|
 MEVN|MongoDB, ExpressJS, Vue.JS, Node.JS|
 WAMP|Windows, Apache, MySQL, PHP|
 
-## 13. Others
+## 14. Others
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 IELTS|International English Language Testing System|
