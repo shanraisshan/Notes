@@ -10,7 +10,7 @@ also update [Notes/Android/Name->STORES](https://github.com/shanraisshan/Notes/t
 | Samsung | [Galaxy Store](Galaxy-Store) |-|
 | Infinix/iTel/Techno (Transsion) | [Palm Store](Palm-Store)|https://dev.transsion.com/doc/en/console/applicationClaim/|
 | Redmi (Xiomi) | [Mi Picks](Mi-Picks) |-|
-| Oppo (BBK) | [App Market](App-Market) |-|
-| Vivo (BBK) | [V-Appstore](V-Appstore) | https://developers.oppomobile.com/wiki/doc/index#id=12 |
+| Oppo (BBK) | [App Market](App-Market) |https://developers.oppomobile.com/wiki/doc/index#id=12|
+| Vivo (BBK) | [V-Appstore](V-Appstore) |  |
 | Amazon | [Amazon Appstore](Amazon-Appstore) |-|
 
