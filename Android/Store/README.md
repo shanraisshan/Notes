@@ -12,5 +12,5 @@ also update [Notes/Android/Name->STORES](https://github.com/shanraisshan/Notes/t
 | Redmi (Xiomi) | [Mi Picks](Mi-Picks) |-|
 | Oppo (BBK) | [App Market](App-Market) |-|
 | Vivo (BBK) | [V-Appstore](V-Appstore) | https://developers.oppomobile.com/wiki/doc/index#id=12 |
-| Amazon | [Appstore](Appstore) |-|
+| Amazon | [Amazon Appstore](Amazon-Appstore) |-|
 
