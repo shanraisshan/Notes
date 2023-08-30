@@ -2,6 +2,7 @@
 oppo app-market
 
 # Claiming App
+https://developers.oppomobile.com/wiki/doc/index#id=12
 
 ## App Signing Process
 1) open cmd (as admininstrator)
