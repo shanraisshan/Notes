@@ -42,7 +42,7 @@ https://source.android.com/setup/start/build-numbers
 |(no codename)|	1.1|	API level 2|Petit Four
 |(no codename)|	1.0|	API level 1|-
 
-## Other Mobile OS
+## Other Android OS
 
 | Device  | OS | Latest (19/June/23)|
 | :---:  | :---:  | :---:  |
