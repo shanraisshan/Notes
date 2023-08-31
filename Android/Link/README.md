@@ -19,5 +19,36 @@ https://savyour.com.pk/.well-known/assetlinks.json
 ## Defaults
 Settings -> Apps -> Manage Apps -> Default Apps -> Opening Links -> Savyour (Open Supported Links)
 
-
 [set default](Default)
+
+## Multi Site
+examples
+
+1. domain (shopback.sg)
+2. sub domain (en-ae.pg.com/)
+3. directory (noon.com/uae-en/)
+
+### 1) domain
+
+|Examples|
+|---|
+|https://www.shopback.sg/|
+|https://www.shopback.com.tw/|
+|https://www.shopback.de/|
+
+
+### 2) subdomain
+
+|Examples|
+|---|
+|https://en-ae.pg.com/|
+|https://ar-eg.pg.com/|
+
+### 3) directory
+
+|Examples|
+|---|
+|https://www.noon.com/saudi-ar/|
+|https://www.noon.com/uae-en/|
+
+
