@@ -3,6 +3,8 @@ names, versions related stuff
 
 # ANDROID OS
 
+also update [Notes/Operating/Name->Android](https://github.com/shanraisshan/Notes/tree/main/Operating/Name)
+
 https://source.android.com/setup/start/build-numbers
 
 |Codename|	Version	|API level/NDK release|Internal codename|Release
@@ -43,6 +45,19 @@ https://source.android.com/setup/start/build-numbers
 |(no codename)|	1.1|	API level 2|Petit Four|February 9, 2009
 |(no codename)|	1.0|	API level 1|-|September 23, 2008
 
+## Other Android OS
+
+| Device  | OS | Latest (19/June/23)|
+| :---:  | :---:  | :---:  |
+|Samsung | One UI|5.1|
+|Xiomi | MIUI| 14.0.2|
+|Huawei | Harmony| 3.1|
+|Huawei | EMUI (Emotion UI)|13|
+|OnePlus | OxygenOS|13
+|Infinix | XOS|7.6|
+|Techno | HiOS|13|
+|Oppo | ColorOS| 13.1|
+
 # ANDROID STUDIO
 
 We are also giving each major release a version name, incrementing from A to Z based on animal names.
@@ -65,6 +80,8 @@ https://developer.android.com/studio/releases
 
 
 # STORES
+
+also update [Notes/Android/Store](https://github.com/shanraisshan/Notes/tree/main/Android/Store)
 
 | Platform  | Store |
 | :---:  | :---:  |
