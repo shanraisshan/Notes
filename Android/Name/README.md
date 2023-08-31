@@ -79,7 +79,7 @@ https://developer.android.com/studio/releases
 | 3.6  | Feb 20  |
 
 
-# STORES
+# ANDROID STORE
 
 also update [Notes/Android/Store](https://github.com/shanraisshan/Notes/tree/main/Android/Store)
 
