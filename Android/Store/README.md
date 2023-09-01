@@ -30,4 +30,10 @@ https://support.apple.com/guide/deployment/bundle-ids-for-native-iphone-and-ipad
 | :---:  | :---:  |  :---:  | :---:  |
 | Microsoft | [Microsoft Store](Microsoft-Store) ||-|
 
+## Nokia
+
+| Platform  | Store | Developer Console | Package |
+| :---:  | :---:  |  :---:  | :---:  |
+| Nokia | [Ovi Store](Ovi-Store) ||-|
+
 
