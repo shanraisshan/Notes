@@ -22,13 +22,13 @@ https://support.apple.com/guide/deployment/bundle-ids-for-native-iphone-and-ipad
 
 | Platform  | Store | Package | Developer Console |
 | :---:  | :---:  |  :---:  | :---:  |
-| Apple | [App Store](App-Store) |com.apple.AppStore|https://developer.apple.com/|
+| Apple | [App Store](App-Store) |com.apple.AppStore|[developer.apple.com](https://developer.apple.com/)|
 
 ## Microsoft
 
 | Platform  | Store | Package | Developer Console |
 | :---:  | :---:  |  :---:  | :---:  |
-| Microsoft | [Microsoft Store](Microsoft-Store) ||https://developer.microsoft.com/en-us/microsoft-store/register/|
+| Microsoft | [Microsoft Store](Microsoft-Store) ||[developer.microsoft.com](https://developer.microsoft.com/en-us/microsoft-store/register/)|
 
 ## Nokia
 
