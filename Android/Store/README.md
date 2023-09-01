@@ -7,7 +7,7 @@ also update [Notes/Android/Name->STORES](https://github.com/shanraisshan/Notes/t
 
 | Platform  | Store | Package | Web | Developer Console |
 | :---:  | :---:  |  :---:  | :---:  | :---:  |
-| Google | [Playstore](Playstore) |com.android.vending|[x](x)|[play.google.com](https://play.google.com/console/u/4/developers/7640886278317067267/app-list)|
+| Google | [Playstore](Playstore) |com.android.vending|[x](x)|[play.google.com/console/developers](https://play.google.com/console/developers/7640886278317067267/app-list)|
 | Huawei | [App Gallery](App-Gallery) |com.huawei.appmarket|[x](x)|[developer.huawei.com](https://developer.huawei.com/consumer/en/service/josp/agc/index.html#/myApp)|
 | Samsung | [Galaxy Store](Galaxy-Store) |com.sec.android.app.samsungapps|[x](x)|[developer.samsung.com](https://developer.samsung.com/galaxy-store)|
 | Infinix/iTel/Techno (Transsion) | [Palm Store](Palm-Store)|com.transsnet.store|[x](x)|[dev.transsion.com](https://dev.transsion.com/admin-application/manage/list)|
