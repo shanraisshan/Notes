@@ -9,7 +9,7 @@ also update [Notes/Android/Name->STORES](https://github.com/shanraisshan/Notes/t
 | :---:  | :---:  |  :---:  | :---:  |
 | Google | [Playstore](Playstore) |com.android.vending|https://play.google.com/console/u/4/developers/7640886278317067267/app-list|
 | Huawei | [App Gallery](App-Gallery) |com.huawei.appmarket|https://developer.huawei.com/consumer/en/service/josp/agc/index.html#/myApp|
-| Samsung | [Galaxy Store](Galaxy-Store) |-|https://developer.samsung.com/galaxy-store|
+| Samsung | [Galaxy Store](Galaxy-Store) |com.sec.android.app.samsungapps|https://developer.samsung.com/galaxy-store|
 | Infinix/iTel/Techno (Transsion) | [Palm Store](Palm-Store)|com.transsnet.store|https://dev.transsion.com/admin-application/manage/list|
 | Redmi (Xiomi) | [Mi Picks](Mi-Picks)|com.xiomi.mipicks |https://global.developer.mi.com/home|
 | Oppo (BBK) | [App Market](App-Market) |com.oppo.market|https://developers.oppomobile.com/user/admin#/resource/list?type=app|
