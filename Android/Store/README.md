@@ -15,7 +15,7 @@ also update [Notes/Android/Name->STORES](https://github.com/shanraisshan/Notes/t
 | Oppo (BBK) | [App Market](App-Market) |com.oppo.market|[developers.oppomobile.com](https://developers.oppomobile.com/user/admin#/resource/list?type=app)|
 | Vivo (BBK) | [V-Appstore](V-Appstore)|com.vivo.appstore |[developer.vivo.com](https://developer.vivo.com/home)|
 | Realme (BBK)|-|-|-|
-| Amazon | [Amazon Appstore](Amazon-Appstore)|- |[developer.amazon.com](https://developer.amazon.com/)|
+| Amazon | [Amazon Appstore](Amazon-Appstore)|com.amazon.venezia |[developer.amazon.com](https://developer.amazon.com/)|
 
 ## iOS
 https://support.apple.com/guide/deployment/bundle-ids-for-native-iphone-and-ipad-apps-depece748c41/web
