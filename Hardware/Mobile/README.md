@@ -10,3 +10,4 @@ https://youtu.be/fYQcj-rWgEo?t=34
 - Refurbished 
 - IMEI Patch/Clone (lost on reset)
 - VIP/Pakka IMEI Patch/Clone
+- CPID (Client Process ID) [Server Patch - Samsung Only] 
