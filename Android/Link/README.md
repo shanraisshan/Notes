@@ -50,5 +50,6 @@ examples
 |---|
 |https://www.noon.com/saudi-ar/|
 |https://www.noon.com/uae-en/|
+|https://www.saudia.com/en-PK/booking|
 
 
