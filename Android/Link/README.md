@@ -9,6 +9,12 @@ https://ps43.adj.st/.well-known/apple-app-site-association
 
 https://savyour.com.pk/.well-known/assetlinks.json
 
+### Validate these files (invalid content type issue)
+
+https://yurl.chayev.com/ios-results?url=https%3A%2F%2Fsavyour.com.pk
+
+https://branch.io/resources/aasa-validator/
+
 ## Platforms
 1. [Android App Links](Android)
 2. [Adjust Deep Link](Adjust)
