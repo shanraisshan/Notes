@@ -5,3 +5,6 @@ words to use
 - likewise
 - come again
 
+## Sophisticated 
+- diligent (careful / hard-working)
+
