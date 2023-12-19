@@ -31,6 +31,7 @@ latest info
 | :---: | :---: |
 |Flagship (Hardware)|abc|
 |Jailbreak (iOS)(Software)|abc|
+|JV (iOS)(Software)|phone unlocked by a specific network provider using 3rd-party software without the authorization of phone manufacturer|
 |Kit (Hardware)|abc|
 |Refurbished (Hardware)|abc|
 |Rooted (Android)(Software)|do things like overclock and underclock the cpu/gpu, use a custom kernel, remove bloatware, and more.|
