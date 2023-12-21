@@ -48,6 +48,7 @@ https://source.android.com/setup/start/build-numbers
 | :---:  | :---:  | :---:  |
 |Samsung | One UI|5.1|
 |Xiomi | MIUI| 14.0.2|
+|Xiomi | HyperOS| 1.0|
 |Huawei | Harmony| 3.1|
 |Huawei | EMUI (Emotion UI)|13|
 |OnePlus | OxygenOS|13
