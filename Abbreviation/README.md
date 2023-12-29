@@ -240,6 +240,7 @@ Barter|exchange (goods or services) for other without using money
 Compliance|the act of obeying an order
 Pivot|[محور] rotate, turn, revolve, spin
 Vicinity|the area near or surrounding a particular place
+Unicorn|venture capital industry to describe a startup company with a value of over $1 billion
 
 # QUOTES
 
