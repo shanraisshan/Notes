@@ -3,11 +3,15 @@ i like writing and saving things that are useful, some of the content that is he
 
 ### ➼ [Abbreviation (+Terminology) 🔤](/Abbreviation)
 ### ➼ [Academic 🎓](/Academic)
+### ➼ [Analytic 📈](/Analytic)
 ### ➼ [Android.](/Android) <a href="/Design"><img src="icon/icon-android-30x30.png"/></a>
 ### ➼ [Algorithm 👨🏻‍💻](/Algorithm)
 ### ➼ [Architecture (+Design Pattern, Principle, Paradigm) 🧱](Architecture)
 ### ➼ [Backend 🖥️](/Backend)
+### ➼ [CI/CD ♻️](/CiCd)
+### ➼ [Data 📊](/Data)
 ### ➼ [Database 📊](/Database)
+### ➼ [Data Structure 📊](/DataStructure)
 ### ➼ [Design 🎨](/Design)
 ### ➼ [Hardware 📦](/Hardware)
 ### ➼ [Hybrid (+Cross Platform) ✝️](/Hybrid)

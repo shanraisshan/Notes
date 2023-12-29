@@ -7,6 +7,8 @@ https://source.android.com/setup/start/build-numbers
 
 |Codename|	Version	|API level/NDK release|Internal codename|
 | :---:  | :---:  | :---:| :---:|
+|Android15 |	15|	API level 35|Vanilla Ice Cream
+|Android14 |	14|	API level 34|Upside Down Cake
 |Android13 |	13|	API level 33|Tiramisu
 |Android12 |	12|	API level 32|Snow Cone v2
 |Android12 |	12|	API level 31|Snow Cone
@@ -40,6 +42,34 @@ https://source.android.com/setup/start/build-numbers
 |(no codename)|	1.1|	API level 2|Petit Four
 |(no codename)|	1.0|	API level 1|-
 
+## Other Android OS
+
+| Device  | OS | Latest (19/June/23)|
+| :---:  | :---:  | :---:  |
+|Samsung | One UI|5.1|
+|Xiomi | HyperOS| 1.0|
+|Xiomi | MIUI| 14.0.2|
+|Huawei | Harmony| 3.1|
+|Huawei | EMUI (Emotion UI)|13|
+|OnePlus | OxygenOS|13
+|Infinix | XOS|7.6|
+|Techno | HiOS|13|
+|Oppo | ColorOS| 13.1|
+
+## Smartwatch
+
+| Device  | OS | Latest (19/June/23)|
+| :---:  | :---:  | :---:  |
+|Google | Wear OS| 4.0|
+|Samsung | Tizen| 8.0|
+
+## TV
+
+| Device  | OS | Latest (19/June/23)|
+| :---:  | :---:  | :---:  |
+|TCL Roku TV | Roku OS| 12|
+|Samsung | Tizen OS| x|
+|LG | webOS| x|
 
 ## Mac OS X / OS X / macOS
 
@@ -66,3 +96,5 @@ https://en.wikipedia.org/wiki/MacOS_version_history
 |macOS Catalina | 10.15|
 |macOS Big Sur | 11|
 |macOS Monterey | 12|
+|macOS Ventura | 13|
+|macOS Sonoma | 14|

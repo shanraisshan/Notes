@@ -3,7 +3,23 @@ history
 
 # LINKEDIN
 
-## 2/Feb/2023
+## 29/Jul/2023
+### [About](https://www.linkedin.com/in/shanraisshan/)
+```
+■ BASIC 
+••• Mobile Application Enthusiast with an industry experience in scalable applications.
+••• Beleives in AARRR framework (Acquisition, Activation, Retention, Referral, Revenue)
+••• Currently leading the engineering team (apps, backend, qa) in Activation-Referral Pod team structure (design, growth, data, product, creatives, marketing)
+••• Responsible for transforming a business requirement into a scalable technical solution ensuring smooth timely delivery on app-stores (google play, appstore, huawei, palm store)
+••• A Gamer. Keen Interest in VR/AR with Bachelor's FYP is an AR Mobile Game and Master's FYP is a VR Medical Mobile Game. Also the founder of Gaming Channel (youtube.com/gamersmeetworld)
+
+```
+
+____
+____
+____
+
+## 02/Feb/2023
 ### [About](https://www.linkedin.com/in/shanraisshan/)
 ```
 ■ DETAIL 
@@ -30,6 +46,9 @@ Utility App developed to test
 ■ Partner App to App Integration of 3 Platforms (Kotlin | Flutter | React Native)
 
 ```
+____
+____
+____
 
 
 ## 30/Sep/2022
@@ -40,7 +59,7 @@ Utility App developed to test
 ••• A Gamer. Keen Interest in VR/AR with Bachelor's FYP is an AR Mobile Game and Master's FYP is a VR Medical Mobile Game. Also the founder of Gaming Channel (youtube.com/gamersmeetworld)
 
 ■ DETAIL 
-••• Mobile Application Stores ♦ Google Play, Huawei App Gallery, Microsoft Store, Nokia Ovi Store
+••• Mobile Application Stores ♦ Google Play, Huawei App Gallery, Palm Store, Microsoft Store, Nokia Ovi Store
 ••• Languages ♦ Kotlin, Java, C, C++, C#, JS, XML, XAML, J2ME, HTML, CSS
 ••• Architecture ♦ Clean Code Architecture, MVP, MVVM
 ••• Analytics ♦ Mixpanel, Facebook, Firebase (Google-GA4), Urban Airship, AppsFlyer

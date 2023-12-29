@@ -3,10 +3,14 @@ names, versions related stuff
 
 # ANDROID OS
 
+also update [Notes/Operating/Name->Android](https://github.com/shanraisshan/Notes/tree/main/Operating/Name)
+
 https://source.android.com/setup/start/build-numbers
 
 |Codename|	Version	|API level/NDK release|Internal codename|Release
 |:-:|:-:|:-:|:-:|:-:
+|Android15 |	15|	API level 35|Vanilla Ice Cream
+|Android14 |	14|	API level 34|Upside Down Cake
 |Android13 |	13|	API level 33|Tiramisu|August 15, 2022
 |Android12 |	12|	API level 32|Snow Cone v2|March 7, 2022
 |Android12 |	12|	API level 31|Snow Cone|October 4, 2021
@@ -41,6 +45,20 @@ https://source.android.com/setup/start/build-numbers
 |(no codename)|	1.1|	API level 2|Petit Four|February 9, 2009
 |(no codename)|	1.0|	API level 1|-|September 23, 2008
 
+## Other Android OS
+
+| Device  | OS | Latest (19/June/23)|
+| :---:  | :---:  | :---:  |
+|Samsung | One UI|5.1|
+|Xiomi | HyperOS| 1.0|
+|Xiomi | MIUI| 14.0.2|
+|Huawei | Harmony| 3.1|
+|Huawei | EMUI (Emotion UI)|13|
+|OnePlus | OxygenOS|13
+|Infinix | XOS|7.6|
+|Techno | HiOS|13|
+|Oppo | ColorOS| 13.1|
+
 # ANDROID STUDIO
 
 We are also giving each major release a version name, incrementing from A to Z based on animal names.
@@ -61,29 +79,25 @@ https://developer.android.com/studio/releases
 | 4.0  | May 20  |
 | 3.6  | Feb 20  |
 
-# Mac OS X / OS X / macOS
 
-https://en.wikipedia.org/wiki/MacOS_version_history
+# ANDROID STORE
 
-| Names  | Release Date |
+also update [Notes/Android/Store](https://github.com/shanraisshan/Notes/tree/main/Android/Store)
+
+| Platform  | Store |
 | :---:  | :---:  |
-|Mac OS X Public Beta | code name Kodiak|
-|Mac OS X 10.0 | code name Cheetah|
-|Mac OS X 10.1 | code name Puma|
-|Mac OS X 10.2 | also marketed as Jaguar|
-|Mac OS X Panther | 10.3|
-|Mac OS X Tiger | 10.4|
-|Mac OS X Leopard | 10.5|
-|Mac OS X Snow Leopard | 10.6|
-|Mac OS X Lion – 10.7 | also marketed as OS X Lion|
-|OS X Mountain Lion | 10.8|
-|OS X Mavericks | 10.9|
-|OS X Yosemite | 10.10|
-|OS X El Capitan | 10.11|
-|macOS Sierra | 10.12|
-|macOS High Sierra | 10.13|
-|macOS Mojave | 10.14|
-|macOS Catalina | 10.15|
-|macOS Big Sur | 11|
-|macOS Monterey | 12|
-|macOS Ventura | 13|
+| Google | Playstore |
+| Huawei | App Gallery |
+| Samsung | Galaxy Store |
+| Infinix | Palm Store (Transsion Developer) |
+| Xiomi | Mi Picks |
+| Oppo | App Market |
+| Vivo | V-Appstore |
+| Amazon | Appstore |
+| iOS | App Store |
+| Nokia | Ovi Store |
+| Microsoft | Microsoft Store |
+
+
+
+

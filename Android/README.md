@@ -2,16 +2,17 @@
 android related stuff
 
 ### ➼ [A/B Testing 🆎](AB)
-### ➼ [Analytics 📈](Analytics)
+### ➼ [Analytic 📈](Analytic)
 ### ➼ [Architecture (+Design Pattern, Principle, Paradigm) 🧱](Architecture)
 ### ➼ [Data 📊](Data)
 ### ➼ [Design 🎨](Design)
 ### ➼ [Device (+Emulator, Mirror) 📱](Device)
 ### ➼ [Link (+App,Deep,Deferred,Dynamic,Universal) 🔗](Link)
-### ➼ [Name (+Version) 📚](Name)
+### ➼ [Name (+Version) 📛](Name)
 ### ➼ [Push Notification 🔔](Push)
 ### ➼ [Referral 🤝](Referral)
 ### ➼ [Security 🔒](Security)
-### ➼ [Tutorial ✒️](Tutorial)
+### ➼ [Store 🏪](Store)
+### ➼ [Tutorial (+Cheat Sheet, Quick Reference) ✒️](Tutorial)
 
 
