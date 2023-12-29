@@ -6,6 +6,8 @@ data and its base
 
 ## Others
 
+### BigQuery
+### DynamoDB
 ### Elastic Search
 ### MemoryDB
 ### MongoDB
