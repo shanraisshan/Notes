@@ -61,7 +61,6 @@ KPI|Key Performance Indicator|
 LTV|Lifetime Value|
 NPS|Net Promoter Score|
 OKR|Objectives and Key Results|
-
 ROI|Return on Investment|
 
 ## 4. Command
