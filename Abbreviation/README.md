@@ -240,9 +240,16 @@ Nitty Gritty|the most important and basic facts or details about something
 Orthodox|[traditional] of the ordinary or usual type; normal
 Peer|[ساتھی] look with concentration at something
 Prejudice|[تعصب, bias] preconceived opinion that is not based on reason or actual experience
-Verbose|[لفظی, wordy] expressed in more words than are needed 
+Verbose|[لفظی, wordy] expressed in more words than are needed
 
-
+## 4. Generation
+General|Defination
+:-:|:-:
+Baby boomers|eldest, born between the years 1946 and 1964
+Generation X|1965 and 1980
+Millennials (Generation Y)|1981 and 1994
+Gen Z|1995 and 2009
+Gen Alpha|2010 and later
 
 # QUOTES
 
