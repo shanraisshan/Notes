@@ -5,6 +5,8 @@ a room without books is like a body without a soul
 ## Books
 |Name|Author|Edition|Source|
 |:-:|:-:|:-:|:-:|
+|📚 **`BUSINESS`** 📚|📚|📚|📚|
+|Invent and Wander: The Collected Writings of Jeff Bezos|Jeff Bezos|-|[Azhar Iqbal - CEO InShorts](https://youtu.be/tCgXb6OHO0Q?t=235)|
 |📚 **`CULTURE`** 📚|📚|📚|📚|
 |CULTure at Zomato : How to Rewire Your Brain for Greatness|Deepinder Goyal|-|[TRS Podcast](https://youtu.be/3wBEUuV7BYg?t=522)|
 
