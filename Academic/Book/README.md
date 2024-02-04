@@ -1,49 +1,46 @@
 # Book (Author)
 a room without books is like a body without a soul
 
-# BOOK
-## Android
+# 📚 BUSINESS
+## Books
+|Name|Author|Edition|Source|
+|:-:|:-:|:-:|:-:|
+|📚 **`CULTURE`** 📚|📚|📚|📚|
+|CULTure at Zomato : How to Rewire Your Brain for Greatness|Deepinder Goyal|-|[TRS Podcast](https://youtu.be/3wBEUuV7BYg?t=522)|
+
+## Author
+Name|Subject|Desc
+:-:|:-:|:-:
+Deepinder Goyal|Serial Entrepreneur|Zomato, Blinkit
+
+# 📚 TECH
+## Books
 
 |Name|Author|Edition|Source|
 |:-:|:-:|:-:|:-:|
+|📚 **`ANDROID`** 📚|📚|📚|📚|
 |[The Busy Coder's Guide to Android Development](https://commonsware.com/Android/)|Mark Murphy|-|Cheezy Code|
-
-## C/C++
-
-|Name|Author|Edition|Source|
-|:-:|:-:|:-:|:-:|
+|📚 **`C/C++`** 📚|📚|📚|📚|
 |Turbo C|Robert Lafore|-|NED University|
 |Let Us C|Yashwant Kanetkar|-|NED University|
 |Object oriented programming in C++|Robert Lafore|-|NED University|
 |The Complete Reference: C++|Herbert Schildt|-|NED University|
 |Object oriented programming with C++|David Parsons|-|NED University|
 |C++ How to program|Deitel and Deitel|-|NED University|
-
-## Design Patterns
-
-|Name|Author|Edition|Source|
-|:-:|:-:|:-:|:-:|
+|📚 **`DESIGN PATTERNS`** 📚|📚|📚|📚|
 |Clean Architecture: A Craftsman's Guide to Software Structure and Design|Robert Cecil Martin|-|-|
 |Clean Code: A Handbook of Agile Software Craftsmanship|Robert Cecil Martin|-|-|
 |Code Complete|Steve McConnell|-|-|
-|Design Patterns: Elements of Reusable Object-Oriented Software|Gang of 4 (Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, foreword by Grady Booch)|-|-|
+|Design Patterns: Elements of Reusable Object-Oriented Software|Gang of 4|-|-|
 |Refactoring: Improving the Design of Existing Code|Kent Beck, Martin Fowler|-|-|
 The Pragmatic Programmer|Andy Hunt and Dave Thomas|-|-|
-
-## Java
-
-|Name|Author|Edition|Source|
-|:-:|:-:|:-:|:-:|
+|📚 **`JAVA`** 📚|📚|📚|📚|
 |Effective Java|Joshua Bloch|2(2008)|Professional
 |Head First Java|Bert Bates and Kathy Sierra|2(2003)|Professional
-
-## Project Management
-
-|Name|Author|Edition|Source|
-|:-:|:-:|:-:|:-:|
+|📚 **`PROJECT MANAGEMENT`** 📚|📚|📚|📚|
 |[Shape Up](https://basecamp.com/shapeup/shape-up.pdf)|Ryan Singer|Basecamp|By U.A.K
 
-# AUTHOR
+## Author
 Name|Subject|Desc
 :-:|:-:|:-:
 Joshua Bloch|Java|implementation of java collections framework, java.math package, assert mechanism ■ technology author, formerly employed at Sun Microsystems & Google
