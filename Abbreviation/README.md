@@ -180,13 +180,23 @@ IELTS|International English Language Testing System|
 
 # TERMINOLOGY
 
-## 1. Tech
+## 1. Business
+General|Defination
+:-:|:-:
+Ball park|range within which an estimate is likely to be correct
+Barter|exchange (goods or services) for other without using money
+Bootstrap|process of starting a company with only personal savings, including borrowed or invested funds from family or friends, as well as income from initial sales
+Compliance|the act of obeying an order
+Pivot|[محور] rotate, turn, revolve, spin
+Vicinity|the area near or surrounding a particular place
+Unicorn|venture capital industry to describe a startup company with a value of over $1 billion
+
+## 2. Tech
 
 Terminology|Defination
 :-:|:-:
 Agnostic Approach|which is interoperable across the systems and there are no prejudices towards using a specific technology, model, methodology or data
 Anti Pattern|
-Bootstrap|process of starting a company with only personal savings, including borrowed or invested funds from family or friends, as well as income from initial sales
 Boilerplate|sections of code that have to be included in many places with little or no alteration ■ often used when referring to languages that are considered verbose
 Callback Hell|nested callbacks stacked below one another forming a pyramid structure
 Code review|
@@ -215,8 +225,7 @@ Syntactic Sugar|syntax within a programming language that is designed to make th
 Test Double|where you replace a production(or behave like their release-intended counterpart) object for testing purposes
 Throttle|(1 sec - start at 0,1,2 - no delay) executes the function n times at fixed interval [-> details](https://stackoverflow.com/a/52192108/4754141)
 
-## 2. General
-
+## 3. General
 General|Defination
 :-:|:-:
 Aggregate|[bundle, collection, clump, cluster, composite, gross, heap, lump, pile] a whole formed by combining several separate elements
@@ -231,16 +240,7 @@ Peer|[ساتھی] look with concentration at something
 Prejudice|[تعصب, bias] preconceived opinion that is not based on reason or actual experience
 Verbose|[لفظی, wordy] expressed in more words than are needed 
 
-## 3. Product
 
-General|Defination
-:-:|:-:
-Ball park|range within which an estimate is likely to be correct
-Barter|exchange (goods or services) for other without using money
-Compliance|the act of obeying an order
-Pivot|[محور] rotate, turn, revolve, spin
-Vicinity|the area near or surrounding a particular place
-Unicorn|venture capital industry to describe a startup company with a value of over $1 billion
 
 # QUOTES
 
