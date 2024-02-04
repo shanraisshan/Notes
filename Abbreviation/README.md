@@ -232,6 +232,7 @@ General|Defination
 Aggregate|[bundle, collection, clump, cluster, composite, gross, heap, lump, pile] a whole formed by combining several separate elements
 Agnostic|having the belief that it is not possible to know whether god exists
 Analogue|[equivalent, cognate, correlate] a person or thing seen as comparable to another
+Cult|[فرقہ] religious veneration and devotion directed towards a particular figure
 Canonical|[lawful] accepted as being accurate and authoritative
 Elapsed|(of time) pass or go by
 Enqueue|[wait in line] add (an item of data awaiting processing) to a queue of such items
