@@ -106,22 +106,7 @@ Abbreviation|Full Form|Desc
 ODM|original design manufacturer|
 OEM|original equipment manufacturer|
 
-## 9. Network
-Abbreviation|Full Form|Desc
-:-:|:-:|:-:
-API|Application Programming Interface|
-FTP|File Transfer Protocol|
-IP|Internet Protocol|
-HTTP|Hypertext Transfer Protocol|
-JSON|JavaScript Object Notation|
-REST|Representational state transfer|
-SOAP|Simple Object Access Protocol|
-SMTP|Simple Mail Transfer Protocol|
-TCP|Transmission Control Protocol|
-UDP|User Datagram Protocol|
-XMPP|Extensible Messaging and Presence Protocol|
-
-## 10. Management
+## 9. Management
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 CRM|Customer Relationship Management|
@@ -140,6 +125,21 @@ SCM|Supply Chain management|x2
 SD|Sales and Distribution|
 SRM|Supplier Relationship Management|
 WMS|Warehouse management system|
+
+## 10. Network
+Abbreviation|Full Form|Desc
+:-:|:-:|:-:
+API|Application Programming Interface|
+FTP|File Transfer Protocol|
+IP|Internet Protocol|
+HTTP|Hypertext Transfer Protocol|
+JSON|JavaScript Object Notation|
+REST|Representational state transfer|
+SOAP|Simple Object Access Protocol|
+SMTP|Simple Mail Transfer Protocol|
+TCP|Transmission Control Protocol|
+UDP|User Datagram Protocol|
+XMPP|Extensible Messaging and Presence Protocol|
 
 ## 11. Project/Product
 Abbreviation|Full Form|Desc
@@ -177,6 +177,7 @@ WAMP|Windows, Apache, MySQL, PHP|
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 IELTS|International English Language Testing System|
+CAPTCHA|Completely Automated Public Turing Test to Tell Computers and Humans Apart|
 
 # TERMINOLOGY
 
