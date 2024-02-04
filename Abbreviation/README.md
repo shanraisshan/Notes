@@ -235,6 +235,7 @@ Canonical|[lawful] accepted as being accurate and authoritative
 Elapsed|(of time) pass or go by
 Enqueue|[wait in line] add (an item of data awaiting processing) to a queue of such items
 Interoperable|[backward-compatible] (of computer systems) able to exchange and make use of information
+Nitty Gritty|the most important and basic facts or details about something
 Orthodox|[traditional] of the ordinary or usual type; normal
 Peer|[ساتھی] look with concentration at something
 Prejudice|[تعصب, bias] preconceived opinion that is not based on reason or actual experience
