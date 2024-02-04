@@ -21,7 +21,7 @@ Deepinder Goyal|Serial Entrepreneur|Zomato, Blinkit
 |Name|Author|Edition|Source|
 |:-:|:-:|:-:|:-:|
 |📚 **`ANDROID`** 📚|📚|📚|📚|
-|[The Busy Coder's Guide to Android Development](https://commonsware.com/Android/)|Mark Murphy|-|Cheezy Code|
+|The Busy Coder's Guide to Android Development [→](https://commonsware.com/Android/)|Mark Murphy|-|Cheezy Code|
 |📚 **`C/C++`** 📚|📚|📚|📚|
 |Turbo C|Robert Lafore|-|NED University|
 |Let Us C|Yashwant Kanetkar|-|NED University|
@@ -40,7 +40,7 @@ The Pragmatic Programmer|Andy Hunt and Dave Thomas|-|-|
 |Effective Java|Joshua Bloch|2(2008)|Professional
 |Head First Java|Bert Bates and Kathy Sierra|2(2003)|Professional
 |📚 **`PROJECT MANAGEMENT`** 📚|📚|📚|📚|
-|[Shape Up](https://basecamp.com/shapeup/shape-up.pdf)|Ryan Singer|Basecamp|By U.A.K
+|Shape Up [→](https://basecamp.com/shapeup/shape-up.pdf)|Ryan Singer|Basecamp|By U.A.K
 
 ## Author
 Name|Subject|Desc
