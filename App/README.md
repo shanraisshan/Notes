@@ -9,7 +9,6 @@ mobile apps
 
 ### ➼ [A/B Testing 🆎](AB)
 ### ➼ [Analytic 📈](Analytic)
-### ➼ [Architecture (+Design Pattern, Principle, Paradigm) 🧱](Architecture)
 ### ➼ [Data 📊](Data)
 ### ➼ [Design 🎨](Design)
 ### ➼ [Device (+Emulator, Mirror) 📱](Device)
