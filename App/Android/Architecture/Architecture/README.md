@@ -20,5 +20,5 @@
 
 ### [Cheezy Code Implementation](https://youtube.com/watch?v=8ZLbv6TSa-U?list=PLRKyZvuMYSIMO2ebTldbwMTnDCn5klzjS&t=71)
 
-![mvvm base](https://github.com/shanraisshan/Notes/blob/main/Android/Architecture/Architecture/!/mvvm.png)
+![mvvm base](!/mvvm.png)
 
