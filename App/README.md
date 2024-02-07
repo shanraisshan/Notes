@@ -10,7 +10,6 @@ mobile apps
 ### ➼ [A/B Testing 🆎](AB)
 ### ➼ [Analytic 📈](Analytic)
 ### ➼ [Data 📊](Data)
-### ➼ [Design 🎨](Design)
 ### ➼ [Device (+Emulator, Mirror) 📱](Device)
 ### ➼ [Link (+App,Deep,Deferred,Dynamic,Universal) 🔗](Link)
 ### ➼ [Name (+Version) 📛](Name)
@@ -18,5 +17,4 @@ mobile apps
 ### ➼ [Referral 🤝](Referral)
 ### ➼ [Security 🔒](Security)
 ### ➼ [Store 🏪](Store)
-### ➼ [Tutorial (+Cheat Sheet, Quick Reference) ✒️](Tutorial)
 
