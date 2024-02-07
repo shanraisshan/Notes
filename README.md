@@ -4,7 +4,7 @@ i like writing and saving things that are useful, some of the content that is he
 ### ➼ [Abbreviation (+Terminology) 🔤](/Abbreviation)
 ### ➼ [Academic 🎓](/Academic)
 ### ➼ [Analytic 📈](/Analytic)
-### ➼ [Android](/Android) <a href="/Design"><img src="icon/icon-android-30x30.png"/></a>
+### ➼ [App 📱](/App)
 ### ➼ [Algorithm 👨🏻‍💻](/Algorithm)
 ### ➼ [Architecture (+Design Pattern, Principle, Paradigm) 🧱](Architecture)
 ### ➼ [Backend 🖥️](/Backend)
@@ -14,7 +14,6 @@ i like writing and saving things that are useful, some of the content that is he
 ### ➼ [Data Structure 📊](/DataStructure)
 ### ➼ [Design 🎨](/Design)
 ### ➼ [Hardware 📦](/Hardware)
-### ➼ [Hybrid (+Cross Platform) ✝️](/Hybrid)
 ### ➼ [IQ 🧠](/IQ)
 ### ➼ [Job 💼](/Job)
 ### ➼ [Language 🗣️](/Language)
