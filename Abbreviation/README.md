@@ -1,6 +1,6 @@
 # Abbreviation (Terminology)
 
-1. [Abbreviation](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#abbreviation) [14]
+1. [Abbreviation](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#abbreviation) [16]
 2. [Terminology](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#terminology) [3]
 3. [Quotes](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#quotes)
 4. [Similarity](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#similarity)
@@ -92,7 +92,12 @@ Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 CGI|Computer-generated Imagery|
 
-## 7. General
+## 7. Entrepreneurship
+Abbreviation|Full Form|Desc
+:-:|:-:|:-:
+CCC|Creator, Critic, and Crusader|[shark-tank-america](https://youtu.be/HpUR7-Oe1ss?t=224)
+
+## 8. General
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 PR|Pull Request|
@@ -100,13 +105,13 @@ SDK|Software Development Kit|
 RC|Release Candidate|
 XML|Extensible Markup Language|
 
-## 8. Hardware
+## 9. Hardware
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 ODM|original design manufacturer|
 OEM|original equipment manufacturer|
 
-## 9. Management
+## 10. Management
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 CRM|Customer Relationship Management|
@@ -126,7 +131,13 @@ SD|Sales and Distribution|
 SRM|Supplier Relationship Management|
 WMS|Warehouse management system|
 
-## 10. Network
+## 11. Marketting
+Abbreviation|Full Form|Desc
+:-:|:-:|:-:
+PPPP|Product, Price, Place and Promotion|
+
+
+## 12. Network
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 API|Application Programming Interface|
@@ -141,7 +152,7 @@ TCP|Transmission Control Protocol|
 UDP|User Datagram Protocol|
 XMPP|Extensible Messaging and Presence Protocol|
 
-## 11. Project/Product
+## 13. Project/Product
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 BRD|Business Requirements Document|
@@ -159,12 +170,12 @@ QFD|Quality Function Deployment|
 QP|Quality Planning|
 SRS|Software Requirements Specification|
 
-## 12. Security
+## 14. Security
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 CIA|Confidentiality Integrity Availability|
 
-## 13. Tech Stack
+## 15. Tech Stack
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 LAMP|Linux, Apache, MySQL, PHP|
@@ -173,7 +184,7 @@ MERN|MongoDB, ExpressJS, ReactJS, Node.JS|
 MEVN|MongoDB, ExpressJS, Vue.JS, Node.JS|
 WAMP|Windows, Apache, MySQL, PHP|
 
-## 14. Others
+## 16. Others
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 IELTS|International English Language Testing System|
