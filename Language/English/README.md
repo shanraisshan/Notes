@@ -10,4 +10,5 @@ words to use
 ## Sophisticated 
 - commendable
 - diligent (careful / hard-working)
+- indecisive (having a hard time making decisions)
 
