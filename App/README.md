@@ -2,6 +2,7 @@
 mobile apps
 
 ### ➼ [Android](Android) <a href="/Design"><img src="/icon/icon-android-30x30.png"/></a>
+### ➼ [App 📱](App)
 ### ➼ [Hybrid (+Cross Platform) ✝️](Hybrid)
 ### ➼ [iOS 🍏](iOS)
 
