@@ -2,10 +2,12 @@
 words to use
 
 ## Meeting 
-- likewise
+- buying
+- cherry on top
 - come again
 - channelise
 - just building up the context
+- likewise
 
 ## Sophisticated 
 - commendable
