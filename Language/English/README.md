@@ -6,6 +6,7 @@ words to use
 - cherry on top
 - come again
 - channelise
+- direction
 - just building up the context
 - likewise
 
@@ -13,4 +14,5 @@ words to use
 - commendable
 - diligent (careful / hard-working)
 - indecisive (having a hard time making decisions)
+- narrative
 
