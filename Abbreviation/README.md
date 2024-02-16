@@ -237,24 +237,7 @@ Syntactic Sugar|syntax within a programming language that is designed to make th
 Test Double|where you replace a production(or behave like their release-intended counterpart) object for testing purposes
 Throttle|(1 sec - start at 0,1,2 - no delay) executes the function n times at fixed interval [-> details](https://stackoverflow.com/a/52192108/4754141)
 
-## 3. General
-General|Defination
-:-:|:-:
-Aggregate|[bundle, collection, clump, cluster, composite, gross, heap, lump, pile] a whole formed by combining several separate elements
-Agnostic|having the belief that it is not possible to know whether god exists
-Analogue|[equivalent, cognate, correlate] a person or thing seen as comparable to another
-Cult|[فرقہ] religious veneration and devotion directed towards a particular figure
-Canonical|[lawful] accepted as being accurate and authoritative
-Elapsed|(of time) pass or go by
-Enqueue|[wait in line] add (an item of data awaiting processing) to a queue of such items
-Interoperable|[backward-compatible] (of computer systems) able to exchange and make use of information
-Nitty Gritty|the most important and basic facts or details about something
-Orthodox|[traditional] of the ordinary or usual type; normal
-Peer|[ساتھی] look with concentration at something
-Prejudice|[تعصب, bias] preconceived opinion that is not based on reason or actual experience
-Verbose|[لفظی, wordy] expressed in more words than are needed
-
-## 4. Generation
+## 3. Generation
 General|Defination
 :-:|:-:
 Baby boomers|eldest, born between the years 1946 and 1964
