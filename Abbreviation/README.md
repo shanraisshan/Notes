@@ -231,6 +231,7 @@ Pragmatic|dealing with things realistically, based on practical rather than theo
 Prefactoring|applying expertise gained in refactoring
 Ravioli Code|specific to object-oriented programming, code that comprises well-structured classes that are easy to understand in isolation, but difficult to understand as a whole
 Refactoring|restructuring code, while not changing its original functionality
+Rubber duck debugging|method of debugging code by articulating a problem in spoken or written natural language
 Separation Of Concerns|
 Spaghetti Code|unstructured and difficult-to-maintain source code. example: God Class
 Syntactic Sugar|syntax within a programming language that is designed to make things easier to read or to express
