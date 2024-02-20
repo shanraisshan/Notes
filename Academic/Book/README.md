@@ -1,6 +1,14 @@
 # Book (Author)
 a room without books is like a body without a soul
 
+# 📚 LIBRARY
+|Name|Author
+|:-:|:-:
+|Shayan Library|[Google Books](https://books.google.com/books?uid=102405513180201339881)
+|Gaditek Book Club|[Share Book List - 8/Sep/21](https://app.slack.com/client/TNH99LZNF/CNU9LA8CC)
+|Gaditek General|[Which book are you reading these days? - 14/Sep/21](https://app.slack.com/client/TNH99LZNF/C01HB44J9MJ)
+
+
 # 📚 BUSINESS
 ## Books
 |Name|Author|Edition|Source|
