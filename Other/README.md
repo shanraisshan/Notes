@@ -1,6 +1,6 @@
-# Other
+# OTHER
+extra | different | miscellaneous | other
 
-# HUMOR
-
-## Reddit
-https://www.reddit.com/r/ProgrammerHumor/
+### ➼ [Entertainment 📱](Entertainment)
+### ➼ [Gaming 📱](App)
+### ➼ [Humor ✝️](Hybrid)
