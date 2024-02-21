@@ -1,6 +1,6 @@
 # OTHER
 extra | different | miscellaneous | other
 
-### ➼ [Entertainment 📱](Entertainment)
-### ➼ [Gaming 📱](App)
-### ➼ [Humor ✝️](Hybrid)
+### ➼ [Entertainment 🎭](Entertainment)
+### ➼ [Gaming 🎮](Gaming)
+### ➼ [Humor 🤡](Humor)
