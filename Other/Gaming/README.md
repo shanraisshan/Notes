@@ -14,7 +14,7 @@ different local competition
 [Olympiad](https://www.facebook.com/sportics.nuceskhi)|NUCES Fast|Jun 24
 [Enigma](https://enigmaiba.com/modules/fifa/)|IBA|x
 x|KU|x
-TechFest|NED-CSIT|
+[TechFest](https://cct.neduet.edu.pk/techfest)|NED-CSIT|
 x|NED-SE|x
 x|NED-CIS|x
 
