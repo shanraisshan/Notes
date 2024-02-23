@@ -2,6 +2,8 @@
 
 # Hierarchies
 
+## Local
+
 ### Gaditek
 #|Level|Role
 :-:|:-:|:-:
@@ -42,3 +44,10 @@
 9|-|Senior Architect
 10|-|Associate Director
 11|-|Director 
+
+## International
+
+### Google
+#|Level|Role
+:-:|:-:|:-:
+[I Left Google](https://youtu.be/80LbYf8TO1I)|L4|https://docs.google.com/spreadsheets/d/1k_QkZISJ2cIk_Py_pdzsAt5fUwWOYZVkkXg4KZM8IXA/htmlview#
