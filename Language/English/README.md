@@ -6,6 +6,7 @@ words to use
 - cherry on top
 - come again
 - channelise
+- cutting everything short
 - direction
 - just building up the context
 - likewise
