@@ -35,3 +35,12 @@ Peer|[ساتھی] look with concentration at something
 Pinnacle|[چوٹی] the most successful point
 Prejudice|[تعصب, bias] preconceived opinion that is not based on reason or actual experience
 Verbose|[لفظی, wordy] expressed in more words than are needed
+
+
+## Words
+Word|Word|Word|Word|Word
+:-:|:-:|:-:|:-:|:-:
+Pre Requistes|Estimation|Tentative		
+Dependency|Hurdle	Limitations		
+Energy|Motivation|Positivity|Proud|Own
+Same Direction|20x so 10x			
