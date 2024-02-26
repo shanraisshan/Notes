@@ -9,6 +9,16 @@ https://ps43.adj.st/.well-known/apple-app-site-association
 
 https://savyour.com.pk/.well-known/assetlinks.json
 
+### Apple issue (403)
+403 - forbidden due to cloud flare issue
+
+- File is present on https://savyour.com/.well-known/apple-app-site-association
+- But not showing on https://app-site-association.cdn-apple.com/a/v1/savyour.com 
+
+Open terminal, type
+> curl -v https://app-site-association.cdn-apple.com/a/v1/savyour.com
+
+
 ### Validate these files (invalid content type issue)
 
 https://yurl.chayev.com/ios-results?url=https%3A%2F%2Fsavyour.com.pk
