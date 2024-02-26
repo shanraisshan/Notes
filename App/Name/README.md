@@ -9,7 +9,7 @@ https://source.android.com/setup/start/build-numbers
 
 |Codename|	Version	|API level/NDK release|Internal codename|Release
 |:-:|:-:|:-:|:-:|:-:
-|Android15 |	15|	API level 35|Vanilla Ice Cream
+|Android15 |	15|	API level 35|Vanilla Ice Cream|February 16, 2024
 |Android14 |	14|	API level 34|Upside Down Cake
 |Android13 |	13|	API level 33|Tiramisu|August 15, 2022
 |Android12 |	12|	API level 32|Snow Cone v2|March 7, 2022
