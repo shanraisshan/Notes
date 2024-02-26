@@ -10,7 +10,8 @@ https://ps43.adj.st/.well-known/apple-app-site-association
 https://savyour.com.pk/.well-known/assetlinks.json
 
 ### Apple issue (403)
-403 - forbidden due to cloud flare issue
+403 - forbidden when apple bot is trying to crawl ([24 hours, once per week](https://developer.apple.com/documentation/xcode/supporting-associated-domains))
+
 
 - File is present on https://savyour.com/.well-known/apple-app-site-association
 - But not showing on https://app-site-association.cdn-apple.com/a/v1/savyour.com 
