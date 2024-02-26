@@ -3,7 +3,7 @@ names, versions related stuff
 
 # ANDROID OS
 
-### [App/Name→Android OS](/App/Name#android-store) ⇆ 2 side ⇆ [Operating/Name→Android](/Operating/Name#android)
+### [App/Name→Android OS](/App/Name#android-os) ⇆ 2 side ⇆ [Operating/Name→Android](/Operating/Name#android)
 
 https://source.android.com/setup/start/build-numbers
 
