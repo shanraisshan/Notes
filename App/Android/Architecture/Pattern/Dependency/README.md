@@ -22,7 +22,7 @@ do not create hardcode 'Engine' object inside a 'Car', instead pass all dependen
 
 ### [Why Dependency Injection?](https://youtube.com/watch?v=DtzQkBp2M5M?list=PLRKyZvuMYSIPwjYw1bt_7u7nEwe6vATQd&t=146)
 
-![why-dependency-injection](/App/Android/Architecture/Pattern/Dependency/!/why-dependency-injection.png)
+![why-dependency-injection](!/why-dependency-injection.png)
 
 |#|Types Of Injection|
 |:-:|:-:|
@@ -34,8 +34,8 @@ do not create hardcode 'Engine' object inside a 'Car', instead pass all dependen
 
 [Concept](https://youtube.com/watch?v=cg0yCHW2Keg&t=139)
 
-![dagger1](/App/Android/Architecture/Pattern/Dependency/!/dagger1.png)
-![dagger2](/App/Android/Architecture/Pattern/Dependency/!/dagger2.png)
+![dagger1](!/dagger1.png)
+![dagger2](!/dagger2.png)
 
 # HILT
 
