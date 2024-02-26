@@ -3,7 +3,7 @@ names, versions related stuff
 
 # ANDROID OS
 
-also update [Notes/Operating/Name->Android](https://github.com/shanraisshan/Notes/tree/main/Operating/Name)
+### [App/Name→Android OS](/App/Name) ⇆ 2 side ⇆ [Operating/Name→Android](/Operating/Name)
 
 https://source.android.com/setup/start/build-numbers
 
