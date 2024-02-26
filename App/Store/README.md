@@ -2,7 +2,7 @@
 different app stores
 
 ## Android
-### [App/Name→Android OS](/App/Name#android-os) ⇆ 2 side ⇆ [Operating/Name→Android](/Operating/Name#android)
+### [App/Name→Android Store](/App/Name#android-store) ⇆ 2 side ⇆ [App/Store→Android](/App/Store#android)
 
 | Platform  | Store | Apk Package | Website | Developer Console |
 | :---:  | :---:  |  :---:  | :---:  | :---:  |
