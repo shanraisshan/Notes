@@ -11,6 +11,7 @@ https://savyour.com.pk/.well-known/assetlinks.json
 
 ### Apple issue (403)
 403 - forbidden when apple bot is trying to crawl ([24 hours, once per week](https://developer.apple.com/documentation/xcode/supporting-associated-domains))
+![apple timeline](!/apple-timeline.png)
 
 
 - File is present on https://savyour.com/.well-known/apple-app-site-association
@@ -18,6 +19,8 @@ https://savyour.com.pk/.well-known/assetlinks.json
 
 Open terminal, type
 > curl -v https://app-site-association.cdn-apple.com/a/v1/savyour.com
+
+![apple server forbidden](!/apple-server-forbidden.png)
 
 
 ### Validate these files (invalid content type issue)
