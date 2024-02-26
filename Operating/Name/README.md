@@ -2,7 +2,7 @@
 names and versions of different operating systems
 
 ## Android 
-
+### [App/Name→Android OS](/App/Name) ⇆ 2 side ⇆ [Operating/Name→Android](/Operating/Name)
 https://source.android.com/setup/start/build-numbers
 
 |Codename|	Version	|API level/NDK release|Internal codename|
