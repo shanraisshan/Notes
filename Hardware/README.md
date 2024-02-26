@@ -1,6 +1,6 @@
 # Hardware
 latest hardware devices + sensor
 
-### ➼ [Name (+ Version) 📛](Name)
+### ➼ [Name (+Version) 📛](Name)
 ### ➼ [Mobile 📱](Mobile)
 ### ➼ [Sensor 📡](Sensor)
