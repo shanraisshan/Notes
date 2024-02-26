@@ -3,7 +3,7 @@ names, versions related stuff
 
 # ANDROID OS
 
-### [App/Name→Android OS](/App/Name) ⇆ 2 side ⇆ [Operating/Name→Android](/Operating/Name)
+### [App/Name→Android OS](/App/Name#android-store) ⇆ 2 side ⇆ [Operating/Name→Android](/Operating/Name#android)
 
 https://source.android.com/setup/start/build-numbers
 
@@ -83,6 +83,8 @@ https://developer.android.com/studio/releases
 # ANDROID STORE
 
 also update [Notes/Android/Store](https://github.com/shanraisshan/Notes/tree/main/Android/Store)
+
+### [App/Name→Android Store](/App/Name#android-store) ⇆ 2 side ⇆ [App/Store→Android](/App/Store#android)
 
 | Platform  | Store |
 | :---:  | :---:  |
