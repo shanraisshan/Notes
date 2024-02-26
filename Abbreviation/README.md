@@ -1,4 +1,4 @@
-# Abbreviation (Terminology)
+# Abbreviation (Terminology,Quotes,Latest)
 
 1. [Abbreviation](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#abbreviation) [16]
 2. [Terminology](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#terminology) [3]
