@@ -5,6 +5,7 @@
 3. [Quotes](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#quotes)
 4. [Similarity](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#similarity)
 5. [Operators](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#operators)
+6. [Latest](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#latest)
 
 # ABBREVIATION
 
@@ -132,7 +133,7 @@ SD|Sales and Distribution|
 SRM|Supplier Relationship Management|
 WMS|Warehouse management system|
 
-## 11. Marketting
+## 11. Marketing
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 PPPP|Product, Price, Place and Promotion|
@@ -292,6 +293,16 @@ Double Bang|!!|Kotlin(Non-Null Assertion)
 Lambda|->|
 OR| \|\| |
 AND| && |
+
+# LATEST
+
+Name|Op|Date
+:-:|:-:|:-:
+-|***`OS`***|-
+[Android15](/Operating/Name#android)|API 35 [Vanilla Ice Cream]|16/Feb/24
+-|***`PHONES`***|-
+[Samsung Galaxy S23](/Hardware/Name#mobile)|[Android 13, One UI 5.1]|17/Feb/23
+[Xiomi](/Hardware/Name#mobile)|Note 12 Pro+ 5G	[Android 12, MIUI 13]|1/Nov/22
 
 
 
