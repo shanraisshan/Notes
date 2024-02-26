@@ -81,9 +81,6 @@ https://developer.android.com/studio/releases
 
 
 # ANDROID STORE
-
-also update [Notes/Android/Store](https://github.com/shanraisshan/Notes/tree/main/Android/Store)
-
 ### [App/Name→Android Store](/App/Name#android-store) ⇆ 2 side ⇆ [App/Store→Android](/App/Store#android)
 
 | Platform  | Store |
