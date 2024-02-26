@@ -1,9 +1,8 @@
 # Store
 different app stores
 
-also update [Notes/App/Name->STORES](https://github.com/shanraisshan/Notes/tree/main/App/Name#android-store)
-
 ## Android
+### [App/Name→Android OS](/App/Name#android-os) ⇆ 2 side ⇆ [Operating/Name→Android](/Operating/Name#android)
 
 | Platform  | Store | Apk Package | Website | Developer Console |
 | :---:  | :---:  |  :---:  | :---:  | :---:  |
