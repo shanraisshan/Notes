@@ -9,7 +9,7 @@
 
 # ABBREVIATION
 
-## 1. Android
+## 1. App
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 AAPT|Android Asset Packaging Tool|
@@ -22,6 +22,7 @@ AVD|Android Virtual Devices|
 DDMS|Dalvik Debug Monitoring Service|
 .dex|Dalvik Executable|
 DVM|Dalvik Virtual Machine|
+.ipa|iOS App Store Package|
 JVM|Java Virtual Machine|
 KAPT|Kotlin Annotation Processing Tool|
 MAD Skills|Modern Android Development Skills|
