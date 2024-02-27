@@ -10,7 +10,7 @@ Gemini (Google Assistant)|Android|
 Magic Ring|Infinix|
 Folax|Infinix|
 
-
+https://docs.google.com/spreadsheets/d/1LCN-Zx6zMe0bVO5P-xs0QjC1E6XKm_U0ecn07i8Efjw/edit#gid=1352559368
 
 # Code
 Purpose|Reference|Link
