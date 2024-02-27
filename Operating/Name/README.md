@@ -51,6 +51,7 @@ https://source.android.com/setup/start/build-numbers
 |Xiomi | MIUI| 14.0.2|
 |Huawei | Harmony| 3.1|
 |Huawei | EMUI (Emotion UI)|13|
+|Honor | MagicOS|8|
 |OnePlus | OxygenOS|13
 |Infinix | XOS|7.6|
 |Techno | HiOS|13|
