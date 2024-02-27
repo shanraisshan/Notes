@@ -297,13 +297,12 @@ AND| && |
 
 # LATEST
 
-Name|Op|Date
-:-:|:-:|:-:
--|***`OS`***|-
-[Android15](/Operating/Name#android)|API 35 [Vanilla Ice Cream]|16/Feb/24
--|***`PHONES`***|-
-[Samsung Galaxy S23](/Hardware/Name#mobile)|[Android 13, One UI 5.1]|17/Feb/23
-[Xiomi](/Hardware/Name#mobile)|Note 12 Pro+ 5G	[Android 12, MIUI 13]|1/Nov/22
+-|-|-|-|-
+:-:|:-:|:-:|:-:|:-:
+-|-|***[OS](/Operating/Name)***|-|-
+Android15 - Api35|-|-|-|-
+-|-|***[PHONES](/Hardware/Name)***|-|-
+Google Pixel 8 Pro|Google Pixel Fold|Samsung S24 Ultra|Samsung Z Flip 5|Samsung Z Fold 5
 
 
 
