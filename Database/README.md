@@ -1,7 +1,8 @@
 # Database
 data and its base
 
-### ➼ [Tutorial (+Cheat Sheet, Quick Reference) ✒️](Tutorial)
+### ➼ [SQL](SQL)
+### ➼ [Tutorial (+Cheat Sheet, Quick Reference)](Tutorial)
 
 
 ## Others
