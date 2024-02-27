@@ -300,7 +300,9 @@ AND| && |
 -|-|-|-|-
 :-:|:-:|:-:|:-:|:-:
 -|-|***[OS](/Operating/Name)***|-|-
-Android15 - Api35|-|-|-|-
+Android 15|-|-|-|-
+iOS 17|iPadOS 17|macOS Sonoma|watchOS 10|tvOS 17.3
+visionOS 1||||
 -|-|***[PHONES](/Hardware/Name)***|-|-
 Google Pixel 8 Pro|Google Pixel Fold|Samsung S24 Ultra|Samsung Z Flip 5|Samsung Z Fold 5
 
