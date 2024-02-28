@@ -307,8 +307,9 @@ visionOS 1||||
 Google Pixel 8 Pro|Google Pixel Fold|Samsung S24 Ultra|Samsung Z Flip 5|Samsung Z Fold 5
 Xiaomi 14|Xiaomi - Redmi Note 13 Pro Plus 5G|Xiaomi -	Poco X6 Pro|BBK -	Realme 12 Pro Plus 5G|BBK -	Oppo Reno 11 F|
 BBK -	Vivo Y200E|BBK - Oneplus Nord 30 SE 5G|Transsion - Tecno Spark 20 Pro|Transsion -	Infinix Hot 40 Pro|Transsion -	Infinix Smart 8 Plus|
-Transsion -	Itel P55 Plus|Honor Magic V2 RSR Porsche Design|Huawei Pocket 2||-|-|
--|-|-|-|-|
+Transsion -	Itel P55 Plus|Honor Magic V2 RSR Porsche Design|Huawei Pocket 2|Motorola Moto G24 Power|Lenovo Legion Y700 (2023)|
+Nothing Phone 2|LG W41 Pro|Nokia C210|Microsoft Surface Duo 2||
+iPhone 15 Pro Max|iPhone 15 Pro|iPhone 15 Plus|iPhone 15|-|
 
 
 
