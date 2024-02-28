@@ -2,21 +2,29 @@
 words to use
 
 ## Meeting 
-- buying
-- cherry on top
-- come again
-- channelise
-- cutting everything short
-- direction
-- just building up the context
-- likewise
-- too good to be true
+General|Defination
+:-:|:-:
+buying
+cherry on top
+come again
+channelise
+cutting everything short
+direction
+just building up the context
+likewise
+too good to be true
 
 ## Sophisticated 
-- commendable
-- diligent (careful / hard-working)
-- indecisive (having a hard time making decisions)
-- narrative
+General|Defination
+:-:|:-:
+commendable
+diligent|careful / hard-working
+indecisive|having a hard time making decisions
+
+## Hard 
+General|Defination
+:-:|:-:
+candor|quality of being open and honest / frankness
 
 ## General
 General|Defination
