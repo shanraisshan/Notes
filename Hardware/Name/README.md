@@ -15,13 +15,13 @@ Xiaomi - Poco	|[	Poco X6 Pro	](	https://poco.pk/products/poco-x6-pro	)|	12-Jan-2
 BBK - Realme	|[	Realme 12 Pro Plus 5G	](	https://www.realme.com/in/realme-12-pro-plus	)|	29-Jan-24	|	1,04,999	|	https://www.realme.com/in/realme-12-pro-plus
 BBK - Oppo	|[	Oppo Reno 11 F	](	https://www.oppo.com/en/smartphones/series-reno/reno11-f/specs/	)|	8-Feb-24	|	65,000	|	https://www.oppo.com/en/smartphones/series-reno/reno11-f/specs/
 BBK - Vivo	|[	Vivo Y200E	](	https://www.vivo.com/in/products/y200e	)|	22-Feb-24	|	70,000	|	https://www.vivo.com/in/products/y200e
+BBK - Oneplus	|[	Oneplus Nord 30 SE 5G	](	https://www.oneplus.com/pk/n30-se	)|	29-Jan-24	|	85,000	|	https://www.oneplus.com/pk/n30-se
 Transsion - Tecno	|[	Tecno Spark 20 Pro	](	https://www.tecno-mobile.com/phones/product-detail/product/spark-20-pro-+/	)|	9-Feb-24	|	46,000	|	https://www.tecno-mobile.com/phones/product-detail/product/spark-20-pro-+/
 Transsion - Infinix	|[	Infinix Hot 40 Pro	](	https://pk.infinixmobility.com/hot-40-pro	)|	5-Dec-23	|	46,000	|	https://pk.infinixmobility.com/hot-40-pro
 Transsion - Infinix	|[	Infinix Smart 8 Plus	](	https://pk.infinixmobility.com/SMART-8-PLUS	)|	21-Dec-23	|	25,400	|	https://pk.infinixmobility.com/SMART-8-PLUS
 Transsion - Itel	|[	Itel P55 Plus	](	https://www.itel-life.com/products/phone/p-series/p55-plus	)|	19-Feb-24	|	32,999	|	https://www.itel-life.com/products/phone/p-series/p55-plus
 Honor	|[	Honor Magic V2 RSR Porsche Design	](	https://www.hihonor.com/pk/phones/honor-magic-v2-rsr-porsche-design/	)|	11-Jan-24	|	6,36,000	|	https://www.hihonor.com/pk/phones/honor-magic-v2-rsr-porsche-design/
 Huawei	|[	Huawei Pocket 2	](	https://consumer.huawei.com/cn/phones/pocket-2/	)|	22-Feb-24	|	2,92,000	|	https://consumer.huawei.com/cn/phones/pocket-2/
-Oneplus	|[	Oneplus Nord 30 SE 5G	](	https://www.oneplus.com/pk/n30-se	)|	29-Jan-24	|	85,000	|	https://www.oneplus.com/pk/n30-se
 Motorola	|[	Motorola Moto G24 Power	](	https://www.motorola.in/smartphones-moto-g24-power/p?skuId=389	)|	7-Feb-24	|	38,000	|	https://www.motorola.in/smartphones-moto-g24-power/p?skuId=389
 Lenovo	|[	Lenovo Legion Y700 (2023)	](	https://www.gsmarena.com/lenovo_legion_y700_(2023)-12476.php	)|	22-Jul-23	|	70,000	|	https://www.gsmarena.com/lenovo_legion_y700_(2023)-12476.php
 Nothing Phone	|[	Nothing Phone 2	](	https://intl.nothing.tech/pages/phone-2	)|	17-Jul-23	|	1,83,000	|	https://intl.nothing.tech/pages/phone-2
