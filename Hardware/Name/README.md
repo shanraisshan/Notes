@@ -28,10 +28,10 @@ Nothing Phone	|[	Nothing Phone 2	](	https://intl.nothing.tech/pages/phone-2	)|	1
 LG	|[	LG W41 Pro	](	https://www.gsmarena.com/lg_w41_pro-10742.php	)|	22-Feb-21	|	38,000	|	https://www.gsmarena.com/lg_w41_pro-10742.php
 Nokia	|[	Nokia C210	](	https://www.gsmarena.com/nokia_c210-12472.php	)|	16-Aug-23	|	30,000	|	https://www.gsmarena.com/nokia_c210-12472.php
 Microsoft	|[	Microsoft Surface Duo 2	](	https://www.microsoft.com/en-us/d/surface-duo-2/9408kgxp4xjl?activetab=pivot:phonecallstab	)|	22-Sep-21	|	2,20,000	|	https://www.microsoft.com/en-us/d/surface-duo-2/9408kgxp4xjl?activetab=pivot:phonecallstab
-Iphone	|[	Iphone 15 Pro Max	](	https://www.apple.com/iphone-15-pro/specs/	)|	22-Sep-23	|	3,32,003	|	https://www.apple.com/iphone-15-pro/specs/
-Iphone	|[	Iphone 15 Pro	](	https://www.apple.com/iphone-15-pro/specs/	)|	22-Sep-23	|	2,76,669	|	https://www.apple.com/iphone-15-pro/specs/
-Iphone	|[	Iphone 15 Plus	](	https://www.apple.com/iphone-15/specs/	)|	22-Sep-23	|	2,49,002	|	https://www.apple.com/iphone-15/specs/
-Iphone	|[	Iphone 15	](	https://www.apple.com/iphone-15/specs/	)|	22-Sep-23	|	2,21,335	|	https://www.apple.com/iphone-15/specs/
+iPhone	|[	iPhone 15 Pro Max	](	https://www.apple.com/iphone-15-pro/specs/	)|	22-Sep-23	|	3,32,003	|	https://www.apple.com/iphone-15-pro/specs/
+iPhone	|[	iPhone 15 Pro	](	https://www.apple.com/iphone-15-pro/specs/	)|	22-Sep-23	|	2,76,669	|	https://www.apple.com/iphone-15-pro/specs/
+iPhone	|[	iPhone 15 Plus	](	https://www.apple.com/iphone-15/specs/	)|	22-Sep-23	|	2,49,002	|	https://www.apple.com/iphone-15/specs/
+iPhone	|[	iPhone 15	](	https://www.apple.com/iphone-15/specs/	)|	22-Sep-23	|	2,21,335	|	https://www.apple.com/iphone-15/specs/
 
 ## Smartwatch
 | Brand| Device| OS| Release Date (21/June/23)|
