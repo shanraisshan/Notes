@@ -51,9 +51,7 @@ do not create hardcode 'Engine' object inside a 'Car', instead pass all dependen
 
 1. Inject Pref inside object class (AppLifecycleListener, DynamicLink) ■ [@Inject annotation is available only for EntryPoints like @AndroidEntryPoint, @HiltAndroidApp. As of now, there is no option to inject into a non-entry point classes in Hilt](https://stackoverflow.com/a/67171565/4754141) ■ [Solution](https://write.agrevolution.in/dependency-injection-in-android-using-hilt-part4-e2b267839e12)
 
-
-
-![hilt1](https://github.com/shanraisshan/Notes/blob/main/Android/Architecture/Pattern/Dependency/!/hilt1.png)
-![hilt2](https://github.com/shanraisshan/Notes/blob/main/Android/Architecture/Pattern/Dependency/!/hilt2.png)
-![hilt3](https://github.com/shanraisshan/Notes/blob/main/Android/Architecture/Pattern/Dependency/!/hilt3.png)
-![hilt4](https://github.com/shanraisshan/Notes/blob/main/Android/Architecture/Pattern/Dependency/!/hilt4.png)
+![hilt1](!/hilt1.png)
+![hilt2](!/hilt2.png)
+![hilt3](!/hilt3.png)
+![hilt4](!/hilt4.png)
