@@ -52,10 +52,11 @@ https://source.android.com/setup/start/build-numbers
 |Huawei | Harmony| 4.0|
 |Huawei | EMUI (Emotion UI)|13|
 |Honor | MagicOS|8.0|
-|OnePlus | OxygenOS|14
-|Infinix | XOS|13|
-|Techno | HiOS|13|
-|Oppo | ColorOS| 14|
+|BBK - OnePlus | OxygenOS|14
+|BBK - Oppo | ColorOS| 14|
+|Transsion - Infinix | XOS|13|
+|Transsion - Techno | HiOS|13|
+
 
 ## Smartwatch
 
