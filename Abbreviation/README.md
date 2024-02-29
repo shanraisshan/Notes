@@ -300,7 +300,9 @@ AND| && |
 -|-|-|-|-
 :-:|:-:|:-:|:-:|:-:
 -|-|***[OS](/Operating/Name)***|-|-
-Android 15|-|-|-|-
+Android 15|Samsung	One UI	6.0|Xiomi	HyperOS	1.0|Xiomi	MIUI	14.0.2|Huawei	Harmony	4.0
+Huawei	EMUI	13|Honor	MagicOS	8.0|OnePlus	OxygenOS	14|Infinix	XOS	13|Techno	HiOS	13
+Oppo	ColorOS	14|-|-|-|
 iOS 17.3|iPadOS 17.3|macOS Sonoma 14.3|watchOS 10.3|tvOS 17.3
 visionOS 1.0||||
 -|-|***[PHONES](/Hardware/Name)***|-|-
