@@ -1,4 +1,5 @@
-# Analytic
+# Analytics, Data, Stat
+everything about data
 
 ## [Adjust](https://docs.google.com/document/d/1o4W9hWqjEqSRYWCJ2yGxwleZzpXG2BA6FxYBy_IZVMg/edit#heading=h.qv5tuf5lkyjv) 
 - [Dashboard](https://suite.adjust.com/datascape/report)
