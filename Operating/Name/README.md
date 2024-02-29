@@ -44,18 +44,18 @@ https://source.android.com/setup/start/build-numbers
 
 ## Other Android OS
 
-| Device  | OS | Latest (19/June/23)|
+| Device  | OS | Latest (29-Feb-24)|
 | :---:  | :---:  | :---:  |
-|Samsung | One UI|5.1|
-|Xiomi | HyperOS| 1.0|
+|Samsung | One UI|6.0|
+|Xiomi | HyperOS|1.0|
 |Xiomi | MIUI| 14.0.2|
-|Huawei | Harmony| 3.1|
+|Huawei | Harmony| 4.0|
 |Huawei | EMUI (Emotion UI)|13|
-|Honor | MagicOS|8|
-|OnePlus | OxygenOS|13
-|Infinix | XOS|7.6|
+|Honor | MagicOS|8.0|
+|OnePlus | OxygenOS|14
+|Infinix | XOS|13|
 |Techno | HiOS|13|
-|Oppo | ColorOS| 13.1|
+|Oppo | ColorOS| 14|
 
 ## Smartwatch
 
