@@ -10,7 +10,7 @@ i like writing and saving things that are useful, some of the content that is he
 ### ➼ [Architecture (+Design Pattern, Principle, Paradigm) 🧱](Architecture)
 ### ➼ [Backend 🖥️](/Backend)
 ### ➼ [CI/CD ♻️](/CiCd)
-### ➼ [Data 📊](/Data)
+### ➼ [Data (+Stat) 📊](/Data)
 ### ➼ [Database 📊](/Database)
 ### ➼ [Data Structure 📊](/DataStructure)
 ### ➼ [Design 🎨](/Design)
