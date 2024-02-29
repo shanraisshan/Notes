@@ -9,8 +9,7 @@ mobile apps
 # Common Topics
 
 ### ➼ [A/B Testing 🆎](AB)
-### ➼ [Analytic 📈](Analytic)
-### ➼ [Data (+Stat) 📊](Data)
+### ➼ [Data (+Analytic, Stat) 📊](Data)
 ### ➼ [Device (+Emulator, Mirror) 📱](Device)
 ### ➼ [Link (+App,Deep,Deferred,Dynamic,Universal) 🔗](Link)
 ### ➼ [Name (+Version) 📛](Name)
