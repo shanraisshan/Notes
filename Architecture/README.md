@@ -12,3 +12,8 @@ Description|Link
 :-:|:-:
 difference between Design Patterns and Architectural Patterns|https://stackoverflow.com/q/4243187/4754141
 difference between Pattern and Principle|https://softwareengineering.stackexchange.com/q/153586/225580
+
+
+# Quotes
+
+> Good code is like a love letter to the next developer who will maintain it.
