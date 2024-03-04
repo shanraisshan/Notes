@@ -4,4 +4,4 @@ certificications, courses
 ### ➼ [Award 🏆](Award)
 ### ➼ [Book 📖](Book)
 ### ➼ [Certification 📜](Certification)
-### ➼ [Conference 📜](Conference)
+### ➼ [Conference 📅](Conference)
