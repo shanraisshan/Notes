@@ -9,17 +9,17 @@ https://source.android.com/setup/start/build-numbers
 
 |Codename|	Version	|API level/NDK release|Internal codename|Release
 |:-:|:-:|:-:|:-:|:-:
-|Android15 |	15|	API level 35|Vanilla Ice Cream|February 16, 2024
-|Android14 |	14|	API level 34|Upside Down Cake
-|Android13 |	13|	API level 33|Tiramisu|August 15, 2022
-|Android12 |	12|	API level 32|Snow Cone v2|March 7, 2022
-|Android12 |	12|	API level 31|Snow Cone|October 4, 2021
-|Android11 |	11|	API level 30|Red Velvet Cake|September 8, 2020
-|Android10 |	10|	API level 29|Quince Tart|September 3, 2019
-|Pie|	9|	API level 28|Pistachio Ice Cream|August 6, 2018
-|Oreo|	8.1.0|	API level 27|Oatmeal Cookie|December 5, 2017
-|Oreo|	8.0.0|	API level 26|Oatmeal Cookie|August 21, 2017
-|Nougat|	7.1|	API level 25|New York Cheesecake|October 4, 2016
+|Android15 |	15|	API level 35|Vanilla Ice Cream|16-Feb-24
+|Android14 |	14|	API level 34|Upside Down Cake|4-Oct-23
+|Android13 |	13|	API level 33|Tiramisu|15-Aug-22
+|Android12 |	12|	API level 32|Snow Cone v2|7-Mar-22
+|Android12 |	12|	API level 31|Snow Cone|4-Oct-21
+|Android11 |	11|	API level 30|Red Velvet Cake|8-Sep-20
+|Android10 |	10|	API level 29|Quince Tart|3-Sep-19
+|Pie|	9|	API level 28|Pistachio Ice Cream|6-Aug-18
+|Oreo|	8.1.0|	API level 27|Oatmeal Cookie|5-Dec-17
+|Oreo|	8.0.0|	API level 26|Oatmeal Cookie|21-Aug-17
+|Nougat|	7.1|	API level 25|New York Cheesecake|4-Oct-16
 |Nougat|	7.0|	API level 24|New York Cheesecake|August 22, 2016
 |Marshmallow|	6.0|	API level 23|	Macadamia Nut Cookie|October 2, 2015
 |Lollipop|	5.1|	API level 22|Lemon Meringue Pie|March 2, 2015
