@@ -13,10 +13,11 @@ different cross platform technologies
 
 ![alt text](!/hybrid.png)
 
-## Apps
+## Apps Tech Stack
 
 Technologies|Link
 :-:|:-:
 React Native to Native|[Why did Airbnb decide to revert back to native apps from React Native?](https://www.quora.com/Why-did-Airbnb-decide-to-revert-back-to-native-apps-from-React-Native)
+React Native + Native|[Instagram's tech stack will surprise you](https://www.youtube.com/watch?v=ODKzJrrHua0)
 
 
