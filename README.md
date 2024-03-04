@@ -2,7 +2,7 @@
 i like writing and saving things that are useful, some of the content that is helpful in skill building, development, self learning are shared here
 
 ### ➼ [Abbreviation (+Terminology, Quotes, Latest) 🔤](/Abbreviation)
-### ➼ [Academic 🎓](/Academic)
+### ➼ [Academic (+Award, Book, Certification, Conference) 🎓](/Academic)
 ### ➼ [AI 🤖](/AI)
 ### ➼ [Analytic (+Data, Stat) 📈](/Analytic)
 ### ➼ [App. 📱](/App)
