@@ -47,17 +47,17 @@ https://source.android.com/setup/start/build-numbers
 
 ## Other Android OS
 
-| Device  | OS | Latest (19/June/23)|
-| :---:  | :---:  | :---:  |
-|Samsung | One UI|5.1|
-|Xiomi | HyperOS| 1.0|
-|Xiomi | MIUI| 14.0.2|
-|Huawei | Harmony| 3.1|
-|Huawei | EMUI (Emotion UI)|13|
-|OnePlus | OxygenOS|13
-|Infinix | XOS|7.6|
-|Techno | HiOS|13|
-|Oppo | ColorOS| 13.1|
+| Device  | OS | Latest (4-Mar-24)|
+|:-:|:-:|:-:|
+|Samsung |One UI|5.1|
+|Xiomi|HyperOS| 1.0|
+|Xiomi|MIUI| 14.0.2|
+|Huawei|Harmony| 3.1|
+|Huawei|EMUI (Emotion UI)|13|
+|OnePlus|OxygenOS|13
+|Infinix|XOS|7.6|
+|Techno|HiOS|13|
+|Oppo|ColorOS| 13.1|
 
 # ANDROID STUDIO
 
