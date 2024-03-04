@@ -12,3 +12,11 @@ different cross platform technologies
 7|Apache Cordova|Javascript
 
 ![alt text](!/hybrid.png)
+
+## Apps
+
+Technologies|Link
+:-:|:-:
+React Native to Native|[Why did Airbnb decide to revert back to native apps from React Native?](https://www.quora.com/Why-did-Airbnb-decide-to-revert-back-to-native-apps-from-React-Native)
+
+
