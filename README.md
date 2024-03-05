@@ -15,7 +15,7 @@ i like writing and saving things that are useful, some of the content that is he
 ### ➼ [Design 🎨](/Design)
 ### ➼ [Hardware 📦](/Hardware)
 ### ➼ [IQ 🧠](/IQ)
-### ➼ [Job 💼](/Job)
+### ➼ [Job (+Company, Interview, Motivation) 💼](/Job)
 ### ➼ [Language 🗣️](/Language)
 ### ➼ [Login 🔐](/Login)
 ### ➼ [Math 🔢](/Math)
