@@ -84,7 +84,11 @@ https://developer.android.com/studio/releases
 # ANDROID STORE
 ### [App/Name→Android Store](/App/Name#android-store) ⇆ 2 side ⇆ [App/Store→Android](/App/Store#android)
 
-## macOS
+# iOS
+### [App/Name→iOS](/App/Name#iOS) ⇆ 2 side ⇆ [Operating/Name→iOS](/Operating/Name#iOS)
+
+
+# macOS
 ### [App/Name→macOS](/App/Name#macOS) ⇆ 2 side ⇆ [Operating/Name→macOS](/Operating/Name#macOS)
 
 https://en.wikipedia.org/wiki/MacOS_version_history
