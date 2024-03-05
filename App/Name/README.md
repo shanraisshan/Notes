@@ -49,19 +49,16 @@ https://source.android.com/setup/start/build-numbers
 
 | Device  | OS | Latest (4-Mar-24)|
 |:-:|:-:|:-:|
-|Samsung | One UI|6.0|
-|Xiomi | HyperOS|1.0|
-|Xiomi | MIUI| 14.0.2|
-|Huawei | Harmony| 4.0|
-|Huawei | EMUI (Emotion UI)|13|
-|Honor | MagicOS|8.0|
 |BBK - OnePlus | OxygenOS|14
 |BBK - Oppo | ColorOS| 14|
+|Honor | MagicOS|8.0|
+|Huawei | Harmony| 4.0|
+|Huawei | EMUI (Emotion UI)|13|
+|Samsung | One UI|6.0|
 |Transsion - Infinix | XOS|13|
 |Transsion - Techno | HiOS|13|
-
-
-
+|Xiomi | HyperOS|1.0|
+|Xiomi | MIUI| 14.0.2|
 
 # ANDROID STUDIO
 
@@ -86,20 +83,6 @@ https://developer.android.com/studio/releases
 
 # ANDROID STORE
 ### [App/Name→Android Store](/App/Name#android-store) ⇆ 2 side ⇆ [App/Store→Android](/App/Store#android)
-
-| Platform  | Store |
-| :---:  | :---:  |
-| Google | Playstore |
-| Huawei | App Gallery |
-| Samsung | Galaxy Store |
-| Infinix | Palm Store (Transsion Developer) |
-| Xiomi | Mi Picks |
-| Oppo | App Market |
-| Vivo | V-Appstore |
-| Amazon | Appstore |
-| iOS | App Store |
-| Nokia | Ovi Store |
-| Microsoft | Microsoft Store |
 
 
 
