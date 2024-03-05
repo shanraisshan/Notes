@@ -2,60 +2,10 @@
 names and versions of different operating systems
 
 ## Android 
-### [App/Name→Android OS](/App/Name) ⇆ 2 side ⇆ [Operating/Name→Android](/Operating/Name)
-https://source.android.com/setup/start/build-numbers
-
-|Codename|	Version	|API level/NDK release|Internal codename|
-| :---:  | :---:  | :---:| :---:|
-|Android15 |	15|	API level 35|Vanilla Ice Cream
-|Android14 |	14|	API level 34|Upside Down Cake
-|Android13 |	13|	API level 33|Tiramisu
-|Android12 |	12|	API level 32|Snow Cone v2
-|Android12 |	12|	API level 31|Snow Cone
-|Android11 |	11|	API level 30|Red Velvet Cake
-|Android10 |	10|	API level 29|Quince Tart
-|Pie|	9|	API level 28|Pistachio Ice Cream
-|Oreo|	8.1.0|	API level 27|Oatmeal Cookie
-|Oreo|	8.0.0|	API level 26|Oatmeal Cookie
-|Nougat|	7.1|	API level 25|New York Cheesecake
-|Nougat|	7.0|	API level 24|New York Cheesecake
-|Marshmallow|	6.0|	API level 23|	Macadamia Nut Cookie
-|Lollipop|	5.1|	API level 22|Lemon Meringue Pie
-|Lollipop|	5.0|	API level 21|Lemon Meringue Pie
-|KitKat|	4.4 - 4.4.4|	API level 19|Key Lime Pie
-|Jelly Bean|	4.3.x|	API level 18|Jelly Bean
-|Jelly Bean|	4.2.x|	API level 17|Jelly Bean
-|Jelly Bean|	4.1.x|	API level 16|Jelly Bean
-|Ice Cream Sandwich|	4.0.3 - 4.0.4|	API level 15, NDK 8|Ice Cream Sandwich
-|Ice Cream Sandwich|	4.0.1 - 4.0.2|	API level 14, NDK 7|Ice Cream Sandwich
-|Honeycomb|	3.2.x|	API level 13|Honeycomb
-|Honeycomb|	3.1|	API level 12, NDK 6|Honeycomb
-|Honeycomb|	3.0|	API level 11|Honeycomb
-|Gingerbread|	2.3.3 - 2.3.7|	API level 10|Gingerbread
-|Gingerbread|	2.3 - 2.3.2|	API level 9, NDK 5|Gingerbread
-|Froyo|	2.2.x|	API level 8, NDK 4|Froyo
-|Eclair|	2.1|	API level 7, NDK 3|Eclair
-|Eclair|	2.0.1|	API level 6|Eclair
-|Eclair|	2.0|	API level 5|Eclair
-|Donut|	1.6|	API level 4, NDK 2|Donut
-|Cupcake|	1.5|	API level 3, NDK 1|Cupcake
-|(no codename)|	1.1|	API level 2|Petit Four
-|(no codename)|	1.0|	API level 1|-
+### [App/Name→Android OS](/App/Name#android-os) ⇆ 2 side ⇆ [Operating/Name→Android](/Operating/Name#android)
 
 ## Other Android OS
-
-| Device  | OS | Latest (29-Feb-24)|
-| :---:  | :---:  | :---:  |
-|Samsung | One UI|6.0|
-|Xiomi | HyperOS|1.0|
-|Xiomi | MIUI| 14.0.2|
-|Huawei | Harmony| 4.0|
-|Huawei | EMUI (Emotion UI)|13|
-|Honor | MagicOS|8.0|
-|BBK - OnePlus | OxygenOS|14
-|BBK - Oppo | ColorOS| 14|
-|Transsion - Infinix | XOS|13|
-|Transsion - Techno | HiOS|13|
+### [App/Name→Other Android OS](/App/Name#other-android-os) ⇆ 2 side ⇆ [Operating/Name→Other Android OS](/Operating/Name#other-android-os)
 
 
 ## Smartwatch
