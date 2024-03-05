@@ -1,10 +1,9 @@
 # Savyour
 savyour
 
--|version|last changed
+-|version|countries
 :-:|:-:|:-:
 -|***Android***|-
-Minimum|21|-
+Minimum|21|177 (All)
 -|***iOS***|-
-Minimum|14| August 2023 (10.9.0)
-
+Minimum|14 (Aug-23/10.9)| 
