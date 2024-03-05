@@ -25,7 +25,8 @@ names and versions of different operating systems
 |Samsung|Tizen OS|x|
 |LG|webOS|x|
 
-## Mac OS X / OS X / macOS
+## macOS
+### [App/Name→macOS](/App/Name#macOS) ⇆ 2 side ⇆ [Operating/Name→macOS](/Operating/Name#macOS)
 
 https://en.wikipedia.org/wiki/MacOS_version_history
 
