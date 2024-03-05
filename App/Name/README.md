@@ -89,28 +89,26 @@ https://developer.android.com/studio/releases
 
 https://en.wikipedia.org/wiki/MacOS_version_history
 
-| Names  | Release Date |
-| :---:  | :---:  |
-|Mac OS X Public Beta | code name Kodiak|
-|Mac OS X 10.0 | code name Cheetah|
-|Mac OS X 10.1 | code name Puma|
-|Mac OS X 10.2 | also marketed as Jaguar|
-|Mac OS X Panther | 10.3|
-|Mac OS X Tiger | 10.4|
-|Mac OS X Leopard | 10.5|
-|Mac OS X Snow Leopard | 10.6|
-|Mac OS X Lion – 10.7 | also marketed as OS X Lion|
-|OS X Mountain Lion | 10.8|
-|OS X Mavericks | 10.9|
-|OS X Yosemite | 10.10|
-|OS X El Capitan | 10.11|
-|macOS Sierra | 10.12|
+|Name|Version|Release Date|
+|:-:|:-:|:-:
+|macOS Sonoma | 14|Sep-23
+|macOS Ventura | 13|Oct-22
+|macOS Monterey | 12|Oct-21
+|macOS Big Sur | 11|Nov-20
+|macOS Catalina | 10.15|Oct-19
+|macOS Mojave | 10.14|Sep-18
 |macOS High Sierra | 10.13|
-|macOS Mojave | 10.14|
-|macOS Catalina | 10.15|
-|macOS Big Sur | 11|
-|macOS Monterey | 12|
-|macOS Ventura | 13|
-|macOS Sonoma | 14|
-
-
+|macOS Sierra | 10.12|
+|OS X El Capitan | 10.11|
+|OS X Yosemite | 10.10|
+|OS X Mavericks | 10.9|
+|OS X Mountain Lion | 10.8|
+|Mac OS X Lion – 10.7 | also marketed as OS X Lion|
+|Mac OS X Snow Leopard | 10.6|
+|Mac OS X Leopard | 10.5|
+|Mac OS X Tiger | 10.4|
+|Mac OS X Panther | 10.3|
+|Mac OS X 10.2 | also marketed as Jaguar|
+|Mac OS X 10.1 | code name Puma|
+|Mac OS X 10.0 | code name Cheetah|
+|Mac OS X Public Beta | code name Kodiak|
