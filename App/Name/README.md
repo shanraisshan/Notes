@@ -2,7 +2,6 @@
 names, versions related stuff
 
 # ANDROID OS
-
 ### [App/Name→Android OS](/App/Name#android-os) ⇆ 2 side ⇆ [Operating/Name→Android](/Operating/Name#android)
 
 https://source.android.com/setup/start/build-numbers
@@ -46,18 +45,23 @@ https://source.android.com/setup/start/build-numbers
 |(no codename)|	1.0|	API level 1|-|September 23, 2008
 
 ## Other Android OS
+### [App/Name→Other Android OS](/App/Name#other-android-os) ⇆ 2 side ⇆ [Operating/Name→Other Android OS](/Operating/Name#other-android-os)
 
 | Device  | OS | Latest (4-Mar-24)|
 |:-:|:-:|:-:|
-|Samsung |One UI|5.1|
-|Xiomi|HyperOS| 1.0|
-|Xiomi|MIUI| 14.0.2|
-|Huawei|Harmony| 3.1|
-|Huawei|EMUI (Emotion UI)|13|
-|OnePlus|OxygenOS|13
-|Infinix|XOS|7.6|
-|Techno|HiOS|13|
-|Oppo|ColorOS| 13.1|
+|Samsung | One UI|6.0|
+|Xiomi | HyperOS|1.0|
+|Xiomi | MIUI| 14.0.2|
+|Huawei | Harmony| 4.0|
+|Huawei | EMUI (Emotion UI)|13|
+|Honor | MagicOS|8.0|
+|BBK - OnePlus | OxygenOS|14
+|BBK - Oppo | ColorOS| 14|
+|Transsion - Infinix | XOS|13|
+|Transsion - Techno | HiOS|13|
+
+
+
 
 # ANDROID STUDIO
 
