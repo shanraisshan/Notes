@@ -10,18 +10,20 @@ names and versions of different operating systems
 
 ## Smartwatch
 
-| Device  | OS | Latest (19/June/23)|
-| :---:  | :---:  | :---:  |
-|Google | Wear OS| 4.0|
-|Samsung | Tizen| 8.0|
+|Device|OS|Latest (5-Mar-24)|
+|:-:|:-:|:-:|
+|Apple|watchOS|10.3|
+|Google|Wear OS|4.0|
+|Samsung|Tizen|8.0|
 
 ## TV
 
-| Device  | OS | Latest (19/June/23)|
-| :---:  | :---:  | :---:  |
-|TCL Roku TV | Roku OS| 12|
-|Samsung | Tizen OS| x|
-|LG | webOS| x|
+|Device|OS|Latest (5-Mar-24)|
+|:-:|:-:|:-:|
+|Apple|tvOS|17.3|
+|TCL Roku TV|Roku OS|12|
+|Samsung|Tizen OS|x|
+|LG|webOS|x|
 
 ## Mac OS X / OS X / macOS
 
