@@ -1,6 +1,7 @@
 # Savyour
 savyour
 
+## App Stats
 version|min version|countries
 :-:|:-:|:-:
 -|***Google Play Store***|-
@@ -13,3 +14,10 @@ version|min version|countries
 13.0.0|21-33|9
 -|***Apple App Store***|-
 13.0.0|14 (Aug-23/10.9)| 173/175 [Apps that contain contests can't be sold in Afghanistan/Morocco]
+
+## Api Support
+date|app version
+:-:|:-:
+19-Dec-23|9.9 to 10.3
+21-Mar-23|9.0 to 9.9
+
