@@ -10,7 +10,8 @@ different app stores
 | Huawei | [App Gallery](App-Gallery) |com.huawei.appmarket|[-](-)|[developer.huawei.com](https://developer.huawei.com/consumer/en/service/josp/agc/index.html#/myApp)|
 | Samsung | [Galaxy Store](Galaxy-Store) |com.sec.android.app.samsungapps|[-](-)|[developer.samsung.com](https://developer.samsung.com/galaxy-store)|
 | Infinix/iTel/Techno (Transsion) | [Palm Store](Palm-Store)|com.transsnet.store|[m.palmplaystore.com](https://m.palmplaystore.com/#category=HOME#subCategory=)|[dev.transsion.com](https://dev.transsion.com/admin-application/manage/list)|
-| Redmi (Xiomi) | [Mi Picks](Mi-Picks)|com.xiomi.mipicks |[global.app.mi.com](https://global.app.mi.com/?lo=ID&la=en)|[global.developer.mi.com](https://global.developer.mi.com/home)|
+| Mi/Redmi (Xiomi) | [Mi Picks / Get Apps](Mi-Picks)|com.xiomi.mipicks |[global.app.mi.com](https://global.app.mi.com/?lo=ID&la=en)|[global.developer.mi.com](https://global.developer.mi.com/home)|
+| Poco (Xiomi) | [Poco-Store](Poco-Store)|com.mi.global.pocostore |[-](-)|[global.developer.mi.com](https://global.developer.mi.com)|
 | Oppo (BBK) | [App Market](App-Market) |com.oppo.market|[-](-)|[developers.oppomobile.com](https://developers.oppomobile.com/user/admin#/resource/list?type=app)|
 | Vivo (BBK) | [V-Appstore](V-Appstore)|com.vivo.appstore |[-](-)|[developer.vivo.com](https://developer.vivo.com/home)|
 | Realme (BBK)|-|-|-|
