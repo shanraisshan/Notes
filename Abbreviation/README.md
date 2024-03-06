@@ -13,6 +13,7 @@
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 AAPT|Android Asset Packaging Tool|
+AASA|apple-app-site-association|
 ADB|Android Debug Bridge|
 ADT|Android Development Tools|
 AIDL|Android Interface Definition Language|
@@ -53,6 +54,7 @@ YAGNI|You Aren’t Gonna Need It|
 ## 3. Business
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
+AAARRR|Awareness, Acquisition, Activation, Revenue, Retention, Referral|
 AC|Actual Cost|
 B2B|Business to Business|
 B2C|Business to Consumer|
