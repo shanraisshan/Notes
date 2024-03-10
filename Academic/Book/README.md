@@ -16,7 +16,7 @@ a room without books is like a body without a soul
 
 
 
-# 📚 BUSINESS
+# 📚 BUSINESS / LEADER
 ## Books
 |Name|Author|Edition|Source|
 |:-:|:-:|:-:|:-:|
@@ -24,6 +24,8 @@ a room without books is like a body without a soul
 |Invent and Wander: The Collected Writings of Jeff Bezos|Jeff Bezos|-|[Azhar Iqbal - CEO InShorts](https://youtu.be/tCgXb6OHO0Q?t=235)|
 |📚 **`CULTURE`** 📚|📚|📚|📚|
 |CULTure at Zomato : How to Rewire Your Brain for Greatness|Deepinder Goyal|-|[TRS Podcast](https://youtu.be/3wBEUuV7BYg?t=522)|
+|📚 **`FRAMEWORK`** 📚|📚|📚|📚|
+|Setting Up OKRs for Growth-Oriented Teams|ACVentures + Google|-|[Gaditek Meeting](https://acv.vc/insights/acv-portfolio-news/acv-academy-google-okrs)|
 |📚 **`LEADER`** 📚|📚|📚|📚|
 |The 7 Habits Of Highly Effective People|Stephen R. Covey|-|[Gaditek Book Club](https://app.slack.com/client/TNH99LZNF/CNU9LA8CC)|
 
