@@ -19,12 +19,14 @@ General|Defination
 :-:|:-:
 commendable
 diligent|careful / hard-working
+evangelize|preach
 indecisive|having a hard time making decisions
 
 ## Hard 
 General|Defination
 :-:|:-:
 candor|quality of being open and honest / frankness
+titan|giant
 
 ## General
 General|Defination
