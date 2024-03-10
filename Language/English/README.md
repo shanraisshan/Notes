@@ -21,11 +21,13 @@ commendable
 diligent|careful / hard-working
 evangelize|preach
 indecisive|having a hard time making decisions
+obscure|clear
 
 ## Hard 
 General|Defination
 :-:|:-:
 candor|quality of being open and honest / frankness
+indispensable|crucial
 titan|giant
 
 ## General
