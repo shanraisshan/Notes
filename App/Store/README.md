@@ -13,6 +13,7 @@ different app stores
 | Mi/Redmi (Xiomi) | [Mi Picks / Get Apps](Mi-Picks)|com.xiomi.mipicks |[global.app.mi.com](https://global.app.mi.com/?lo=ID&la=en)|[global.developer.mi.com](https://global.developer.mi.com/home)|
 | Poco (Xiomi) | [Poco-Store](Poco-Store)|com.mi.global.pocostore |[-](-)|[global.developer.mi.com](https://global.developer.mi.com)|
 | Oppo (BBK) | [App Market](App-Market) |com.oppo.market|[-](-)|[developers.oppomobile.com](https://developers.oppomobile.com/user/admin#/resource/list?type=app)|
+| Oppo (BBK) | [Hay Tap](Hay-Tap) |com.haytap.market|[-](-)||
 | Vivo (BBK) | [V-Appstore](V-Appstore)|com.vivo.appstore |[-](-)|[developer.vivo.com](https://developer.vivo.com/home)|
 | Realme (BBK)|-|-|-|
 | Amazon | [Amazon Appstore](Amazon-Appstore)|com.amazon.venezia |[amazon.com/mobile-apps/b](https://www.amazon.com/mobile-apps/b?ie=UTF8&node=2350149011)|[developer.amazon.com](https://developer.amazon.com/)|
