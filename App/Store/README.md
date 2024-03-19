@@ -7,7 +7,7 @@ different app stores
 | Platform  | Store | Apk Package | Website | Developer Console |
 | :---:  | :---:  |  :---:  | :---:  | :---:  |
 | Google | [Playstore](Playstore) |com.android.vending|[play.google.com/store](https://play.google.com/store/games)|[play.google.com/console/developers](https://play.google.com/console/developers/7640886278317067267/app-list)|
-| Huawei | [App Gallery](App-Gallery) |com.huawei.appmarket|[-](-)|[developer.huawei.com](https://developer.huawei.com/consumer/en/service/josp/agc/index.html#/myApp)|
+| Huawei | [App Gallery](App-Gallery) |com.huawei.appmarket|[appgallery.huawei.com](https://appgallery.huawei.com/)|[developer.huawei.com](https://developer.huawei.com/consumer/en/service/josp/agc/index.html#/myApp)|
 | Samsung | [Galaxy Store](Galaxy-Store) |com.sec.android.app.samsungapps|[-](-)|[developer.samsung.com](https://developer.samsung.com/galaxy-store)|
 | Infinix/iTel/Techno (Transsion) | [Palm Store](Palm-Store)|com.transsnet.store|[m.palmplaystore.com](https://m.palmplaystore.com/#category=HOME#subCategory=)|[dev.transsion.com](https://dev.transsion.com/admin-application/manage/list)|
 | Mi/Redmi (Xiomi) | [Mi Picks / Get Apps](Mi-Picks)|com.xiomi.mipicks |[global.app.mi.com](https://global.app.mi.com/?lo=ID&la=en)|[global.developer.mi.com](https://global.developer.mi.com/home)|
