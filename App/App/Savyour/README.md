@@ -6,8 +6,8 @@ Version|Api Level|Countries|Rating
 :-:|:-:|:-:|:-:
 -|***[Google Play Store](https://play.google.com/store/apps/details?id=com.disrupt.savyour&hl=en&gl=US&pli=1)***|-
 13.0.0|21-33|177 (All)|3+
--|***Huawei App Gallery***|-
-13.0.0|21-33|1(12.1 and above) • All(below 12.1)|
+-|***[Huawei App Gallery](https://appgallery.huawei.com/#/app/C103151451)***|-
+13.0.0|21-33|1(12.1 and above) • All(below 12.1)|12+
 -|***Transsion Palm Store***|-
 11.1.0|21-33|107|
 -|***Oppo App Market***|-
