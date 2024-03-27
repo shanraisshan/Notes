@@ -17,7 +17,7 @@ i like writing and saving things that are useful, some of the content that is he
 ### ➼ [IQ 🧠](/IQ)
 ### ➼ [Job (+Company, Interview, Motivation, Profile) 💼](/Job)
 ### ➼ [Language 🗣️](/Language)
-### ➼ [Legal (+Compliance, Law, Policy, Violation) ⚖️](/Language)
+### ➼ [Legal (+Compliance, Law, Policy, Violation) ⚖️](/Legal)
 ### ➼ [Login 🔐](/Login)
 ### ➼ [Math 🔢](/Math)
 ### ➼ [Operating System 💻](/Operating)
