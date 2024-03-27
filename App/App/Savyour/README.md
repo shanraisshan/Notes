@@ -18,6 +18,7 @@ Version|Api Level|Countries|Rating
 ## Api Support
 Date|App Version
 :-:|:-:
+27-Mar-24|10.3 to 10.5
 19-Dec-23|9.9 to 10.3
 21-Mar-23|9.0 to 9.9
 
