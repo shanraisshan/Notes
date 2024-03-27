@@ -264,6 +264,9 @@ Sometimes it is the people whom no one imagines anything of who do the things th
 Splitters can be lumped more easily than lumpers can be split|[-> details](https://en.wikipedia.org/wiki/Prefactoring)
 Use the client’s language|[-> details](https://en.wikipedia.org/wiki/Prefactoring)
 When you're abstract, be abstract all the way|[-> details](https://en.wikipedia.org/wiki/Prefactoring)
+Less is more|
+Simplify to amplify|
+3-Click Rule|[Steve Jobs](https://www.linkedin.com/posts/tom-alder_steve-jobs-had-a-simple-rule-for-designing-activity-7126175843613052928-5NVj/?trk=public_profile_like_view)
 
 
 # SIMILARITY
