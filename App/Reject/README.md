@@ -1,5 +1,6 @@
-# Referrer
+# Reject (+Contact, Test Users)
+rejections, testing credentials
 
-## Google Play Referrer Api
-https://developer.android.com/google/play/installreferrer
+### ➼ [Apple](Apple)
 
+Contact: https://developer.apple.com/contact/#!/topic/select
