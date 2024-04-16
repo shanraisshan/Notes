@@ -15,6 +15,7 @@ mobile apps
 ### ➼ [Name (+Version) 📛](Name)
 ### ➼ [Push Notification 🔔](Push)
 ### ➼ [Referral 🤝](Referral)
+### ➼ [Reject (+Contact, Test User)](Reject)
 ### ➼ [Security 🔒](Security)
 ### ➼ [Store 🏪](Store)
 
