@@ -1,10 +1,8 @@
 # Name (Version)
 names, versions related stuff
 
-# ANDROID OS
+# [ANDROID OS](https://source.android.com/setup/start/build-numbers)
 ### [App/Name→Android OS](/App/Name#android-os) ⇆ 2 side ⇆ [Operating/Name→Android](/Operating/Name#android)
-
-https://source.android.com/setup/start/build-numbers
 
 |Codename|	Version	|API level/NDK release|Internal codename|Release
 |:-:|:-:|:-:|:-:|:-:
@@ -60,42 +58,39 @@ https://source.android.com/setup/start/build-numbers
 |Xiomi | HyperOS|1.0|
 |Xiomi | MIUI| 14.0.2|
 
-# ANDROID STUDIO
-
-We are also giving each major release a version name, incrementing from A to Z based on animal names.
-https://developer.android.com/studio/releases
+# [ANDROID STUDIO](https://developer.android.com/studio/releases)
 
 | Names  | Release Date |
 | :---:  | :---:  |
-| Hedgehog - 2023.1.1  | Canary Apr 23  |
-| Giraffe - 2022.3.1  | Canary Jan 23  |
-| Flamingo - 2022.2.1  | Canary Jan 23  |
-| Electric Eel - 2022.1.1  | Jan 23  |
-| Doplhin - 2021.3.1  | Sep 22  |
-| Chipmunk - 2021.2.1  | May 22  |
-| Bumblebee - 2021.1.1  | Jan 22  |
-| Arctic Fox - 2020.3.1  | July 21  |
-| 4.2  | Apr 21  |
-| 4.1  | Aug 20  |
-| 4.0  | May 20  |
-| 3.6  | Feb 20  |
+| Koala - 2024.1.1  | TBD  |
+| Jellyfish - 2023.3.1  | TBD  |
+| Iguana - 2023.2.1  | Feb-24  |
+| Hedgehog - 2023.1.1  | Canary Apr-23  |
+| Giraffe - 2022.3.1  | Canary Jan-23  |
+| Flamingo - 2022.2.1  | Canary Jan-23  |
+| Electric Eel - 2022.1.1  | Jan-23  |
+| Doplhin - 2021.3.1  | Sep-22  |
+| Chipmunk - 2021.2.1  | May-22  |
+| Bumblebee - 2021.1.1  | Jan-22  |
+| Arctic Fox - 2020.3.1  | Jul-21  |
+| 4.2  | Apr-21  |
+| 4.1  | Aug-20  |
+| 4.0  | May-20  |
+| 3.6  | Feb-20  |
 
 
 # ANDROID STORE
 ### [App/Name→Android Store](/App/Name#android-store) ⇆ 2 side ⇆ [App/Store→Android](/App/Store#android)
 
-# iOS
+# [iOS](https://en.wikipedia.org/wiki/IOS_version_history)
 ### [App/Name→iOS](/App/Name#iOS) ⇆ 2 side ⇆ [Operating/Name→iOS](/Operating/Name#iOS)
 
-https://en.wikipedia.org/wiki/IOS_version_history
 |Name|Version|Release Date|
 |:-:|:-:|:-:
 |iOS17|17.3|Feb-24
 
-# macOS
+# [macOS](https://en.wikipedia.org/wiki/MacOS_version_history)
 ### [App/Name→macOS](/App/Name#macOS) ⇆ 2 side ⇆ [Operating/Name→macOS](/Operating/Name#macOS)
-
-https://en.wikipedia.org/wiki/MacOS_version_history
 
 |Name|Version|Release Date|
 |:-:|:-:|:-:
@@ -120,3 +115,17 @@ https://en.wikipedia.org/wiki/MacOS_version_history
 |Mac OS X 10.1 | code name Puma|
 |Mac OS X 10.0 | code name Cheetah|
 |Mac OS X Public Beta | code name Kodiak|
+
+# XCODE
+
+| Names  | Release Date |
+| :---:  | :---:  |
+| 15.3  | Mar-24  |
+
+# LANGUAGE
+
+| Names  | Release Date |
+| :---:  | :---:  |
+| Java 22 | Mar-24  |
+| Kotlin 1.9.23 | Mar-24  |
+| Swift 5.10 | Mar-24  |
