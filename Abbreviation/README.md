@@ -317,6 +317,8 @@ BBK -	Vivo Y200E|BBK - Oneplus Nord 30 SE 5G|Transsion - Tecno Spark 20 Pro|Tran
 Transsion -	Itel P55 Plus|Honor Magic V2 RSR Porsche Design|Huawei Pocket 2|Motorola Moto G24 Power|Lenovo Legion Y700 (2023)|
 Nothing Phone 2|LG W41 Pro|Nokia C210|Microsoft Surface Duo 2||
 iPhone 15 Pro Max|iPhone 15 Pro|iPhone 15 Plus|iPhone 15|-|
+-|-|***[Tech](/Operating/Name)***|-|-
+Kotlin 1.9.23|Swift 5.10 (6)|Java 22|Android Studio Iguana (Jellyfish)|Xcode 15.3
 
 
 
