@@ -31,7 +31,7 @@ i like writing and saving things that are useful, some of the content that is he
 Use|Description|Example
 :-:|:-:|:-:
 -> details|hyperlink|[-> details](Language/Kotlin/README.md#function)
-■|separator|[■](Academic/Book#author)
+■ •|separator|[■](Academic/Book#author)
 ->|separator2|[->](Language/Kotlin#list)
-➼ Link (+App,Deep,Dynamic,Universal)|comma separated naming| [➼ Link (+App,Deep,Dynamic,Universal) 🔗](App/Android#-link-appdeepdynamicuniversal-)
+➼ Link (+App, Deep, Dynamic, Universal)|comma separated naming| [➼ Link (+App, Deep, Dynamic, Universal) 🔗](App/Android#-link-appdeepdynamicuniversal-)
 image size|600x282|[sample](App/Android/Architecture/Pattern/Dependency/!/dagger1.png)
