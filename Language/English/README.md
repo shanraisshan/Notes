@@ -33,6 +33,7 @@ titan|giant
 ## General
 General|Defination
 :-:|:-:
+Aced|
 Aggregate|[bundle, collection, clump, cluster, composite, gross, heap, lump, pile] a whole formed by combining several separate elements
 Agnostic|having the belief that it is not possible to know whether god exists
 Analogue|[equivalent, cognate, correlate] a person or thing seen as comparable to another
@@ -46,6 +47,8 @@ Orthodox|[traditional] of the ordinary or usual type; normal
 Peer|[ساتھی] look with concentration at something
 Pinnacle|[چوٹی] the most successful point
 Prejudice|[تعصب, bias] preconceived opinion that is not based on reason or actual experience
+Rhetoric or Sophistry|Right(manjan) vs Wrong(manjan)
+Vicariously|experience something indirectly
 Verbose|[لفظی, wordy] expressed in more words than are needed
 
 
