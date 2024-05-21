@@ -19,6 +19,9 @@ everything about data
 
 ## Facebook
 - [Dashboard](https://www.facebook.com/events_manager2/overview)
+- [Facebook Conversion Api](https://www.youtube.com/watch?v=Tqb9GcHlAfk)
+> After Apple rolled out the IOS 14.5 updates with updated Privacy Policy, Facebook was not longer able to track the user activities of people who opt out of the tracking.
+But to stay in business Facebook came up with a new way of tracking which is known as Conversion API.
 
 ## Mixpanel
 - [Dashboard](https://mixpanel.com/project/1305204/view/20473/app/users)
