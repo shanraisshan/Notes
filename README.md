@@ -20,6 +20,7 @@ i like writing and saving things that are useful, some of the content that is he
 ### ➼ [Legal (+Compliance, Law, Policy, Violation) ⚖️](/Legal)
 ### ➼ [Login 🔐](/Login)
 ### ➼ [Math 🔢](/Math)
+### ➼ [Nature 🌳](/Nature)
 ### ➼ [Operating System 💻](/Operating)
 ### ➼ [Other ⛔](/Other)
 ### ➼ [Security 🔒](/Security)
