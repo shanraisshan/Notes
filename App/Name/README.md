@@ -50,7 +50,8 @@ names, versions related stuff
 |BBK - OnePlus | OxygenOS|14
 |BBK - Oppo | ColorOS| 14|
 |Honor | MagicOS|8.0|
-|Huawei | Harmony| 4.0|
+|Huawei | HarmonyOS| 4.0|
+|Huawei | HarmonyOS NEXT| merge in HOS5.0 (does not support android apk)
 |Huawei | EMUI (Emotion UI)|13|
 |Samsung | One UI|6.0|
 |Transsion - Infinix | XOS|13|
