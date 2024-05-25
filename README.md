@@ -5,7 +5,7 @@ i like writing and saving things that are useful, some of the content that is he
 ### ➼ [Academic (+Award, Book, Certification, Conference) 🎓](/Academic)
 ### ➼ [AI 🤖](/AI)
 ### ➼ [Analytic (+Data, Stat) 📈](/Analytic)
-### ➼ [App 📱](/App)
+### ➼ [App. 📱](/App)
 ### ➼ [Algorithm 👨🏻‍💻](/Algorithm)
 ### ➼ [Architecture (+Design Pattern, Principle, Paradigm) 🧱](Architecture)
 ### ➼ [Backend 🖥️](/Backend)
