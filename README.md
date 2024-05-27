@@ -3,6 +3,7 @@ i like writing and saving things that are useful, some of the content that is he
 
 ### ➼ [Abbreviation (+Terminology, Quote, Latest) 🔤](/Abbreviation)
 ### ➼ [Academic (+Award, Book, Certification, Conference) 🎓](/Academic)
+### ➼ [Affiliate 🤝](/Affiliate)
 ### ➼ [AI 🤖](/AI)
 ### ➼ [Analytic (+Data, Stat) 📈](/Analytic)
 ### ➼ [App. 📱](/App)
