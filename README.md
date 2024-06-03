@@ -26,6 +26,7 @@ i like writing and saving things that are useful, some of the content that is he
 ### ➼ [Other ⛔](/Other)
 ### ➼ [Security 🔒](/Security)
 ### ➼ [Software Engineering (+System Design) 👷🏻](/Software)
+### ➼ [Version Control (+Git) 🎛️](/Version)
 ### ➼ [Writing ✍️](/Writing)
 
 # FORMATTING
