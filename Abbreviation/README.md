@@ -248,9 +248,9 @@ General|Defination
 :-:|:-:
 Baby boomers|eldest, born between the years 1946 and 1964
 Generation X|1965 and 1980
-Millennials (Generation Y)|1981 and 1994
-Gen Z|1995 and 2009
-Gen Alpha|2010 and later
+Millennials (Generation Y)|1981 and 1996
+Gen Z|1997 and 2012
+Gen Alpha|2013 and later
 
 # QUOTES
 
