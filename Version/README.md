@@ -6,6 +6,7 @@ best practices
 Term|Defination
 -|-
 Checkout|
+Cherry Pick|
 Clone|
 Commit|
 Merge|
