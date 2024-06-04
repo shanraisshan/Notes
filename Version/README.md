@@ -1,6 +1,18 @@
 # Version Control (+Git)
+best practices
 
-## PR WITH MERGE CONFLICTS
+### TERMS
+
+Term|Defination
+-|-
+Checkout|
+Clone|
+Commit|
+Merge|
+Rebase|
+
+
+### PR WITH MERGE CONFLICTS
 if you create a PR that have merge conflicts (dev -> master), you can update the PR using following method
 
 1. go to dev
