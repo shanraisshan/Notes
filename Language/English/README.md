@@ -48,6 +48,7 @@ Peer|[ساتھی] look with concentration at something
 Pinnacle|[چوٹی] the most successful point
 Prejudice|[تعصب, bias] preconceived opinion that is not based on reason or actual experience
 Rhetoric or Sophistry|Right(manjan) vs Wrong(manjan)
+Spatial|relating to or occupying space
 Vicariously|experience something indirectly
 Verbose|[لفظی, wordy] expressed in more words than are needed
 
