@@ -28,3 +28,8 @@ names and versions of different operating systems
 |Samsung|Tizen OS|x|
 |LG|webOS|x|
 
+# Wearables
+|Device|OS|Latest (5-Mar-24)|
+|:-:|:-:|:-:|
+|Apple|visonOS|2.0|
+
