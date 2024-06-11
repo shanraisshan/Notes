@@ -309,7 +309,7 @@ AND| && |
 Android 15|Samsung - One UI	6.0|Xiomi	- HyperOS	1.0|Xiomi	- MIUI	14.0.2|Huawei	- Harmony	4.0
 Huawei - EMUI	13|Honor - MagicOS	8.0|BBK - Oppo - ColorOS	14|BBK - OnePlus - OxygenOS	14|Transsion - Infinix - XOS	13
 Transsion - Techno - HiOS	13|-|-|-|
-iOS 17.3|iPadOS 17.3|macOS Sonoma 14.3|watchOS 11|tvOS 17.3
+iOS 17.3|iPadOS 17.3|macOS Sequoia 15.0|watchOS 11|tvOS 17.3
 visionOS 2.0||||
 -|-|***[PHONES](/Hardware/Name)***|-|-
 Google Pixel 8 Pro|Google Pixel Fold|Samsung S24 Ultra|Samsung Z Flip 5|Samsung Z Fold 5
