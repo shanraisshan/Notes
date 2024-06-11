@@ -23,7 +23,7 @@ names and versions of different operating systems
 # TV
 |Device|OS|Latest (5-Mar-24)|
 |:-:|:-:|:-:|
-|Apple|tvOS|17.3|
+|Apple|tvOS|18|
 |TCL Roku TV|Roku OS|12|
 |Samsung|Tizen OS|x|
 |LG|webOS|x|
