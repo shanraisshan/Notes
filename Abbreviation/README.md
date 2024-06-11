@@ -192,8 +192,9 @@ WAMP|Windows, Apache, MySQL, PHP|
 ## 16. Others
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
-IELTS|International English Language Testing System|
 CAPTCHA|Completely Automated Public Turing Test to Tell Computers and Humans Apart|
+IELTS|International English Language Testing System|
+SOS|Save Our Souls
 
 # TERMINOLOGY
 
@@ -309,7 +310,7 @@ Android 15|Samsung - One UI	6.0|Xiomi	- HyperOS	1.0|Xiomi	- MIUI	14.0.2|Huawei	-
 Huawei - EMUI	13|Honor - MagicOS	8.0|BBK - Oppo - ColorOS	14|BBK - OnePlus - OxygenOS	14|Transsion - Infinix - XOS	13
 Transsion - Techno - HiOS	13|-|-|-|
 iOS 17.3|iPadOS 17.3|macOS Sonoma 14.3|watchOS 10.3|tvOS 17.3
-visionOS 1.0||||
+visionOS 2.0||||
 -|-|***[PHONES](/Hardware/Name)***|-|-
 Google Pixel 8 Pro|Google Pixel Fold|Samsung S24 Ultra|Samsung Z Flip 5|Samsung Z Fold 5
 Xiaomi 14|Xiaomi - Redmi Note 13 Pro Plus 5G|Xiaomi -	Poco X6 Pro|BBK -	Realme 12 Pro Plus 5G|BBK -	Oppo Reno 11 F|
