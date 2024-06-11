@@ -16,7 +16,7 @@ names and versions of different operating systems
 # Smartwatch
 |Device|OS|Latest (5-Mar-24)|
 |:-:|:-:|:-:|
-|Apple|watchOS|10.3|
+|Apple|watchOS|11.0|
 |Google|Wear OS|4.0|
 |Samsung|Tizen|8.0|
 
