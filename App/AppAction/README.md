@@ -3,10 +3,11 @@ perform task within your app using Gemini or Siri
 
 ### Android
 - [App Action](https://developer.android.com/develop/devices/assistant/get-started)
+- [App Shortcuts](https://developer.android.com/develop/ui/views/launch/shortcuts)
 
 ### iOS
-- [App Intent]()
-- [Custom Intent]()
-- [App Shortcut]()
+- [App Intent](https://developer.apple.com/documentation/appintents)
+- [Custom Intent](https://developer-rno.apple.com/design/human-interface-guidelines/technologies/siri/custom-intents)
+- [App Shortcut](https://developer.apple.com/documentation/appintents/app-shortcuts)
 
 
