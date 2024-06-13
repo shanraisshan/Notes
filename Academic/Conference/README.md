@@ -5,7 +5,7 @@ Name|Location|-
 :-:|:-:|:-:
 CES|Nivada, 9/Jan/24|[the most powerful tech event in the world](https://www.ces.tech/)
 DEEPFEST|Riyadh, 4-7/Mar/24|[THE REGION’S LEADING AI EVENT, CO-ORGANISED BY ARTIFICIAL INTELLIGENCE](https://deepfest.com/)
-GOOGLE I/O|California, 10/May/23|https://io.google/2023/
+GOOGLE I/O|[California, 14/May/24](https://youtu.be/XEzRZ35urlk)|https://io.google/2024/
 GTC|California, 18-21/Mar/24|[The #1 AI conference for developers, business leaders, and AI researchers](https://www.nvidia.com/gtc/)
 LEAP|Riyadh, 4-7/Mar/24|[The world's most attended tech event, where you journey Into New Worlds](https://onegiantleap.com/)
 MICROSOFT BUILD|California, 23-25/May/24|[annual conference event held by Microsoft, aimed at software engineers and web developers](https://news.microsoft.com/microsoft-may-2024-events/)
