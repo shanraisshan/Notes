@@ -13,7 +13,7 @@ i like writing and saving things that are useful, some of the content that is he
 ### ➼ [CI/CD ♻️](/CiCd)
 ### ➼ [Database 📊](/Database)
 ### ➼ [Data Structure 📊](/DataStructure)
-### ➼ [Design 🎨](/Design)
+### ➼ [Design (+UI, UX) 🎨](/Design)
 ### ➼ [Gesture 🤏🏻](/Gesture)
 ### ➼ [Hardware 📦](/Hardware)
 ### ➼ [IQ 🧠](/IQ)
