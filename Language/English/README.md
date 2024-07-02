@@ -30,6 +30,15 @@ candor|quality of being open and honest / frankness
 indispensable|crucial
 titan|giant
 
+## Presentation 
+General|Defination
+:-:|:-:
+cognitive|involving conscious intellectual activity
+monotonous|lacking in variety and interest
+pomodoro|italian for tomato (time management mathod)
+subconscious|the part of the mind of which one is not fully aware but which influences one's actions and feelings
+synopsis|a brief summary
+
 ## General
 General|Defination
 :-:|:-:
