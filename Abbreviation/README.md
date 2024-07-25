@@ -309,8 +309,8 @@ AND| && |
 Android 15|Samsung - One UI	6.0|Xiomi	- HyperOS	1.0|Xiomi	- MIUI	14.0.2|Huawei	- Harmony	4.0
 Huawei - EMUI	13|Honor - MagicOS	8.0|BBK - Oppo - ColorOS	14|BBK - OnePlus - OxygenOS	14|Transsion - Infinix - XOS	13
 Transsion - Techno - HiOS	13|-|-|-|
-iOS 18.0|iPadOS 18.0|macOS Sequoia 15.0|watchOS 11|tvOS 17.3
-visionOS 2.0||||
+iOS 18.0|iPadOS 18.0|macOS Sequoia 15.0|watchOS 10 (11 beta)|tvOS 17.5 (18.0 beta)
+visionOS 1.2 (2.0 beta)||||
 -|-|***[PHONES](/Hardware/Name)***|-|-
 Google Pixel 8 Pro|Google Pixel Fold|Samsung S24 Ultra|Samsung Z Flip 5|Samsung Z Fold 5
 Xiaomi 14|Xiaomi - Redmi Note 13 Pro Plus 5G|Xiaomi -	Poco X6 Pro|BBK -	Realme 12 Pro Plus 5G|BBK -	Oppo Reno 11 F|
