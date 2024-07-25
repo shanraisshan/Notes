@@ -16,14 +16,14 @@ names and versions of different operating systems
 # Smartwatch
 |Device|OS|Latest (5-Mar-24)|
 |:-:|:-:|:-:|
-|Apple|watchOS|11.0|
+|Apple|watchOS|10 (11.0 beta)|
 |Google|Wear OS|4.0|
 |Samsung|Tizen|8.0|
 
 # TV
 |Device|OS|Latest (5-Mar-24)|
 |:-:|:-:|:-:|
-|Apple|tvOS|18|
+|Apple|tvOS|17.5 (18.0 beta)|
 |TCL Roku TV|Roku OS|12|
 |Samsung|Tizen OS|x|
 |LG|webOS|x|
@@ -31,5 +31,5 @@ names and versions of different operating systems
 # Wearables
 |Device|OS|Latest (5-Mar-24)|
 |:-:|:-:|:-:|
-|Apple|visonOS|2.0|
+|Apple|visonOS|1.2 (2.0 beta)|
 
