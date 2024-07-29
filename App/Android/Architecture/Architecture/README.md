@@ -22,7 +22,7 @@ Type|MVP|MVVM|
 |:-:|:-:|:-:|
 View(BookActivity) | init (presenter, repo) ■ presenter.loadBook() • updateBookUI() | init (viewModel, repo) ■ viewModel.loadBook() • updateBookUI()
 Model(BookRepository) | getBooks() | getBooks()
-Presenter(BookPresenter) • ViewModel(BookViewModel)| constructor(view, repo) ■ repository.getBooks() view.updateBooksUI() | constructor(repo) ■ init observable ■ repository.getBooks()
+Presenter(BookPresenter) • ViewModel(BookViewModel)| constructor(view, repo) ■ repository.getBooks() • view.updateBooksUI() | constructor(repo) ■ init observable ■ repository.getBooks()
 Advantages|separates application logic from UI • unit testing| ➕ view not bound • life-cycle aware (screen orientation)
 
 ## MVVM
