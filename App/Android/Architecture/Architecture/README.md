@@ -25,6 +25,8 @@ Model(BookRepository) | getBooks() | getBooks()
 Presenter(BookPresenter) • ViewModel(BookViewModel)| constructor(view, repo) ■ repository.getBooks() view.updateBooksUI() | constructor(repo) ■ init observable ■ repository.getBooks()
 Advantages|separates application logic from UI • unit testing| ➕ view not bound • life-cycle aware (screen orientation)
 
+## MVVM
+
 ### [Cheezy Code Implementation](https://youtube.com/watch?v=8ZLbv6TSa-U?list=PLRKyZvuMYSIMO2ebTldbwMTnDCn5klzjS&t=71)
 
 ![mvvm base](!/mvvm.png)
