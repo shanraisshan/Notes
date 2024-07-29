@@ -21,7 +21,7 @@
 Type|MVP|MVVM|
 |:-:|:-:|:-:|
 Model (BookRepository) | getBooks() | getBooks()
-View (BookActivity) | init (presenter, repository) ■ presenter.loadBook() ■ updateBookUI() | init (viewModel, repository) ■ viewModel.loadBook() • viewModel.liveData.observe() ■ updateBookUI()
+View (BookActivity) | init (presenter, repository) ■ presenter.loadBook() ■ updateBooksUI() | init (viewModel, repository) ■ viewModel.loadBook() • viewModel.liveData.observe() ■ updateBooksUI()
 Presenter (BookPresenter) • ViewModel (BookViewModel)| constructor(view, repository) ■ repository.getBooks() • view.updateBooksUI() | constructor(repository) ■ init (liveData) ■ repository.getBooks()
 Advantages|separates application logic from UI • unit testing| ➕ view not bound • life-cycle aware (screen orientation)
 
@@ -68,6 +68,40 @@ class BookViewModel (private val bookRepository: BookRepository) : ViewModel() {
 ```
 interface BookRepository {
     suspend fun getBooks()
+}
+```
+
+## MVP
+
+### View (BookActivity)
+```
+class BookActivity : AppCompatActivity(), BookView {
+
+    BookPresenter presenter;
+
+    protected void onCreate(Bundle savedInstanceState) {
+        BookView view = this;
+        val repository = BookRepositoryImpl()
+        presenter = new BookPresenter(view, repository);
+        presenter.loadBooks();
+    }
+
+    override fun updateBooksUI() {}
+```
+### Presenter (BookPresenter)
+```
+class BookPresenter (view: BooksView, repository: BookRepository) {
+
+    fun loadBooks() {
+        repository.getBooks();
+        view.updateBooksUI();
+    }
+}
+```
+### Model (BookRepository)
+```
+interface BookRepository {
+    fun getBooks()
 }
 ```
 
