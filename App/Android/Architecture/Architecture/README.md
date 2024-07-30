@@ -1,6 +1,6 @@
 # Architecture
 
-## MVVM
+## MVVM (Model, View, ViewModel) & MVP (Model, View, Presenter)
 
 ### Tutorial Followed
 
@@ -104,6 +104,8 @@ interface BookRepository {
     fun getBooks()
 }
 ```
+
+## VIPER (View, Interactor, Presenter, Entity, Router)
 
 
 ### [Cheezy Code Implementation](https://youtube.com/watch?v=8ZLbv6TSa-U?list=PLRKyZvuMYSIMO2ebTldbwMTnDCn5klzjS&t=71)
