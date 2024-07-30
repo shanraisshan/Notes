@@ -30,11 +30,11 @@ Linus's Law
 
 ## SINGLE RESPONSIBILITY PRINCIPLE [->](https://youtu.be/x1fqWjG8RVE?t=162)
 every class should have only one responsibility
-```Animal.class should not contain Car functions()```
+```Circle.class should not contain print function()```
 
 ## OPEN CLOSED PRINCIPLE [->](https://youtu.be/x1fqWjG8RVE?t=298)
 software entities (classes, modules, functions) should be open for extension, but closed for modification - design by contract
-```AreaCalculator.class should not calculate area of Shapes (Circle.class, Square.class) instead each class should calculate inside thier class```
+```Circle.class & Rectangle.class should implement IShape.interface which will contain area() function```
 
 ## LISKOV SUBSTITUTION PRINCIPLE [->](https://youtu.be/x1fqWjG8RVE?t=471)
 child class must be substitutable for thier parent class
@@ -42,7 +42,7 @@ child class must be substitutable for thier parent class
 
 ## INTERFACE SEGREGATION PRINCIPLE [->](https://youtu.be/x1fqWjG8RVE?t=607)
 Classes should not be forced to implement a function they they do not need... no general purpose interface
-```fly() method in Bird.interface should be move to FlyingBird.interface```
+```fly() method in Bird.interface should be move to FlyingBird.interface • Break IShape into I2DShape I3DShape```
 
 ## DEPENDENCY INVERSION PRINCIPLE [->](https://youtu.be/x1fqWjG8RVE?t=799)
 Depend upon abstractions, [not] concretes... high level classes should not depend on low level classes, both should depend on abstraction
