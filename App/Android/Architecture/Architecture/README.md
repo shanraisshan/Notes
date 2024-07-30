@@ -1,6 +1,7 @@
 # Architecture
 
-## MVVM (Model, View, ViewModel) & MVP (Model, View, Presenter)
+## MVVM (Model, View, ViewModel)
+## MVP (Model, View, Presenter)
 
 ### Tutorial Followed
 
@@ -103,12 +104,11 @@ class BookPresenter (view: BooksView, repository: BookRepository) {
 interface BookRepository {
     fun getBooks()
 }
-```
-
-## VIPER (View, Interactor, Presenter, Entity, Router)
-
 
 ### [Cheezy Code Implementation](https://youtube.com/watch?v=8ZLbv6TSa-U?list=PLRKyZvuMYSIMO2ebTldbwMTnDCn5klzjS&t=71)
 
 ![mvvm base](!/mvvm.png)
 
+```
+
+## VIPER (View, Interactor, Presenter, Entity, Router)
