@@ -28,27 +28,27 @@ Linus's Law
 
 # SOLID PRINCIPLES
 
-## SINGLE RESPONSIBILITY PRINCIPLE
+## SINGLE RESPONSIBILITY PRINCIPLE [->](https://youtu.be/x1fqWjG8RVE?t=162)
 every class should have only one responsibility
 ```Animal.class should not contain Car functions()```
 
-## OPEN CLOSED PRINCIPLE
+## OPEN CLOSED PRINCIPLE [->](https://youtu.be/x1fqWjG8RVE?t=298)
 software entities (classes, modules, functions) should be open for extension, but closed for modification - design by contract
 ```AreaCalculator.class should not calculate area of Shapes (Circle.class, Square.class) instead each class should calculate inside thier class```
 
-## LISKOV SUBSTITUTION PRINCIPLE
-objects of a superclass shall be replaceable with objects of its subclasses without breaking the application
+## LISKOV SUBSTITUTION PRINCIPLE [->](https://youtu.be/x1fqWjG8RVE?t=471)
+child class must be substitutable for thier parent class
 ```mother&child • bird!=dog, bird=eagle```
 
-## INTERFACE SEGREGATION PRINCIPLE
-Clients should not be forced to depend upon interfaces that they do not use... no generalpurpose interface
+## INTERFACE SEGREGATION PRINCIPLE [->](https://youtu.be/x1fqWjG8RVE?t=607)
+Classes should not be forced to implement a function they they do not need... no general purpose interface
 ```fly() method in Bird.interface should be move to FlyingBird.interface```
 
-## DEPENDENCY INVERSION PRINCIPLE 
-Depend upon abstractions, [not] concretes
+## DEPENDENCY INVERSION PRINCIPLE [->](https://youtu.be/x1fqWjG8RVE?t=799)
+Depend upon abstractions, [not] concretes... high level classes should not depend on low level classes, both should depend on abstraction
 ```Engine.Class should not be initialized inside Car.Class but instead it should be constructor injected```
 
-### [Dependency Injection](/App/Android/Architecture/Pattern/Dependency)
+### Dependency Injection [->](/App/Android/Architecture/Pattern/Dependency)
 DIP sets the guideline for creating loosely coupled systems using abstractions, while DI provides the means to implement this principle by injecting dependencies
 
 
