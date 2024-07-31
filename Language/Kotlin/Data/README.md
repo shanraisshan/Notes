@@ -174,7 +174,7 @@ linkedMapOf(1,2,3)
 
 # HASHMAP | JSONOBJECT
 
-HashMap|JsonObject
+[HashMap|JsonObject](https://pl.kotl.in/D25_3MBRg)
 :-:|:-:
 -|JSONObject is backed by a HashMap
 {one=1, two=2}|{"one":1,"two":2}
