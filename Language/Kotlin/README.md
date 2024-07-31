@@ -6,4 +6,4 @@
 
 ---
 
-### [Kotlin Playground Basics](https://pl.kotl.in/0wlxPUty)
+### [Kotlin Playground Basics](https://pl.kotl.in/0wlxPUty_)
