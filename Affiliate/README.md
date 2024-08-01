@@ -24,13 +24,13 @@ some famous affilaite partners
 
 # Tech
 1. Android Native App (Kotlin/Java Library class)
-2. iOS Native App (Swift/Objective C Library Class)
+2. iOS Native App (Swift/Objective-C Library Class)
 3. React Native App (JavaScript Library Class)
 4. Flutter App (Dart Library Class)
 5. Ionic App (JavaScript Library Class)
-6. Shopify (App on shopify store)
-7. Woocommerce (Plugin on store)
-8. Magento (Plugin on store)
+6. Shopify https://apps.shopify.com/savyour-affiliate-partner
+7. Magento https://commercemarketplace.adobe.com/savyour-affiliate.html
+8. Woocommerce Wordpress https://wordpress.org/plugins/savyour-affiliate-partner/
 9. Php (Custom Document)
 10. Python (Custom Document)
 11. React (Custom Document)
