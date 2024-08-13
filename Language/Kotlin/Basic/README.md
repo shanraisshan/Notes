@@ -96,6 +96,20 @@ val aInt: Int? = a as? Int
 
 ![scope functions](!/kotlin-scope-functions.png)
 
+```kotlin
+val abc : String? = null
+abc?.let{
+    println("this is not null block -> "+ abc)
+}?: println("this is null block -> "+ abc)
+
+val abc : String? = null
+abc?.let{
+    println("this is not null block -> "+ abc)
+}?: kotlin.run {
+    println("this is null block -> "+ abc)
+    println("statement 2 -> "+ abc)
+}
+```
 
 # [STRING](https://pl.kotl.in/r9QQ840Oc)
 ```kotlin
