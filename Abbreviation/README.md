@@ -268,6 +268,7 @@ When you're abstract, be abstract all the way|[-> details](https://en.wikipedia.
 Less is more|
 Simplify to amplify|
 3-Click Rule|[Steve Jobs](https://www.linkedin.com/posts/tom-alder_steve-jobs-had-a-simple-rule-for-designing-activity-7126175843613052928-5NVj/?trk=public_profile_like_view)
+The Billion Dollar Mistake|Null References
 
 
 # SIMILARITY
@@ -278,6 +279,7 @@ object, instance
 parameter, argument
 dummy, fake, stub, mock
 function, method, procedure, routine
+annotations, decorators, modifiers, macros
 property, attribute, field, variable, member
 design principles, design patterns, architecture, paradigm
 delegate, callback, interface, abstract, annonymous, lambdas
