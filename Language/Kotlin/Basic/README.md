@@ -92,6 +92,11 @@ Regular casts may result in a ClassCastException if the object is not of the tar
 val aInt: Int? = a as? Int
 ```
 
+# [SCOPE FUNCTIONS](https://kotlinlang.org/docs/scope-functions.html#function-selection)
+
+![scope functions](!/kotlin-scope-functions.png)
+
+
 # [STRING](https://pl.kotl.in/r9QQ840Oc)
 ```kotlin
 var name1: String = "abcdef"
