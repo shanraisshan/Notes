@@ -75,6 +75,23 @@ fun main(args: Array<String>) {
 }
 ```
 
+# [NULL SAFETY](https://kotlinlang.org/docs/null-safety.html)
+
+a: String?|a.length|a?.length|a!!.length|
+:-:|:-:|:-:|:-:
+"cat"|Compile time error|3|3|
+null|Compile time error|null|NullPointerException
+
+### [The !! operator](https://kotlinlang.org/docs/null-safety.html#the-operator)
+the not-null assertion operator (!!) converts any value to a non-nullable type and throws an exception if the value is null. You can write b!!, and this will return a non-null value of b (for example, a String in our example) or throw an NPE if b is null:
+
+### [Safe casts](https://kotlinlang.org/docs/null-safety.html#safe-casts)
+Regular casts may result in a ClassCastException if the object is not of the target type. Another option is to use safe casts that return null if the attempt was not successful:
+
+```kotlin
+val aInt: Int? = a as? Int
+```
+
 # [STRING](https://pl.kotl.in/r9QQ840Oc)
 ```kotlin
 var name1: String = "abcdef"
