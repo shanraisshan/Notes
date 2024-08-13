@@ -233,14 +233,17 @@ Foo.a();
 # SEALED vs FINAL CLASS
 
 ### Kotlin
-```java
 By default, Kotlin classes are final: they can't be inherited. To make a class inheritable, it has to be marked with the open keyword.
+
+```java
+sealed class Error(val message: String) {
+    class NetworkError : Error("Network failure")
+    class DatabaseError : Error("Database cannot be reached")
+    class UnknownError : Error("An unknown error has occurred")
+}
 ```
 
 ### Difference in java
-```java
 - A sealed class is a class that can only be extended by a specific set of classes or interfaces, providing a more controlled form of inheritance.
-
 - A final class is a class that cannot be extended at all, ensuring its implementation remains unchanged by subclasses.
-```
 
