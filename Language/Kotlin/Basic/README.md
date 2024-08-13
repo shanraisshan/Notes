@@ -166,3 +166,81 @@ do {
 println("Factorial of 6 is $factorial")
 ```
 
+# Object Orient Programming
+
+# INHERITANCE
+```kotlin
+open class A {
+    fun add(x: Int): Int {
+        return x
+    }
+}
+
+open class B:A() {
+    //method overloading in inherited class
+    fun add(x: Int, y: Int): Int {
+        return x+y
+    }
+}
+```
+
+# ABSTRACT CLASS
+```kotlin
+abstract class C:B() {
+	abstract fun add(x: Int, y: Int, z: Int): Int 
+}
+
+class D:C() {
+    override fun add(x: Int, y: Int, z: Int): Int { //'add' hides member of supertype 'C' and needs an 'override' modifier.
+        return x+y+z
+    }
+}
+```
+
+# STATIC CLASS 
+
+### Static inner class (nested class)
+```java
+class A {
+    static class B {
+    ...
+    }
+}
+
+class A {
+    class B {
+    ...
+    }
+}
+```
+
+### Static methods in java (Companion Object equivalent in Kotlin)
+```java
+class Foo {
+  public static int a() { return 1; }
+}
+
+//equivalent in kotlin
+class Foo {
+  companion object {
+     fun a() : Int = 1
+  }
+}
+
+Foo.a();
+```
+
+# SEALED vs FINAL CLASS
+
+### Kotlin
+```java
+By default, Kotlin classes are final: they can't be inherited. To make a class inheritable, it has to be marked with the open keyword.
+```
+
+### Difference in java
+```java
+- A sealed class is a class that can only be extended by a specific set of classes or interfaces, providing a more controlled form of inheritance.
+
+- A final class is a class that cannot be extended at all, ensuring its implementation remains unchanged by subclasses.
+```
+
