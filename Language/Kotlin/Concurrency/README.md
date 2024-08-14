@@ -24,9 +24,11 @@ view.lifecycleScope.launch {
 ```
 
 ## Scopes
+[types of scopes in kotlin](https://medium.com/@sujathamudadla1213/how-many-types-of-scopes-are-there-in-kotlin-android-e44e004450d0)
 Scope|Defination
-:-:|:-:
+-|-
 GlobalScope|lifetime of application
-CoroutineScope|Activity, Fragment
-ViewModelScopre|specific type of CoroutineScope tied to the lifecycle of a ViewModel | performing background tasks, data retrieval, or asynchronous operations within a ViewModel
+CoroutineScope|UI components
+ViewModelScopre|specific type of CoroutineScope tied to the lifecycle of a ViewModel (performing background tasks, data retrieval, or asynchronous operations within a ViewModel)
+LifecycleScope|Activity or Fragment
 
