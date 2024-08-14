@@ -121,7 +121,7 @@ fun Shape.getName() = "name=Shape"
 fun Rectangle.getName() = "name=Rectangle"
 
 fun printClassName(s: Shape) { println(s.getName()) }
-printClassName(Rectangle()) //name=Shape (because polymorphism)
+printClassName(Rectangle()) //name=Shape (name=Rectangle should be printed if proper polymorphism, but override is not used under the implementation, which hides the child method)
 ```
 
 
