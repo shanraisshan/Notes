@@ -23,3 +23,10 @@ view.lifecycleScope.launch {
 }
 ```
 
+## Scopes
+Scope|Defination
+:-:|:-:
+GlobalScope|lifetime of application
+CoroutineScope|Activity, Fragment
+ViewModelScopre|specific type of CoroutineScope tied to the lifecycle of a ViewModel | performing background tasks, data retrieval, or asynchronous operations within a ViewModel
+
