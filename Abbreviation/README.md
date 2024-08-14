@@ -219,7 +219,7 @@ Boilerplate|sections of code that have to be included in many places with little
 Callback Hell|nested callbacks stacked below one another forming a pyramid structure
 Code review|
 Code smell|
-Coroutines|Co+Routine - Co means Coopearion, Routine means Function. [when functions cooperate with each other](https://www.youtube.com/watch?v=EUlpxloAcWw&list=PLBF0Hb1Nl6I-GZS5U1FrCYHvWK-5qmDgc&t=969)
+[Coroutines](https://github.com/shanraisshan/Notes/edit/main/Language/Kotlin/Concurrency/README.md#coroutines)|Co+Routine - Co means Coopearion, Routine means Function. when functions cooperate with each other
 Day of the Programmer|256th (hexadecimal 100th, or the 2^8) day of each year (Sep-13 normal / Sep-12 in leap years) ■ in China, October 24 (1024) = 2^10 (Ki binary prefix)
 Debounce|(1 sec - start at 1,2 - delay) executes the function after the interval if function isn't being called within that interval [-> details](https://stackoverflow.com/a/52192108/4754141)
 Decomposition|
