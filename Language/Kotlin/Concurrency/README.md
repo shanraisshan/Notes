@@ -56,3 +56,12 @@ CoroutineScope|UI components
 ViewModelScopre|specific type of CoroutineScope tied to the lifecycle of a ViewModel (performing background tasks, data retrieval, or asynchronous operations within a ViewModel)
 LifecycleScope|Activity or Fragment
 
+## Dispatchers
+[Dispatchers help coroutines in deciding the thread on which the work has to be done](https://outcomeschool.com/blog/kotlin-coroutines#:~:text=Dispatchers%20help%20coroutines)
+Dispatcher|Defination
+-|-
+Dispatchers.Default|This dispatcher is optimized for CPU-intensive work (sorting, searching list in memory)
+Dispatchers.Main|This dispatcher is designed for UI-related tasks in Android applications. 
+Dispatchers.IO|such as network or database operations.
+Dispatchers.Unconfined|This dispatcher runs the coroutine in the caller thread until the first suspension point. After suspension, it resumes execution in the appropriate thread, which might be different from the original caller thread.
+
