@@ -112,6 +112,8 @@ abc?.let{
 ```
 
 # [EXTENSION FUNCTIONS](https://kotlinlang.org/docs/extensions.html#extensions-are-resolved-statically)
+Kotlin provides the ability to extend a class or an interface with new functionality without having to inherit from the class or use design patterns such as Decorator. This is done via special declarations called extensions.
+
 ```kotlin
 open class Shape
 class Rectangle: Shape()
