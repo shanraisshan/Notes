@@ -4,6 +4,30 @@ thread, work-manager, process, async
 # [Coroutines](https://developer.android.com/kotlin/coroutines)
 Co+Routine - Co means Coopearion, Routine means Function. [when functions cooperate with each other](https://www.youtube.com/watch?v=EUlpxloAcWw&list=PLBF0Hb1Nl6I-GZS5U1FrCYHvWK-5qmDgc&t=969)
 
+## [Coroutine beautifully explained](https://outcomeschool.com/blog/kotlin-coroutines)
+```kotlin
+fun functionA(case: Int) {
+    when (case) {
+        1 -> {
+            taskA1()
+            functionB(1)
+        }
+        2 -> {
+            taskA2()
+            functionB(2)
+        }
+        3 -> {
+            taskA3()
+            functionB(3)
+        }
+        4 -> {
+            taskA4()
+            functionB(4)
+        }
+    }
+}
+```
+
 ### Example: viewModelScope - [MVP vs MVVM](https://github.com/shanraisshan/Notes/tree/main/App/Android/Architecture/Architecture#mvvm)
 
 ### Example: Savyour
