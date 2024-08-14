@@ -124,6 +124,13 @@ fun printClassName(s: Shape) { println(s.getName()) }
 printClassName(Rectangle()) //name=Shape (name=Rectangle should be printed if proper polymorphism, but override is not used under the implementation, which hides the child method)
 ```
 
+# [INLINE FUNCTIONS](https://kotlinlang.org/docs/inline-functions.html)
+inline is a modifier
+
+# [HIGHER ORDER FUNCTIONS AND LAMBDAS](https://kotlinlang.org/docs/lambdas.html)
+A higher-order function is a function that takes functions as parameters, or returns a function.
+
+- Kotlin functions are [first-class](https://en.wikipedia.org/wiki/First-class_function) which means they can be stored in variables and data structures, and can be passed as arguments to and returned from other higher-order functions. You can perform any operations on functions that are possible for other non-function values.
 
 # [STRING](https://pl.kotl.in/r9QQ840Oc)
 ```kotlin
