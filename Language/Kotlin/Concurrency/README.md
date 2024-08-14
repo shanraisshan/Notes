@@ -1,6 +1,7 @@
 # Concurrency
+thread, work-manager, process, async
 
-# [COROUTINES](https://developer.android.com/kotlin/coroutines)
+# [Coroutines](https://developer.android.com/kotlin/coroutines)
 
 [Use of viewModelScope in MVP vs MVVM](https://github.com/shanraisshan/Notes/tree/main/App/Android/Architecture/Architecture#mvvm)
 
