@@ -111,6 +111,18 @@ abc?.let{
 }
 ```
 
+# [EXTENSION FUNCTIONS](https://kotlinlang.org/docs/extensions.html#extensions-are-resolved-statically)
+```kotlin
+open class Shape
+class Rectangle: Shape()
+fun Shape.getName() = "name=Shape"
+fun Rectangle.getName() = "name=Rectangle"
+
+fun printClassName(s: Shape) { println(s.getName()) }
+printClassName(Rectangle()) //name=Shape (because polymorphism)
+```
+
+
 # [STRING](https://pl.kotl.in/r9QQ840Oc)
 ```kotlin
 var name1: String = "abcdef"
@@ -216,6 +228,28 @@ open class B:A() {
     //method overloading in inherited class
     fun add(x: Int, y: Int): Int {
         return x+y
+    }
+}
+```
+
+# [POLYMORPHISM](https://pl.kotl.in/LfNi6jSQd)
+```kotlin
+var a = A()
+a.speak() //A speak
+var b = B()
+b.speak() //B speak
+a=b
+a.speak() //B speak (polymorphism)
+
+open class A {
+    open fun speak() {
+        println("A speak")
+    }
+}
+
+open class B:A() {
+    override fun speak() {
+        println("B speak")
     }
 }
 ```
