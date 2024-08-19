@@ -27,6 +27,17 @@ https://github.com/daolq3012/Kotlin-Algorithms
 5. Palindrome
 6. Pyramid
 
+### [Operators](https://pl.kotl.in/2-7E5Um6f)
+```kotlin
+var x=4
+println("x++:" + x++)//4
+var y=4
+println("++y:" + ++y)//5
+var z =4
+z=z++
+println("z:" + z)//4
+```
+
 ### [Alphabets](https://pl.kotl.in/zcI7ztf2b)
 ```kotlin
 for(i in 65 until 91) {
