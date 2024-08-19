@@ -247,7 +247,7 @@ var a = A()
 a.speak() //A speak
 var b = B()
 b.speak() //B speak
-a=b
+a=b //A is basically B now, he can access all public methods of parent A + itself B
 a.speak() //B speak (polymorphism)
 
 open class A {
