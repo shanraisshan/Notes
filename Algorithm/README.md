@@ -17,6 +17,7 @@ https://www.hackerrank.com/challenges/time-conversion/problem
 
 # SORT
 https://github.com/daolq3012/Kotlin-Algorithms
+
 # LOGIC
 
 1. Square Root
@@ -34,6 +35,16 @@ for(i in 65 until 91) {
 for(i in 97 until 123) {
     println(i.toChar()) //a b c ... z
 }
+```
+
+### [Swap 2 Strings](https://pl.kotl.in/WL1B6eBZi)
+```kotlin
+var a = "abc"
+var b = "xyz"
+a = a+b
+b = a.substring(0, a.length-b.length)
+a = a.substring(b.length)
+println(a + "-" + b)
 ```
 
 ### [Reverse Int](https://pl.kotl.in/VI3t5j2e9)
