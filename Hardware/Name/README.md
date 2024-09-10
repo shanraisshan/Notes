@@ -39,7 +39,7 @@ iPhone	|[	iPhone 15	](	https://www.apple.com/iphone-15/specs/	)|	22-Sep-23	|	2,2
 |Samsung| Galaxy Watch 5 44mm|x|x/x/23|
 |Amazfit| GTR 4|x|x/x/23|
 |Google| Pixel Watch|x|x/x/23|
-|Apple| Series 8|x|x/x/23|
+|Apple| Series 10|watchOS 11|9/Sep/24|
 
 ## Companies
 | Companies| Subsidiaries|Details|
