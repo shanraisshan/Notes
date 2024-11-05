@@ -1,6 +1,6 @@
 # Abbreviation (Terminology, Quote, Latest)
 
-1. [Abbreviation](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#abbreviation) [16]
+1. [Abbreviation](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#abbreviation) [17]
 2. [Terminology](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#terminology) [3]
 3. [Quotes](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#quotes)
 4. [Similarity](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#similarity)
@@ -9,7 +9,13 @@
 
 # ABBREVIATION
 
-## 1. App
+## 1. AI
+Abbreviation|Full Form|Desc
+:-:|:-:|:-:
+GPT|Generative Pretrained Transformer|
+LLM|Large Language Models|
+
+## 2. App
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 AAPT|Android Asset Packaging Tool|
@@ -28,7 +34,7 @@ JVM|Java Virtual Machine|
 KAPT|Kotlin Annotation Processing Tool|
 MAD Skills|Modern Android Development Skills|
 
-## 2. Architecture/Design
+## 3. Architecture/Design
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 BDD|Behavior Driven Development|
@@ -51,7 +57,7 @@ TDD|Test Driven Development|
 UML|Unified Modeling Language|
 YAGNI|You Aren’t Gonna Need It|
 
-## 3. Business
+## 4. Business
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 AAARRR|Awareness, Acquisition, Activation, Revenue, Retention, Referral|
@@ -68,14 +74,14 @@ OKR|Objectives and Key Results|
 PAN|Presence Across Nation|
 ROI|Return on Investment|
 
-## 4. Command
+## 5. Command
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 npm|Node Package Manager|
 npx|Node Package eXecute|
 yarn|Yet Another Resource Negotiator|
 
-## 5. Database
+## 6. Database
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 ACID|Atomicity Consistency Isolation Durability|
@@ -92,17 +98,17 @@ SIUD|Select Insert Update Delete|
 SQL|Structured Query Language|
 TCL|Transaction Control Language|
 
-## 6. Design
+## 7. Design
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 CGI|Computer-generated Imagery|
 
-## 7. Entrepreneurship
+## 8. Entrepreneurship
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 CCC|Creator, Critic, and Crusader|[shark-tank-america](https://youtu.be/HpUR7-Oe1ss?t=224)
 
-## 8. General
+## 9. General
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 PR|Pull Request|
@@ -110,13 +116,13 @@ SDK|Software Development Kit|
 RC|Release Candidate|
 XML|Extensible Markup Language|
 
-## 9. Hardware
+## 10. Hardware
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 ODM|original design manufacturer|
 OEM|original equipment manufacturer|
 
-## 10. Management
+## 11. Management
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 CRM|Customer Relationship Management|
@@ -136,13 +142,13 @@ SD|Sales and Distribution|
 SRM|Supplier Relationship Management|
 WMS|Warehouse management system|
 
-## 11. Marketing
+## 12. Marketing
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 PPPP|Product, Price, Place and Promotion|
 
 
-## 12. Network
+## 13. Network
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 API|Application Programming Interface|
@@ -157,7 +163,7 @@ TCP|Transmission Control Protocol|
 UDP|User Datagram Protocol|
 XMPP|Extensible Messaging and Presence Protocol|
 
-## 13. Project/Product
+## 14. Project/Product
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 BRD|Business Requirements Document|
@@ -175,12 +181,12 @@ QFD|Quality Function Deployment|
 QP|Quality Planning|
 SRS|Software Requirements Specification|
 
-## 14. Security
+## 15. Security
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 CIA|Confidentiality Integrity Availability|
 
-## 15. Tech Stack
+## 16. Tech Stack
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 LAMP|Linux, Apache, MySQL, PHP|
@@ -189,7 +195,7 @@ MERN|MongoDB, ExpressJS, ReactJS, Node.JS|
 MEVN|MongoDB, ExpressJS, Vue.JS, Node.JS|
 WAMP|Windows, Apache, MySQL, PHP|
 
-## 16. Others
+## 17. Others
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 CAPTCHA|Completely Automated Public Turing Test to Tell Computers and Humans Apart|
