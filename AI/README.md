@@ -12,3 +12,6 @@ clusterring, llm, ml, generative ai
 - GitHub Copilot
 - Google Gemini
 - OpenAI ChatGPT
+
+
+Agent = Control flow of program is driven by LLM.
