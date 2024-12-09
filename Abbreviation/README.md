@@ -1,11 +1,11 @@
 # Abbreviation (Terminology, Quote, Latest)
 
-1. [Abbreviation](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#abbreviation) [17]
-2. [Terminology](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#terminology) [3]
-3. [Quotes](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#quotes)
-4. [Similarity](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#similarity)
-5. [Operators](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#operators)
-6. [Latest](https://github.com/shanraisshan/Notes/tree/main/Abbreviation#latest)
+1. [Abbreviation](/Abbreviation#abbreviation) [17]
+2. [Terminology](/Abbreviation#terminology) [3]
+3. [Quotes](/Abbreviation#quotes)
+4. [Similarity](/Abbreviation#similarity)
+5. [Operators](/Abbreviation#operators)
+6. [Latest](/Abbreviation#latest)
 
 # ABBREVIATION
 
