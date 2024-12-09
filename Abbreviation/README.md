@@ -14,7 +14,7 @@ Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 GPT|Generative Pretrained Transformer|
 LLM|Large Language Models|
-RAM|Retrieval-augmented generation|
+RAG|Retrieval-augmented generation|
 
 ## 2. App
 Abbreviation|Full Form|Desc
