@@ -15,3 +15,13 @@ clusterring, llm, ml, generative ai
 
 
 Agent = Control flow of program is driven by LLM.
+
+## Daily Use
+
+Link|CEO
+:-:|:-:
+https://chat.openai.com/|Sam Altman (OpenAI | America)
+https://deepseek.com/|Liang Wenfeng (China)
+https://claude.ai/|Dario Amodei (Anthropic | America by Italian)
+https://perplexity.ai/|Aravind Srinivas (America by Indian)
+
