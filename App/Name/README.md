@@ -6,6 +6,7 @@ names, versions related stuff
 
 |Codename|	Version	|API level/NDK release|Internal codename|Release
 |:-:|:-:|:-:|:-:|:-:
+|Android16 |	16|	API level 36|Baklava|19-Nov-24
 |Android15 |	15|	API level 35|Vanilla Ice Cream|16-Feb-24
 |Android14 |	14|	API level 34|Upside Down Cake|4-Oct-23
 |Android13 |	13|	API level 33|Tiramisu|15-Aug-22
