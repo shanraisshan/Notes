@@ -9,6 +9,9 @@ https://ps43.adj.st/.well-known/apple-app-site-association
 
 https://savyour.com.pk/.well-known/assetlinks.json
 
+### Examples
+ Daraz | [Android](https://daraz.pk/.well-known/assetlinks.json) | [iOS](https://daraz.pk//.well-known/apple-app-site-association)
+
 ### Apple issue (403)
 403 - forbidden when apple bot is trying to crawl ([24 hours, once per week](https://developer.apple.com/documentation/xcode/supporting-associated-domains))
 ![apple timeline](!/apple-timeline.png)
