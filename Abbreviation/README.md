@@ -316,7 +316,7 @@ AND| && |
 -|-|-|-|-
 :-:|:-:|:-:|:-:|:-:
 -|-|***[OS](/Operating/Name)***|-|-
-Android 16 (Baklava) [19/Nov/24]|Samsung - One UI	6.0|Xiomi	- HyperOS	1.0|Xiomi	- MIUI	14.0.2|Huawei HarmonyOS Next [22/Oct/24]
+Android 16 (35-Baklava) [19/Nov/24]|Samsung - One UI	6.0|Xiomi	- HyperOS	1.0|Xiomi	- MIUI	14.0.2|Huawei HarmonyOS Next [22/Oct/24]
 Huawei	- Harmony	4.0|Huawei - EMUI	13|Honor - MagicOS	8.0|BBK - Oppo - ColorOS	14|BBK - OnePlus - OxygenOS	14
 Transsion - Infinix - XOS	13|Transsion - Techno - HiOS	13|-|-|-|
 iOS 18.2 [16/Sep/24]|iPadOS 18.0|macOS Sequoia 15.0|watchOS 10 (11 beta)|tvOS 17.5 (18.0 beta)
@@ -326,8 +326,8 @@ Google Pixel 8 Pro|Google Pixel Fold|Samsung S24 Ultra|Samsung Z Flip 5|Samsung 
 Xiaomi 14|Xiaomi - Redmi Note 13 Pro Plus 5G|Xiaomi -	Poco X6 Pro|BBK -	Realme 12 Pro Plus 5G|BBK -	Oppo Reno 11 F|
 BBK -	Vivo Y200E|BBK - Oneplus Nord 30 SE 5G|Transsion - Tecno Spark 20 Pro|Transsion -	Infinix Hot 40 Pro|Transsion -	Infinix Smart 8 Plus|
 Transsion -	Itel P55 Plus|Honor Magic V2 RSR Porsche Design|Huawei Pocket 2|Motorola Moto G24 Power|Lenovo Legion Y700 (2023)|
-Nothing Phone 2|LG W41 Pro|Nokia C210|Microsoft Surface Duo 2||
-iPhone 15 Pro Max|iPhone 15 Pro|iPhone 15 Plus|iPhone 15|-|
+Nothing Phone 2|LG W41 Pro|Nokia C210|Microsoft Surface Duo 2|-|
+iPhone 16 [16/Sep/24]| iPhone 16 Plus| iPhone 16 Pro|iPhone 16 Pro Max|-|
 -|-|***[TECH]()***|-|-
 Kotlin 2.1 [27/Nov/24]|Swift 6 [16/Sep/24]|JDK 23 [17/Sep/24]|Android Studio Ladybug [Sep/24]|Xcode 16 [16/Sep/24]
 
