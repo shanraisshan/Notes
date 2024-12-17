@@ -316,10 +316,10 @@ AND| && |
 -|-|-|-|-
 :-:|:-:|:-:|:-:|:-:
 -|-|***[OS](/Operating/Name)***|-|-
-Android 15|Samsung - One UI	6.0|Xiomi	- HyperOS	1.0|Xiomi	- MIUI	14.0.2|Huawei	- Harmony	4.0
-Huawei - EMUI	13|Honor - MagicOS	8.0|BBK - Oppo - ColorOS	14|BBK - OnePlus - OxygenOS	14|Transsion - Infinix - XOS	13
-Transsion - Techno - HiOS	13|-|-|-|
-iOS 18.0|iPadOS 18.0|macOS Sequoia 15.0|watchOS 10 (11 beta)|tvOS 17.5 (18.0 beta)
+Android 16 (Baklava) [19/Nov/24]|Samsung - One UI	6.0|Xiomi	- HyperOS	1.0|Xiomi	- MIUI	14.0.2|Huawei HarmonyOS Next [22/Oct/24]
+Huawei	- Harmony	4.0|Huawei - EMUI	13|Honor - MagicOS	8.0|BBK - Oppo - ColorOS	14|BBK - OnePlus - OxygenOS	14
+Transsion - Infinix - XOS	13|Transsion - Techno - HiOS	13|-|-|-|
+iOS 18.2 [16/Sep/24]|iPadOS 18.0|macOS Sequoia 15.0|watchOS 10 (11 beta)|tvOS 17.5 (18.0 beta)
 visionOS 1.2 (2.0 beta)||||
 -|-|***[PHONES](/Hardware/Name)***|-|-
 Google Pixel 8 Pro|Google Pixel Fold|Samsung S24 Ultra|Samsung Z Flip 5|Samsung Z Fold 5
