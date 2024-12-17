@@ -329,7 +329,7 @@ Transsion -	Itel P55 Plus|Honor Magic V2 RSR Porsche Design|Huawei Pocket 2|Moto
 Nothing Phone 2|LG W41 Pro|Nokia C210|Microsoft Surface Duo 2||
 iPhone 15 Pro Max|iPhone 15 Pro|iPhone 15 Plus|iPhone 15|-|
 -|-|***[TECH]()***|-|-
-Kotlin 1.9.23|Swift 5.10 (6)|Java 22|Android Studio Iguana (Jellyfish)|Xcode 15.3
+Kotlin 2.1 [27/Nov/24]|Swift 6 [16/Sep/24]|JDK 23 [17/Sep/24]|Android Studio Ladybug [Sep/24]|Xcode 16 [16/Sep/24]
 
 
 
