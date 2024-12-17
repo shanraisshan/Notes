@@ -330,6 +330,7 @@ Nothing Phone 2|LG W41 Pro|Nokia C210|Microsoft Surface Duo 2|-|
 iPhone 16 [16/Sep/24]| iPhone 16 Plus| iPhone 16 Pro|iPhone 16 Pro Max|-|
 -|-|***[TECH]()***|-|-
 Kotlin 2.1 [27/Nov/24]|Swift 6 [16/Sep/24]|JDK 23 [17/Sep/24]|Android Studio Ladybug [Sep/24]|Xcode 16 [16/Sep/24]
+Jetpack Compose (min Android5 21)|Swift UI (min iOS 15)
 
 
 
