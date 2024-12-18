@@ -20,5 +20,5 @@ mysql
 uvicon
 fastapi```
 - UI: create a folder name dockerV1 in downloads
-- Terminal: ```docker-compose up --build```
+- Terminal: ```docker-compose up --build```, use ```docker-compose up --build -d``` to exit
 - test using ```http://localhost:8000/``` in browser
