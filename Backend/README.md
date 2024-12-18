@@ -21,3 +21,4 @@ uvicon
 fastapi```
 - UI: create a folder name dockerV1 in downloads
 - Terminal: ```docker-compose up --build```
+- test using ```http://localhost:8000/``` in browser
