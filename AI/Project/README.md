@@ -29,4 +29,11 @@ Video|[Ali Sufiyan Wasif](https://www.instagram.com/reel/C3Aizqyp0l5/)|pixverse.
 Claudi Artifacts|https://madewithclaude.com/
 
 
+# Others
+
+Purpose|Reference|Link
+:-:|:-:|:-:
+Claudi Artifacts|https://madewithclaude.com/
+
+
 
