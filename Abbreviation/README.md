@@ -265,6 +265,7 @@ Gen Alpha|2013 and later
 
 Quotes|Description
 :-:|:-:
+A foolish consistency is the hobgoblin of little minds|[Python PEP Style Guide](https://peps.python.org/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds)
 Any fool can write code that a computer can understand. Good programmers write code that humans can understand|Martin Fowler (Book: Refactoring)
 Arguments are passed while Parameters are received|[-> details](https://stackoverflow.com/a/46360559/4754141)
 Don't call us, we'll call you|Hollywood Principle
