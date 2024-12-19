@@ -97,5 +97,6 @@ println("Factorial of 5 is $_fact")
 
 ### 100 Days Python Code Challenge
 
-#### Day1
+#### [Day1](https://replit.com/@shanraisshan/Day1Python#main.py)
+
 ```println("hello world")```
