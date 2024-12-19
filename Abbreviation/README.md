@@ -52,6 +52,7 @@ KISS|Keep It Simple! Stupid|
 OOAD|Object Oriented Analysis and Design|
 OOD|Object Oriented Design
 OOP|Object Oriented Programming|
+REPL|read-evaluate-print loop|
 SLAP|Single Layer of Abstraction Principle|
 SOLID|Single-R-P / Open-C-P / Liskov-S-P / Interface-S-P / Dependency-I-P |
 SSOT|Single Source of Truth
