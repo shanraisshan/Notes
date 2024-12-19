@@ -94,3 +94,8 @@ println("Factorial of 5 is $_fact")
 ```kotlin
  8 % 3 evaluates to 2 because 8 divided by 3 has a remainder of 2
 ```
+
+### 100 Days Python Code Challenge
+
+#### Day1
+```println("hello world")```
