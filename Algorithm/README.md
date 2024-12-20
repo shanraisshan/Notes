@@ -100,3 +100,7 @@ println("Factorial of 5 is $_fact")
 #### [Day1](https://replit.com/@shanraisshan/Day1Python#main.py)
 
 ```println("hello world")```
+
+#### Day2
+
+```print(value := 10) #walrus operator```
