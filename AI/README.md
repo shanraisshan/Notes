@@ -21,12 +21,13 @@ https://perplexity.ai/|Aravind Srinivas (America by Indian)
 
 ## Names
 
-Link|CEO
+Name|Company
 :-:|:-:
 Microsoft|Copilot (GitHub)
 Google|Gemini
 OpenAI|ChatGPT
 Codeium|
+Claude|Anthropic
 
 ## Image Generation Competitors
 
