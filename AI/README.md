@@ -28,3 +28,17 @@ Google|Gemini
 OpenAI|ChatGPT
 Codeium|
 
+## Image Generation Competitors
+:-:|:-:
+Google Imagen3|Dec 2024
+
+## Video Generation Competitors [linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7275475143840190464/)
+:-:|:-:
+Google’s VEO 2|Dec 2024
+OpenAI’s Sora|
+RunwayML Gen3|
+Pika 2.0|
+Kling 1.5| 
+HailuoAI|
+Luma Dream Machine|
+
