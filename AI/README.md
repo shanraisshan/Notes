@@ -29,10 +29,14 @@ OpenAI|ChatGPT
 Codeium|
 
 ## Image Generation Competitors
+
+Company|Year
 :-:|:-:
 Google Imagen3|Dec 2024
 
 ## Video Generation Competitors [linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7275475143840190464/)
+
+Company|Year
 :-:|:-:
 Google’s VEO 2|Dec 2024
 OpenAI’s Sora|
