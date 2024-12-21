@@ -104,3 +104,9 @@ println("Factorial of 5 is $_fact")
 #### Day2
 
 ```print(value := 10) #walrus operator```
+
+#### Day3
+
+```pep3 install pandas #pip3 for mac termincal```
+
+```import pandas```
