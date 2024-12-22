@@ -95,7 +95,7 @@ println("Factorial of 5 is $_fact")
  8 % 3 evaluates to 2 because 8 divided by 3 has a remainder of 2
 ```
 
-### 100 Days Python Code Challenge
+### [100 Days Python Code Challenge](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 
 #### [Day1](https://replit.com/@shanraisshan/Day1Python#main.py)
 
