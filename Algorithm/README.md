@@ -99,7 +99,7 @@ println("Factorial of 5 is $_fact")
 
 #### [Day1](https://replit.com/@shanraisshan/Day1Python#main.py)
 
-```println("hello world")```
+```print("hello world")```
 
 #### Day2
 
@@ -110,3 +110,7 @@ println("Factorial of 5 is $_fact")
 ```pep3 install pandas #pip3 for mac termincal```
 
 ```import pandas```
+
+#### Day4
+
+```println(17*13)```
