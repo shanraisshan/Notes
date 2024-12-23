@@ -1,24 +1,24 @@
 # [100 Days Python Code Challenge](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 
-#### [Day1](https://replit.com/@shanraisshan/Day1Python#main.py)
+### [Day1](https://replit.com/@shanraisshan/Day1Python#main.py)
 
 ```print("hello world")```
 
-#### Day2
+### Day2
 
 ```print(value := 10) #walrus operator```
 
-#### Day3
+### Day3
 
 ```pep3 install pandas #pip3 for mac termincal```
 
 ```import pandas```
 
-#### Day4
+### Day4
 
 ```println(17*13)```
 
-#### Day5
+### Day5
 
 ```#This is a comment```
 
