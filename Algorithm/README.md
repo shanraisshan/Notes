@@ -1,5 +1,7 @@
 # Algorithm
 
+### ➼ [100 Days of Python Challenge](Python100)
+
 # STRING
 https://www.hackerrank.com/challenges/time-conversion/problem
 
@@ -94,38 +96,4 @@ println("Factorial of 5 is $_fact")
 ```kotlin
  8 % 3 evaluates to 2 because 8 divided by 3 has a remainder of 2
 ```
-
-### [100 Days Python Code Challenge](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
-
-#### [Day1](https://replit.com/@shanraisshan/Day1Python#main.py)
-
-```print("hello world")```
-
-#### Day2
-
-```print(value := 10) #walrus operator```
-
-#### Day3
-
-```pep3 install pandas #pip3 for mac termincal```
-
-```import pandas```
-
-#### Day4
-
-```println(17*13)```
-
-#### Day5
-
-```#This is a comment```
-
-```for multi line comment use triple ''' or """```
-
-```Alt + ↓ #to move line```
-
-```Escape Sequence Characters \n \"``` 
-```print("I am a good \"boy\" and\nthis is new line")```
-
-```print("Hey", 6, 7, sep="~", end="009\n")```
-
 
