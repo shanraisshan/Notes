@@ -2,7 +2,7 @@
 artificial intelligence
 
 ### ➼ [Abbreviation (+Terminology) 🔤](Abbreviation)
-### ➼ [Project](Project)
+### ➼ [Products (+Demo,Live)](Project)
 ### ➼ [Tech](Tech)
 
 ## Chatbots
