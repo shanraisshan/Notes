@@ -41,3 +41,7 @@ Use|Description|Example
 ->|separator2|[->](Language/Kotlin#list)
 ➼ Link (+App, Deep, Dynamic, Universal)|comma separated naming| [➼ Link (+App, Deep, Dynamic, Universal) 🔗](App/Android#-link-appdeepdynamicuniversal-)
 image size|600x282|[sample](App/Android/Architecture/Pattern/Dependency/!/dagger1.png)
+
+# TRENDING
+
+- [100 days of python code challenge](https://github.com/shanraisshan/Notes/tree/main/Algorithm#100-days-python-code-challenge)
