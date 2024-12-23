@@ -1,6 +1,6 @@
 # Notes
 i like writing and saving things that are useful, some of the content that is helpful in skill building, development, self learning are shared here.
-created at [26 Jan 2022](https://github.com/shanraisshan/Notes/commit/6de4ecb3eb1adf81f1c99d59be4d6479030b928d)
+created on [26 Jan 2022](https://github.com/shanraisshan/Notes/commit/6de4ecb3eb1adf81f1c99d59be4d6479030b928d)
 
 ### ➼ [Abbreviation (+Terminology, Quote, Latest) 🔤](/Abbreviation)
 ### ➼ [Academic (+Award, Book, Certification, Conference) 🎓](/Academic)
