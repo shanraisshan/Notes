@@ -114,3 +114,16 @@ println("Factorial of 5 is $_fact")
 #### Day4
 
 ```println(17*13)```
+
+#### Day5
+
+```#This is a comment```
+
+```for multi line comment use triple ''' or """```
+
+```Alt + ↓ #to move line```
+
+```Escape Sequence Characters \n \"``` 
+```print("I am a good \"boy\" and\nthis is new line")```
+
+
