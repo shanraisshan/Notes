@@ -44,4 +44,4 @@ image size|600x282|[sample](App/Android/Architecture/Pattern/Dependency/!/dagger
 
 # TRENDING
 
-- [100 days of python code challenge](https://github.com/shanraisshan/Notes/tree/main/Algorithm#100-days-python-code-challenge)
+- [100 days of python code challenge](Algorithm/Python100/README.md)
