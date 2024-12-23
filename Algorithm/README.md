@@ -126,4 +126,6 @@ println("Factorial of 5 is $_fact")
 ```Escape Sequence Characters \n \"``` 
 ```print("I am a good \"boy\" and\nthis is new line")```
 
+```print("Hey", 6, 7, sep="~", end="009\n")```
+
 
