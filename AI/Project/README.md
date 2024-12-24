@@ -27,6 +27,16 @@ Video|[Hammad](https://www.linkedin.com/feed/update/urn:li:activity:716304802276
 Image|[Ali Sufiyan Wasif](https://www.instagram.com/reel/C3Aizqyp0l5/)|krea.ai
 Video|[Ali Sufiyan Wasif](https://www.instagram.com/reel/C3Aizqyp0l5/)|pixverse.ai
 
+# Prd Generation
+Purpose|Link
+:-:|:-:
+ChatPrd|https://www.chatprd.ai/
+
+# Design Generation
+Purpose|Link
+:-:|:-:
+Creatie Ai|https://creatie.ai/
+
 # Website Generation
 
 Purpose|Link
