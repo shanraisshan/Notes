@@ -46,3 +46,4 @@ image size|600x282|[sample](App/Android/Architecture/Pattern/Dependency/!/dagger
 
 - [100 days of python code challenge](Algorithm/Python100/README.md)
 - [AI](/AI/Abbreviation)
+- [Kotlin Concurrency](Language/Kotlin/Concurrency)
