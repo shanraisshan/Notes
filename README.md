@@ -45,3 +45,4 @@ image size|600x282|[sample](App/Android/Architecture/Pattern/Dependency/!/dagger
 # TRENDING
 
 - [100 days of python code challenge](Algorithm/Python100/README.md)
+- [AI](/AI/Abbreviation)
