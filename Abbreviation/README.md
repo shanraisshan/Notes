@@ -9,13 +9,8 @@
 
 # ABBREVIATION
 
-## 1. AI
-Abbreviation|Full Form|Desc
-:-:|:-:|:-:
-GenAI|Generative AI|
-GPT|Generative Pretrained Transformer|
-LLM|Large Language Models|
-RAG|Retrieval-augmented generation|
+## 1. AI 
+[details ->](/AI/Abbreviation)
 
 ## 2. App
 Abbreviation|Full Form|Desc
