@@ -145,7 +145,6 @@ Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 PPPP|Product, Price, Place and Promotion|
 
-
 ## 13. Network
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
@@ -154,6 +153,7 @@ FTP|File Transfer Protocol|
 IP|Internet Protocol|
 HTTP|Hypertext Transfer Protocol|
 JSON|JavaScript Object Notation|
+JWT|Json Web Token|
 REST|Representational state transfer|
 SOAP|Simple Object Access Protocol|
 SMTP|Simple Mail Transfer Protocol|
