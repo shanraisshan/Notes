@@ -80,6 +80,7 @@ print(5//2) #2
 
 ```
 # Alt + Shift + ↓ #copy line
+# Alt + Click #multiple cursors
 ```
 
 
