@@ -58,7 +58,7 @@ iPhone	|[	iPhone 15	](	https://www.apple.com/iphone-15/specs/	)|	22-Sep-23	|	2,2
 |Flagship (Hardware)|abc|
 |FU|Factory Unlocked|
 |Jailbreak (iOS)(Software)|abc|
-|JV (iOS)(Software)|phone unlocked by a specific network provider using 3rd-party software without the authorization of phone manufacturer|
+|JV/Gevey (iOS)(Software)|phone unlocked by a specific network provider using 3rd-party software without the authorization of phone manufacturer|
 |Kit (Hardware)|abc|
 |Refurbished (Hardware)|abc|
 |Rooted (Android)(Software)|do things like overclock and underclock the cpu/gpu, use a custom kernel, remove bloatware, and more.|
