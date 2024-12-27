@@ -3,32 +3,32 @@ backup [Github Repo](https://github.com/CodeWithHarry/100-days-of-code-youtube/t
 
 ### [Day1](https://replit.com/@shanraisshan/Day1Python#main.py)
 
-```
+```python
 print("hello world")
 ```
 
 ### Day2
 
-```
+```python
 print(value := 10) #walrus operator
 ```
 
 ### Day3
 
-```
+```python
 # pep3 install pandas #pip3 for mac termincal```
 # import pandas
 ```
 
 ### Day4
 
-```
+```python
 println(17*13)
 ```
 
 ### Day5
 
-```
+```python
 # This is a comment
 
 # for multi line comment use triple ''' or """
@@ -43,7 +43,7 @@ print("Hey", 6, 7, sep="~", end="009\n")
 
 ### Day6
 
-```
+```python
 a=1
 b=True
 c="Harry"
@@ -67,7 +67,7 @@ print(dict1)
 
 ### Day7
 
-```
+```python
 print(5+2) #7
 print(5-2) #3
 print(5*3) #15
@@ -78,9 +78,26 @@ print(5//2) #2
 
 ### Day8
 
-```
+```python
 # Alt + Shift + ↓ #copy line
 # Alt + Click #multiple cursors
+```
+
+### Day9
+
+```python
+#explicit type conversion
+a = "1"
+b = "2"
+print(int(a) + int(b)) 
+
+#implicit type conversion
+c = 1 # int will be converted into float 1.0
+# python convert lower data type to higher data type to prevent data loss
+d = 2.1
+e = c + d
+print(e) 
+print(type(e)) #<class 'float'>
 ```
 
 
