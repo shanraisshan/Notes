@@ -83,7 +83,7 @@ print(5//2) #2
 # Alt + Click #multiple cursors
 ```
 
-### Day9
+### Day9 - type conversion
 
 ```python
 #explicit type conversion
@@ -98,6 +98,14 @@ d = 2.1
 e = c + d
 print(e) 
 print(type(e)) #<class 'float'>
+```
+
+### Day10 - input()
+
+```python
+a = input("Enter first number:")
+b = input("Enter second number:")
+print("The sum of two numbers is:", int(a) + int(b))
 ```
 
 
