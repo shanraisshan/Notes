@@ -109,5 +109,18 @@ print("The sum of two numbers is:", int(a) + int(b))
 ```
 
 
+### Day11 - Strings
+
+```python
+name = "Shan"
+print(name[0] + "= index:" + str(name.index('S'))) #S at index: 0
+items = "Mango"
+for i in items:
+    print(i)
+```
+
+
+
+
 
 
