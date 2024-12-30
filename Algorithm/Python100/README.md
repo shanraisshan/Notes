@@ -108,15 +108,25 @@ b = input("Enter second number:")
 print("The sum of two numbers is:", int(a) + int(b))
 ```
 
-
 ### Day11 - Strings
-
 ```python
 name = "Shan"
 print(name[0] + "= index:" + str(name.index('S'))) #S at index: 0
 items = "Mango"
 for i in items:
     print(i)
+```
+
+### Day12 - Strings Slicing
+```python
+fruit = "Mango"
+print(len(fruit)) #5
+print(fruit[0:4]) #Mang
+print(fruit[:4]) #Mang
+print(fruit[1:]) #ango
+print(fruit[:]) #Mango
+print(fruit[-1]) #same as fruit[4] #o => len(fruit)-1: 5-1=4
+print(fruit[-4:-2]) #fruit[1:3] #an
 ```
 
 
