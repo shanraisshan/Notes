@@ -42,7 +42,8 @@ Creatie Ai|https://creatie.ai/
 Purpose|Link
 :-:|:-:
 Bolt New|https://bolt.new
-Lovable Dev|https://lovable.dev 
+Lovable Dev|https://lovable.dev
+Cursor AI|https://www.cursor.com/
 
 
 # Others
