@@ -1,6 +1,13 @@
 # [100 Days Python Code Challenge](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 backup [Github Repo](https://github.com/CodeWithHarry/100-days-of-code-youtube/tree/main) of 100 episodes
 
+
+```python
+Go to your project folder using Finer -> Right Click -> New Terminal at folder
+source venv/bin/activate
+uvicorn main:app --reload
+```
+
 ### [Day1](https://replit.com/@shanraisshan/Day1Python#main.py)
 
 ```python
@@ -128,6 +135,17 @@ print(fruit[:]) #Mango
 print(fruit[-1]) #same as fruit[4] #o => len(fruit)-1: 5-1=4
 print(fruit[-4:-2]) #fruit[1:3] #an
 ```
+
+### Day13 - Strings Method
+```python
+a = '!Harrry!!!' #string are immutable
+print(a.upper()) #HARRY!!!
+print(a) #!Harrry!!!
+print(a.rstrip('!')) #!Harrry
+b = 'a b c'
+print(b.split( )) #['a', 'b', 'c']
+```
+
 
 
 
