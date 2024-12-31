@@ -146,6 +146,8 @@ b = 'a b c'
 print(b.split( )) #['a', 'b', 'c']
 ```
 
+📷 19:58 record with OBS + continuity camera
+
 
 
 
