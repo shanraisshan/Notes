@@ -2,10 +2,24 @@
 backup [Github Repo](https://github.com/CodeWithHarry/100-days-of-code-youtube/tree/main) of 100 episodes
 
 
+#### Run a project
 ```python
 Go to your project folder using Finer -> Right Click -> New Terminal at folder
 source venv/bin/activate
 uvicorn main:app --reload
+```
+
+#### Basics (function, condition, loop)
+```python
+# https://peps.python.org/pep-0008/
+def my_function_name(items: str): #don't need return type
+    for i in items:
+        if i!='a': #if(i!='n'): wrong syntax
+            print(i)
+    return 5        
+
+items = "Shayan"
+x = my_function_name(items)
 ```
 
 ### [Day1](https://replit.com/@shanraisshan/Day1Python#main.py)
