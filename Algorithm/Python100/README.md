@@ -19,7 +19,7 @@ def my_function_name(items: str): #don't need return type
     return 5        
 
 items = "Shayan"
-x = my_function_name(items)
+x = my_function_name(items) #define function before calling it
 ```
 
 ### [Day1](https://replit.com/@shanraisshan/Day1Python#main.py)
