@@ -148,6 +148,15 @@ print(b.split( )) #['a', 'b', 'c']
 
 📷 19:58 record with OBS + continuity camera
 
+### Day14 - If Else Conditional Statement
+```python
+age = int(input('Enter your age: '))
+if age>18: #if(age>18): wrong syntax
+    print("You can drive")
+else:    
+    print("You can't drive")
+```
+
 
 
 
