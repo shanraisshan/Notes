@@ -10,5 +10,7 @@ artificial intelligence
 
 [Complete Road Map To Prepare For Deep Learning](https://www.youtube.com/watch?v=9jA0KjS7V_c&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=2) - Krish Naik
 
+[Complete Roadmap To Follow To Prepare Machine Learning With All Videos And Materials](https://www.youtube.com/watch?v=VOpETRQGXy0&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=2) - Krish Naik
+
 
 
