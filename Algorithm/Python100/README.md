@@ -7,6 +7,8 @@ backup [Github Repo](https://github.com/CodeWithHarry/100-days-of-code-youtube/t
 Go to your project folder using Finer -> Right Click -> New Terminal at folder
 source venv/bin/activate
 uvicorn main:app --reload
+
+pip install -r requirements.txt
 ```
 
 #### Basics (function, condition, loop)
