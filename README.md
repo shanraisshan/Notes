@@ -47,3 +47,4 @@ image size|600x282|[sample](App/Android/Architecture/Pattern/Dependency/!/dagger
 - [100 days of python code challenge](Algorithm/Python100/README.md)
 - [AI](/AI/Abbreviation)
 - [Kotlin Concurrency](Language/Kotlin/Concurrency)
+- [Interview Questions 1 Pager](https://github.com/shanraisshan/Personal/tree/main/Job/Interview/Gaditek/Question)
