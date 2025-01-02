@@ -173,6 +173,16 @@ else:
     print("You can't drive")
 ```
 
+### Day15 - If Else Time
+```python
+import time
+from time import gmtime, strftime
+current_time = time.time()
+print(strftime("%a, %d %b %Y %H:%M:%S", gmtime(current_time)))
+if int(time.strftime("%H"))>12:
+    print("Good Afternoon")
+```
+
 
 
 
