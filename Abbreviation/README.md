@@ -5,7 +5,8 @@
 3. [Quotes](/Abbreviation#quotes)
 4. [Similarity](/Abbreviation#similarity)
 5. [Operators](/Abbreviation#operators)
-6. [Latest](/Abbreviation#latest)
+6. [Concepts](/Abbreviation#concepts)
+7. [Latest](/Abbreviation#latest)
 
 # ABBREVIATION
 
@@ -288,6 +289,14 @@ annotations, decorators, modifiers, macros
 property, attribute, field, variable, member
 design principles, design patterns, architecture, paradigm
 delegate, callback, interface, abstract, annonymous, lambdas
+
+
+# CONCEPTS
+
+1 Liner
+:-:
+database(fridge)→backend(chefs)→apis(waiters)→table(frontend)
+workers(chefs)→que(order-receipts)
 
 
 # OPERATORS
