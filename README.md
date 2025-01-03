@@ -48,3 +48,8 @@ image size|600x282|[sample](App/Android/Architecture/Pattern/Dependency/!/dagger
 - [AI](/AI/Abbreviation)
 - [Kotlin Concurrency](Language/Kotlin/Concurrency)
 - [Interview Questions 1 Pager](https://github.com/shanraisshan/Personal/tree/main/Job/Interview/Gaditek/Question)
+
+# DAILY
+
+- [Singularity - Reddit](https://www.reddit.com/r/singularity/)
+- [Krish Naik - YouTube](https://www.youtube.com/@krishnaik06)
