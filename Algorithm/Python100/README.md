@@ -183,6 +183,23 @@ if int(time.strftime("%H"))>12:
     print("Good Afternoon")
 ```
 
+### Day16 - Match Case Statment (added in Python3.11)
+```python
+# there is no break statement in case block like C, C++, Java
+x = 52
+match x:
+    case 0:
+        print("x1 is 0")
+    case 100:
+        print("x2 is 100")
+    case _ if x<50: #you can add if in default case
+        print("x3 is less than 50")
+    case _ if x>50:
+        print("x4 is greater than 50")
+    case _:
+        print("x5 is 50")
+```
+
 
 
 
