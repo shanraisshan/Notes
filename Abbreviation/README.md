@@ -78,6 +78,7 @@ Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 npm|Node Package Manager|
 npx|Node Package eXecute|
+pip|pip Installs Packages|
 yarn|Yet Another Resource Negotiator|
 
 ## 6. Database
