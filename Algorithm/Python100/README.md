@@ -200,6 +200,25 @@ match x:
         print("x5 is 50")
 ```
 
+### Day17 - For Loops
+```python
+name = "Abc"
+for i in name:
+    print(i)
+for i in range(3):
+    print('.',i)
+```
+
+### Day18 - While Loops
+```python
+n = 0
+while n < 3:
+    print('..',n)
+    n += 1
+else:
+    print('else block')
+```
+
 
 
 
