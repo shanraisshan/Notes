@@ -219,6 +219,17 @@ else:
     print('else block')
 ```
 
+### Day19 - While Loops
+```python
+for i in range(10):
+    if i==2:
+        continue
+    elif i==5:
+        break
+    else:
+        print(i)
+```
+
 
 
 
