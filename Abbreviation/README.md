@@ -282,12 +282,15 @@ The Billion Dollar Mistake|Null References
 
 Words
 :-:
-object, instance
-parameter, argument
+rules, axiom
+entity, relation, table
+object, instance, row, tuple
+variable, property, member, field, attribute, column
+↑ parameter, argument
 dummy, fake, stub, mock
 function, method, procedure, routine
 annotations, decorators, modifiers, macros
-property, attribute, field, variable, member
+
 design principles, design patterns, architecture, paradigm
 delegate, callback, interface, abstract, annonymous, lambdas
 
