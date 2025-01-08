@@ -236,6 +236,35 @@ def my_function_name(items: str):
     pass
 ```
 
+### Day21 - Function Arguments
+```python
+def sum(a,b): #positional argument
+    return a+b
+print(sum(1,5)) #6
+
+def sum(a=2,b=5): #default argument
+    return a+b
+print(sum()) #7
+
+def sum(a,b): #keyword argument
+    return a+b
+print(sum(b=5,a=3)) #6
+
+def sum(*numbers): #arbitrary argument
+    print(type(numbers))#<class 'tuple'>
+    result = 0
+    for i in numbers:
+        result=result+i
+    return result
+print("sum is:",sum(4,5)) #sum is: 9
+
+def name(**names): #keyword arbitrary argument
+    print(type(names))#<class 'dict'>
+    for key, value in names.items():
+        print(key, value)
+print(name(first='Shayan', last='Rais'))
+```
+
 
 
 
