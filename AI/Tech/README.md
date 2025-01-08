@@ -5,6 +5,7 @@ concepts, frameworks, tools
 
 ## RAG
 Krish Naik - [Youtube Tutorial](https://youtu.be/xOS0BhhdUbo?t=270)
+![rag](!/rag-krish.png)
 
 
 ### ChatGPT 3.5 in [Savvy](https://docs.google.com/document/d/1cAYB_hRuZOD9TBVNiuQNsw_vnmTUAY8ifTa0kiQsqzk)
