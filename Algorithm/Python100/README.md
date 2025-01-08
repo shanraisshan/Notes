@@ -230,6 +230,12 @@ for i in range(10):
         print(i)
 ```
 
+### Day20 - Functions
+```python
+def my_function_name(items: str):
+    pass
+```
+
 
 
 
