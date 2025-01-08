@@ -290,7 +290,6 @@ variable, property, member, field, attribute, column
 dummy, fake, stub, mock
 function, method, procedure, routine
 annotations, decorators, modifiers, macros
-
 design principles, design patterns, architecture, paradigm
 delegate, callback, interface, abstract, annonymous, lambdas
 
