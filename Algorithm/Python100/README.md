@@ -265,6 +265,16 @@ def name(**names): #keyword arbitrary argument
 print(name(first='Shayan', last='Rais'))
 ```
 
+### Day22 - Lists
+```python
+list = [1, "two", True]
+print(list) #[1, 'two', True]
+if 1 in list:
+    print("Yes, 1 is in list") #Yes, 1 is in list
+lst = [i for i in range(5) if i>2]
+print(lst) #[3, 4]
+```
+
 
 
 
