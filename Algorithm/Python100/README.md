@@ -275,6 +275,16 @@ lst = [i for i in range(5) if i>2]
 print(lst) #[3, 4]
 ```
 
+### Day23 - List Functions
+```python
+one = [4, 3, 2, 1]
+two = one
+two[0] = 5
+print(one) #[5, 3, 2, 1] org one list changed
+one.insert(0, 100)
+print(one) #[100, 5, 3, 2, 1]
+```
+
 
 
 
