@@ -285,6 +285,22 @@ one.insert(0, 100)
 print(one) #[100, 5, 3, 2, 1]
 ```
 
+### Day24 - 11/Jan/25
+```python
+```
+
+### Day25 - 12/Jan/25
+```python
+```
+
+### Day26 - 13/Jan/25
+```python
+```
+
+### Day27 - 14/Jan/25
+```python
+```
+
 
 
 
