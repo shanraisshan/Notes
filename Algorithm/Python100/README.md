@@ -309,6 +309,26 @@ print(one) #[100, 5, 3, 2, 1]
 ```python
 ```
 
+### Day30 - 17/Jan/25
+```python
+```
+
+### Day31 - 18/Jan/25
+```python
+```
+
+### Day32 - 19/Jan/25
+```python
+```
+
+### Day33 - 20/Jan/25
+```python
+```
+
+### Day34 - 21/Jan/25
+```python
+```
+
 
 
 
