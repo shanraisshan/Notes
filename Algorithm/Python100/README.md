@@ -285,11 +285,14 @@ one.insert(0, 100)
 print(one) #[100, 5, 3, 2, 1]
 ```
 
-### Day24 - 11/Jan/25
+### Day24 - 11/Jan/25 - Tuples
 ```python
+tup = (1, 2, 2, "ABC")
+# tup[2] = 100 #TypeError: 'tuple' object does not support item assignment
+print(tup[3]) #ABC
 ```
 
-### Day25 - 12/Jan/25
+### Day25 - 12/Jan/25 - Operations on tuples
 ```python
 ```
 
