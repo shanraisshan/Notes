@@ -299,14 +299,18 @@ tup.index(2) #1
 
 ### Day26 - 13/Jan/25
 ```python
+exercise
 ```
 
 ### Day27 - 14/Jan/25
 ```python
+kbc program
 ```
 
-### Day28 - 15/Jan/25
+### Day28 - 15/Jan/25 - fStrings
 ```python
+name = "Shayan"
+print(f"my name is {name}") #my name is Shayan
 ```
 
 ### Day29 - 16/Jan/25
