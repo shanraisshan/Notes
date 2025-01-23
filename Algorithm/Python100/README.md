@@ -294,6 +294,7 @@ print(tup[3]) #ABC
 
 ### Day25 - 12/Jan/25 - Operations on tuples
 ```python
+tup.index(2) #1
 ```
 
 ### Day26 - 13/Jan/25
@@ -329,6 +330,14 @@ print(tup[3]) #ABC
 ```
 
 ### Day34 - 21/Jan/25
+```python
+```
+
+### Day35 - 22/Jan/25
+```python
+```
+
+### Day36 - 23/Jan/25
 ```python
 ```
 
