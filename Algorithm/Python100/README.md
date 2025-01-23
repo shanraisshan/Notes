@@ -325,8 +325,13 @@ import this
 The Zen of Python, by Tim Peters (poem)
 ```
 
-### Day30 - 17/Jan/25
+### Day30 - 17/Jan/25 - Recurssion
 ```python
+def factorial(n):
+    if n == 0:
+        return 1
+    return n * factorial(n-1)
+print(factorial(5)) #120
 ```
 
 ### Day31 - 18/Jan/25
