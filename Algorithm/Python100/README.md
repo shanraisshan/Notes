@@ -313,8 +313,16 @@ name = "Shayan"
 print(f"my name is {name}") #my name is Shayan
 ```
 
-### Day29 - 16/Jan/25
+### Day29 - 16/Jan/25 - Docstrings PEP8
 ```python
+def square(x):
+    '''this is docstring'''
+    return x * x
+print(square.__doc__) #this is docstring
+
+#Python Enhancement Proposal (PEP8)
+import this
+The Zen of Python, by Tim Peters (poem)
 ```
 
 ### Day30 - 17/Jan/25
