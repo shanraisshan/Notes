@@ -28,6 +28,7 @@ General|Defination
 :-:|:-:
 candor|quality of being open and honest / frankness
 indispensable|crucial
+inevitable|unavoidable
 titan|giant
 
 ## Presentation 
