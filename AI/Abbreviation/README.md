@@ -3,6 +3,7 @@ abbreviation
 
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
+CUA|Computer Using Agent|
 GenAI|Generative AI|
 GPT|Generative Pretrained Transformer|
 LLM|Large Language Models|
