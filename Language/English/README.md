@@ -29,6 +29,7 @@ General|Defination
 candor|quality of being open and honest / frankness
 indispensable|crucial
 inevitable|unavoidable
+steep|almost perpendicular (difficult)
 titan|giant
 
 ## Presentation 
