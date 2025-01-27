@@ -359,6 +359,16 @@ print(factorial(5)) #120
 ```
 
 ### Day37 - 24/Jan/25
+```python
+```
+
+### Day38 - 25/Jan/25
+```python
+```
+
+### Day39 - 26/Jan/25
+```python
+```
 
 
 
