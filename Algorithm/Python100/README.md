@@ -370,6 +370,10 @@ print(factorial(5)) #120
 ```python
 ```
 
+### Day40 - 27/Jan/25
+```python
+```
+
 
 
 
