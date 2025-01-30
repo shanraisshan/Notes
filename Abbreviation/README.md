@@ -112,8 +112,9 @@ CCC|Creator, Critic, and Crusader|[shark-tank-america](https://youtu.be/HpUR7-Oe
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 PR|Pull Request|
-SDK|Software Development Kit|
 RC|Release Candidate|
+SDK|Software Development Kit|
+STEM|Science Technology Engineering Mathematics
 XML|Extensible Markup Language|
 
 ## 10. Hardware
