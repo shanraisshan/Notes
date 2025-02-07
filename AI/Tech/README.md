@@ -1,6 +1,15 @@
 # Tech
 concepts, frameworks, tools
 
+# Difference between models
+
+https://youtu.be/FooC7gp4wk4?t=328
+
+- 05:28 ChatGPT-3 (Nov22)
+- 05:34 ChatGPT-4 (Mar23)
+- 05:40 ChatGPT-4o (May24) Multimodal of gpt-4
+- 05:58 o1 model (Sep24) Chain of Thought (Advanced Reasoning Models)
+
 # Concepts
 
 ## GenAI
