@@ -386,6 +386,42 @@ print(factorial(5)) #120
 ```python
 ```
 
+### Day44 - 30/Jan/25
+```python
+```
+
+### Day45 - 31/Jan/25
+```python
+```
+
+### Day46 - 1/Feb/25
+```python
+```
+
+### Day47 - 2/Feb/25
+```python
+```
+
+### Day48 - 3/Feb/25
+```python
+```
+
+### Day49 - 4/Feb/25
+```python
+```
+
+### Day50 - 5/Feb/25
+```python
+```
+
+### Day51 - 6/Feb/25
+```python
+```
+
+### Day52 - 7/Feb/25
+```python
+```
+
 
 
 
