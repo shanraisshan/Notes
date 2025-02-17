@@ -7,7 +7,7 @@ created on [26 Jan 2022](https://github.com/shanraisshan/Notes/commit/6de4ecb3eb
 ### ➼ [Affiliate 🤝](/Affiliate)
 ### ➼ [AI 🤖](/AI)
 ### ➼ [Analytic (+Data, Stat) 📈](/Analytic)
-### ➼ [App. 📱](/App)
+### ➼ [App 📱](/App)
 ### ➼ [Algorithm 👨🏻‍💻](/Algorithm)
 ### ➼ [Architecture (+Design Pattern, Principle, Paradigm) 🧱](Architecture)
 ### ➼ [Backend 🖥️](/Backend)
