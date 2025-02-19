@@ -422,6 +422,70 @@ print(factorial(5)) #120
 ```python
 ```
 
+### Day53 - 8/Feb/25
+```python
+```
+
+### Day54 - 9/Feb/25
+```python
+```
+
+### Day55 - 10/Feb/25
+```python
+```
+
+### Day56 - 11/Feb/25
+```python
+```
+
+### Day57 - 12/Feb/25
+```python
+```
+
+### Day58 - 13/Feb/25
+```python
+```
+
+### Day59 - 14/Feb/25
+```python
+```
+
+### Day60 - 15/Feb/25
+```python
+```
+
+### Day61 - 16/Feb/25
+```python
+```
+
+### Day62 - 17/Feb/25
+```python
+```
+
+### Day63 - 18/Feb/25
+```python
+```
+
+### Day64 - 19/Feb/25
+```python
+```
+
+### Day65 - 20/Feb/25
+```python
+```
+
+### Day66 - 21/Feb/25
+```python
+```
+
+### Day67 - 22/Feb/25
+```python
+```
+
+### Day68 - 23/Feb/25
+```python
+```
+
 
 
 
