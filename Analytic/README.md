@@ -15,6 +15,10 @@ everything about data
 - [Live events tracking](https://support.appsflyer.com/hc/en-us/articles/207031996-Registering-test-devices#register-a-device-using-the-appsflyer-device-id-app-admin-only)
 Android(AID {GAID or OAID}, IMEI, Android ID) ■ iOS(IDFA, IDFV) ■ Windows Phone(Windows advertising ID)
 
+![android](appsflyer/!/appsflyer-android.jpg)
+![ios](appsflyer/!/appsflyer-ios.jpg)
+![windows](appsflyer/!/appsflyer-windows.jpg)
+
 ## Firebase / GA4
 - [Dashboard](https://console.firebase.google.com/u/1/project/savyour-test/analytics/app/ios:com.disrupt.savyour/events/)
 - event management
