@@ -12,6 +12,8 @@ everything about data
 
 ## Appsflyer 
 - event management (properties cannot be viewed on dashboard, but need to download raw data)
+- [Live events tracking](https://support.appsflyer.com/hc/en-us/articles/207031996-Registering-test-devices#register-a-device-using-the-appsflyer-device-id-app-admin-only)
+Android(AID {GAID or OAID}, IMEI, Android ID) ■ iOS(IDFA, IDFV) ■ Windows Phone(Windows advertising ID)
 
 ## Firebase / GA4
 - [Dashboard](https://console.firebase.google.com/u/1/project/savyour-test/analytics/app/ios:com.disrupt.savyour/events/)
