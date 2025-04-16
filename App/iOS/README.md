@@ -1,6 +1,9 @@
 # iOS
 iOS related stuff
 
+# Xcode
+Download Xcode from [stackoverflow](https://stackoverflow.com/questions/10335747/how-to-download-xcode-dmg-or-xip-file)
+
 ## Ids
 ### App ID [[->]](https://developer.apple.com/help/account/manage-identifiers/register-an-app-id)
 
