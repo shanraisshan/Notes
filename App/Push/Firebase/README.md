@@ -12,3 +12,5 @@ gcloud auth print-access-token
 ```
 
 - or simply use firebase auth in postman (authentic user with project access is required - valid for 1 hour only)
+
+![fcm-postman](!/fcm-postman.jpg)
