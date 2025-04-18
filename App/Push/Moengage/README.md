@@ -39,9 +39,35 @@ payload is different from FCM, check from key `push_from` and map `gcm_title` an
 }
 ```
 
+FCM PAYLOAD EXAMPLE
+
+```
+ {
+    "notification": {
+        "android": {},
+        "body": "Product Detail",
+        "title": "Squatwolf"
+    },
+    "originalPriority": 2,
+    "priority": 2,
+    "sentTime": 1744986689762,
+    "data": {
+        "type": "products",
+        "slug": "3-jogger-shorts-black"
+    },
+    "from": "819811173704",
+    "messageId": "0:1744986689773310%37d032bc37d032bc",
+    "ttl": 2419200,
+    "collapseKey": "com.squatwolf.staging"
+}
+```
+
 ## Implementation
 
 ### Android
+
+Need to add build() in Android native code, to make this run. Otherwise Push won't work
+https://developers.moengage.com/hc/en-us/articles/22105190881044-Getting-Started-with-React-Native-SDK
 
 
 
