@@ -28,7 +28,7 @@ payload is different from FCM, check from key `push_from` and map `gcm_title` an
     moe_cid_attr: '{"moe_campaign_channel": "Push", "moe_delivery_type": "One Time", "campaign_version_no": 1, "moe_campaign_id": "000000000000000079899852", "sent_epoch_time": 1744982953}',
     moe_app_id: 'RPZ3I8PIPNOW0RZLQRNTAKMU_DEBUG',
     gcm_notificationType: 'normal notification',
-    gcm_activityName: 'com.vennapps.android.main.MainActivity'
+    gcm_activityName: 'com.android.main.MainActivity'
   },
   from: '819811173704',
   messageId: '0:1744982953280018%37d032bc49efb69d',
