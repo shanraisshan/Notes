@@ -20,7 +20,7 @@ payload is different from FCM, check from key `push_from` and map `gcm_title` an
   sentTime: 1744982953270,
   data: {
     "push_from": "moengage",
-    "gcm_title": "FCM TITLE",
+    "gcm_title": "MOENGAGE TITLE",
     "gcm_alert": "Buy Now",
     "type": "products",
     "slug": "3-jogger-shorts-black",
@@ -46,7 +46,7 @@ FCM PAYLOAD EXAMPLE
     "notification": {
         "android": {},
         "body": "Product Detail",
-        "title": "Squatwolf"
+        "title": "FCM TITLE"
     },
     "originalPriority": 2,
     "priority": 2,
