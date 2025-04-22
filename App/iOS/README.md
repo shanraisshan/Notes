@@ -4,7 +4,7 @@ iOS related stuff
 ## Xcode
 Download Xcode from [stackoverflow](https://stackoverflow.com/questions/10335747/how-to-download-xcode-dmg-or-xip-file)
 
-## Certificates (.p8 vs .p12)
+## Certificates (.p8 vs .p12/.pem)
 ### Apns Auth Key vs Apns Auth Certificate 
 using an APNS authentication key (.p8 file) or a provider certificate (.p12/.pem file). The .p8 key method is recommended because it doesn’t expire and can be used for multiple apps under the same Apple Developer account.
 
