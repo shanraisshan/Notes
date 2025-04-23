@@ -2,7 +2,7 @@
 everything about data
 
 ## Adjust
-- [10.9.0 Adjust](https://docs.google.com/document/d/1o4W9hWqjEqSRYWCJ2yGxwleZzpXG2BA6FxYBy_IZVMg/edit#heading=h.qv5tuf5lkyjv)
+- [10.9.0 Adjust Document](https://docs.google.com/document/d/1o4W9hWqjEqSRYWCJ2yGxwleZzpXG2BA6FxYBy_IZVMg/edit#heading=h.qv5tuf5lkyjv)
 - Dashboard -> https://suite.adjust.com/datascape/report
 - track device based on gps_adid(android), idfa(ios) , oaid(huawei)
 - event management (properties cannot be viewed on dashboard, but need to download raw data)
