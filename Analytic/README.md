@@ -34,7 +34,8 @@ But to stay in business Facebook came up with a new way of tracking which is kno
 - track user + event management
 - events can be viewed with properties
 
-## [MoEngage](https://docs.google.com/document/d/1FgRO8P9BUZEXUOCQfTN1m5EoogzNcWPakogHs9H6fww/edit#heading=h.u6fin22lpwu7)
-- [Dashboard](https://dashboard-03.moengage.com/v4/#/developers/activity)
+## MoEngage
+- [Convex Document](https://docs.google.com/document/d/1FgRO8P9BUZEXUOCQfTN1m5EoogzNcWPakogHs9H6fww/edit#heading=h.u6fin22lpwu7)
+- Dashboard - https://dashboard-03.moengage.com/v4/#/developers/activity
 - track user + event management
 - events can be viewed with properties
