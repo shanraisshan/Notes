@@ -3,12 +3,20 @@
 
 ## Dashboard (Test Push)
 
-send test push notification from
+send test push notification 2 methods (campaign, user profile)
 
+### 1-Campaign
 1. Menu->Engage->Campaign (https://dashboard-02.moengage.com/v4/#/campaigns/all)
 2. Create Campaign->Push->One Time
 
 ![moengage-test-push.jpg](!/moengage-test-push.jpg)
+
+### 2-User Profile
+1. Menu->Segment->Create Segment
+2. Search User By Email (Open User Profile) (https://dashboard-02.moengage.com/v4/#/campaigns/all)
+
+![moengage-test-push-profile.jpg](!/moengage-test-push-profile.jpg)
+
 
 ## Payload
 
