@@ -64,10 +64,14 @@ FCM PAYLOAD EXAMPLE
 
 ## Implementation
 
-### Android
+### Android (issue in react native implementation)
 
 Need to add build() in Android native code, to make this run. Otherwise Push won't work
 https://developers.moengage.com/hc/en-us/articles/22105190881044-Getting-Started-with-React-Native-SDK
+
+### iOS (issue in react native implementation)
+
+Not getting ios callback
 
 
 
