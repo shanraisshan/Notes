@@ -1,5 +1,5 @@
 # Squatwolf
-squatwolf
+squatwolf - all data as of 1-May-25
 
 ## App Stats
 Version|Countries|Rating
@@ -17,7 +17,7 @@ Date|App Version
 ## Tech
 Name|Android|iOS
 :-:|:-:|:-:
-Api Level|21-34 (Aug24 • 14.2.0)|14 (Aug23 • v10.9.0)
+Api Level|35|15
 Langugae|React Native 0.78.0|
 Native|Kotlin 2.0.21|Swift 5
 
