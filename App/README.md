@@ -12,6 +12,7 @@ mobile apps
 ### ➼ [App Action (+Intent, Shortcut)](AppAction)
 ### ➼ [Data (+Analytic, Stat) 📊](Data)
 ### ➼ [Device (+Emulator, Mirror) 📱](Device)
+### ➼ [In-App Notification](InApp)
 ### ➼ [Link (+App, Deep, Deferred, Dynamic, Universal) 🔗](Link)
 ### ➼ [Name (+Version) 📛](Name)
 ### ➼ [Push Notification 🔔](Push)
