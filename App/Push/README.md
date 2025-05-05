@@ -11,16 +11,17 @@ One Signal -> https://documentation.onesignal.com/docs/notifications-show-succes
 1. Firebase Cloud Messaging (FCM)
 2. Huawei HMS Push Kit
 3. Xiomi Push
-4. Apple Push Notification service (APNS)
+4. Apple Push Notification Service (APNS)
 5. Amazon Device Messaging (ADM)
 
 
 ## Platforms
-1. [Appsflyer (fcm | hms)](Appsflyer)
-2. [Firebase (fcm)](Firebase)
-2. [Huawei (hms)](Huawei)
-3. [Mixpanel (gcm)](Mixpanel)
-4. [Moengage (fcm | hms | xiomi)](Moengage)
-4. [One Signal (fcm | hms)](OneSignal)
-6. [Urban Airship (fcm | hms)](Airship)
+1. [Apple Push Notification Console (apns)](Apple)
+2. [Appsflyer (fcm | hms)](Appsflyer)
+3. [Firebase (fcm)](Firebase)
+4. [Huawei (hms)](Huawei)
+5. [Mixpanel (gcm)](Mixpanel)
+6. [Moengage (fcm | hms | push-amp)](Moengage)
+7. [One Signal (fcm | hms)](OneSignal)
+8. [Urban Airship (fcm | hms)](Airship)
    
