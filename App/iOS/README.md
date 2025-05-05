@@ -4,6 +4,19 @@ iOS related stuff
 ## Xcode
 Download Xcode from [stackoverflow](https://stackoverflow.com/questions/10335747/how-to-download-xcode-dmg-or-xip-file)
 
+## Build Sharing
+
+### Diawi (Internal Tester) [APPLE REVIEW REQUIRED: ❌]
+Requirements: Idfa/Uuid (no need to add user) -> Certificates, IDs & Profiles -> Devices,
+
+### Testflight (Internal Tester) [APPLE REVIEW REQUIRED: ❌]
+Requirements: icloud email (invite 1) -> then invite user to testflight (only added accounts can be invited) [overall 2 invitation]
+
+### Testflight (External Tester - Public Link) [APPLE REVIEW REQUIRED: ✅]
+needs apple approval on testflight
+
+
+
 ## Certificates (.p8 vs .p12/.pem)
 ### Apns Auth Key vs Apns Auth Certificate 
 using an APNS authentication key (.p8 file) or a provider certificate (.p12/.pem file). The .p8 key method is recommended because it doesn’t expire and can be used for multiple apps under the same Apple Developer account.
