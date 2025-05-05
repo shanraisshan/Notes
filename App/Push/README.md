@@ -1,11 +1,12 @@
 # Push Notification
 push related stuff
 
-## Not receiving push?
+## IMPLEMENTATION
 
-Vendors kill app -> https://dontkillmyapp.com/
-
-One Signal -> https://documentation.onesignal.com/docs/notifications-show-successful-but-are-not-being-shown
+### Rich Notification iOS
+- NotificationServiceExtension is mandatory for rich
+- mutable-content:1, image:url
+- Test on actual device, not on simulator
 
 ## SDKs
 1. Firebase Cloud Messaging (FCM)
@@ -15,7 +16,7 @@ One Signal -> https://documentation.onesignal.com/docs/notifications-show-succes
 5. Amazon Device Messaging (ADM)
 
 
-## Platforms
+## PLATFORMS
 1. [Apple Push Notification Console (apns)](Apple)
 2. [Appsflyer (fcm | hms)](Appsflyer)
 3. [Firebase (fcm)](Firebase)
@@ -24,4 +25,10 @@ One Signal -> https://documentation.onesignal.com/docs/notifications-show-succes
 6. [Moengage (fcm | hms | push-amp)](Moengage)
 7. [One Signal (fcm | hms)](OneSignal)
 8. [Urban Airship (fcm | hms)](Airship)
+
+## KNOWN ISSUES
+
+Vendors kill app -> https://dontkillmyapp.com/
+
+One Signal -> https://documentation.onesignal.com/docs/notifications-show-successful-but-are-not-being-shown
    
