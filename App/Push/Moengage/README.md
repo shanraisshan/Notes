@@ -70,6 +70,9 @@ FCM PAYLOAD EXAMPLE
 }
 ```
 
+
+
+
 ## Implementation
 
 ### Android (issue in react native implementation)
@@ -79,7 +82,8 @@ https://developers.moengage.com/hc/en-us/articles/22105190881044-Getting-Started
 
 ### iOS (issue in react native implementation)
 
-Not getting ios callback
+1. Not getting ios click callback (solved by making bridge)
+2. Rich Push Notification not receiving (solved by Xcode->Targets->Build Phases->Embed App Extensions(added NotificationService.appex)
 
 
 
