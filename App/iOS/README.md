@@ -4,18 +4,6 @@ iOS related stuff
 ## ■ XCODE
 Download Xcode from [stackoverflow](https://stackoverflow.com/questions/10335747/how-to-download-xcode-dmg-or-xip-file)
 
-## ■ BUILD DISTRIBUTION
-
-### Diawi (Internal Tester) [Apple Review Required: ❌]
-Requirements: Idfa/Uuid (no need to add user) -> Certificates, IDs & Profiles -> Devices,
-
-### Testflight (Internal Tester) [Apple Review Required: ❌]
-Requirements: icloud email (invite 1) -> then invite user to testflight (only added accounts can be invited) [overall 2 invitation]
-
-### Testflight (External Tester - Public Link) [Apple Review Required: ✅]
-needs apple approval on testflight
-
-
 
 ## ■ CERTIFICATES (.p8 vs .p12/.pem)
 ### Apns Auth Key vs Apns Auth Certificate 
