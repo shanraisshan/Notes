@@ -5,13 +5,13 @@
 
 ## ANDROID
 ### Internal Testing [Google Review Required: ❌]
-Requirements: any email
+Requirements: any email, upto 100 testers
 
 ### Closed Testing (Alpha) [Google Review Required: ✅]
-Requirements: any email, 200 testers, rollout in % avb
+Requirements: any email, upto 400k testers, rollout in % avb
 
 ### Open Testing (Beta) [Google Review Required: ✅]
-Requirements: any email, 1000 testers, rollout in % avb
+Requirements: any email, atleast 1000 testers, rollout in % avb
 
 ## IOS
 ### Diawi (Internal Tester) [Apple Review Required: ❌]
