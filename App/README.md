@@ -10,8 +10,10 @@ mobile apps
 
 ### ➼ [A/B Testing 🆎](AB)
 ### ➼ [App Action (+Intent, Shortcut)](AppAction)
+### ➼ [CI/CD (+Deployment, Build)](CiCd)
 ### ➼ [Data (+Analytic, Stat) 📊](Data)
 ### ➼ [Device (+Emulator, Mirror) 📱](Device)
+### ➼ [Icon](Icon)
 ### ➼ [In-App Notification](InApp)
 ### ➼ [Link (+App, Deep, Deferred, Dynamic, Universal) 🔗](Link)
 ### ➼ [Name (+Version) 📛](Name)
