@@ -8,7 +8,6 @@ mobile apps
 
 # Common Topics
 
-### ➼ [Analytic (+Data, Stat) 📊](Data)
 ### ➼ [A/B Testing 🆎](AB)
 ### ➼ [App Action (+Intent, Shortcut)](AppAction)
 ### ➼ [CI/CD (+Deployment, Build)](CiCd)
