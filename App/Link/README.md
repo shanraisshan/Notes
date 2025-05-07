@@ -15,8 +15,10 @@ https://savyour.com.pk/.well-known/assetlinks.json
  Squatwolf | [Android](https://squatwolf.com/.well-known/assetlinks.json) | [iOS](https://squatwolf.com/.well-known/apple-app-site-association)
 
 ### Android assetlinks.json 
-this file can also be downloaded from playstore
+This file can also be downloaded from playstore
+
 Playstore App -> Test and Release -> Setup -> App Signing (Digital Asset Links JSON)
+
 ![assetlinks](!/assetlinks.png)
 
 ### Apple issue (403)
