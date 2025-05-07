@@ -29,7 +29,7 @@ PostHog|	Available: Supports email, UUIDs, or custom distinct_id via SDK/API. Li
 ## [Appsflyer](appsflyer)
 - event management (properties cannot be viewed on dashboard, but need to download raw data)
 - 4 different projects bind with package name (Android) and apple app id (iOS)
-- [Live events tracking ✅](https://support.appsflyer.com/hc/en-us/articles/207031996-Registering-test-devices#register-a-device-using-the-appsflyer-device-id-app-admin-only)
+- [Live events tracking ✅](https://support.appsflyer.com/hc/en-us/articles/207031996-Registering-test-devices#register-a-device-using-the-appsflyer-device-id-app-admin-only) also works for live app
 
 ## [Firebase / GA4](Firebase)
 - [Dashboard](https://console.firebase.google.com/u/1/project/savyour-test/analytics/app/ios:com.disrupt.savyour/events/)
