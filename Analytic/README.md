@@ -13,14 +13,9 @@ some images related these CRM dashboards are also available on [Push](/App/Push/
 - [Dashboard](https://go.airship.com/apps/TDTGyqSbQyq4XHajj62UrA/contact_management/channel/35145b1c-b746-444b-a8e0-026c4473f5fe)
 - track user + event management
 
-## [Appsflyer](Appsflyer)
+## [Appsflyer](appsflyer)
 - event management (properties cannot be viewed on dashboard, but need to download raw data)
 - [Live events tracking](https://support.appsflyer.com/hc/en-us/articles/207031996-Registering-test-devices#register-a-device-using-the-appsflyer-device-id-app-admin-only)
-Android(AID {GAID or OAID}, IMEI, Android ID) ■ iOS(IDFA, IDFV) ■ Windows Phone(Windows advertising ID)
-
-![android](appsflyer/!/appsflyer-android.jpg)
-![ios](appsflyer/!/appsflyer-ios.jpg)
-![windows](appsflyer/!/appsflyer-windows.jpg)
 
 ## [Firebase / GA4](Firebase)
 - [Dashboard](https://console.firebase.google.com/u/1/project/savyour-test/analytics/app/ios:com.disrupt.savyour/events/)
@@ -37,7 +32,7 @@ But to stay in business Facebook came up with a new way of tracking which is kno
 - track user + event management
 - events can be viewed with properties
 
-## [MoEngage](MoEngage)
+## [MoEngage](Moengage)
 - [Convex Document](https://docs.google.com/document/d/1FgRO8P9BUZEXUOCQfTN1m5EoogzNcWPakogHs9H6fww/edit#heading=h.u6fin22lpwu7)
 - Dashboard - https://dashboard-03.moengage.com/v4/#/developers/activity
 - track user + event management
