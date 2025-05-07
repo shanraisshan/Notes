@@ -29,4 +29,9 @@ app not available on certain devices
 
 ## ANDROID
 
+![app-not-available](!/app-not-available.png)
+
+Android Go Devices are excluded
+![exlclude-device](!/exclude-device.png)
+
 
