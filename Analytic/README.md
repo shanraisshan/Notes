@@ -2,6 +2,17 @@
 everything about data, 
 some images related these CRM dashboards are also available on [Push](/App/Push/README.md)
 
+Platform	|User Identification	|Events Tracking
+-|-|-
+Adjust|	Available: Uses device IDs and custom user IDs (e.g., email) via SDK. Focuses on attribution and campaign tracking.	|Available: Tracks events like installs, sessions, and custom in-app events for attribution. Less focused on deep behavioral analytics compared to Mixpanel.
+Airship|	Available: Supports email, named user IDs, and device IDs via SDK/API. Used for messaging and audience targeting across channels.	|Available: Tracks events like opens, clicks, and custom events for messaging campaigns and analytics. Focused on engagement and push notification performance.
+AppsFlyer|	Available: Uses device IDs (GAID, IDFA) and custom customer_user_id (e.g., email). Indirect email support via custom ID. Focuses on attribution.	|Available: Tracks events like installs, in-app events, and conversions tied to campaigns. Limited to attribution-related events, less granular than analytics platforms.
+Facebook|	Limited: Email or user ID available via Facebook Login, but only if user grants permission and has an email linked. Phone-based accounts may lack email.	|Available: Tracks events (e.g., app installs, purchases) via Facebook SDK for advertising and analytics. Focused on ad performance and attribution.
+Firebase|	Available: Uses email, anonymous IDs, and custom IDs via Firebase Authentication. Central for user management and cross-platform tracking.	|Available: Tracks events via Firebase Analytics (e.g., screen views, custom events). Integrates with BigQuery for advanced analysis. Strong for app analytics.
+Mixpanel|	Available: Uses distinct_id (e.g., email, custom ID) and user properties via SDK. Ideal for behavioral analytics and cohort tracking.	|Available: Tracks detailed custom events (e.g., page views, clicks) and funnels for product analytics. Highly granular for user behavior and retention analysis.
+MoEngage|	Available: Supports email, device IDs, and custom IDs as primary identifiers via SDK/API. Used for cross-channel user profiles and engagement.	|Available: Tracks user actions (e.g., clicks, purchases) and custom events for segmentation, personalization, and campaign triggers. Robust for engagement analytics.
+PostHog|	Available: Supports email, UUIDs, or custom distinct_id via SDK/API. Links anonymous and identified events for cross-session/device tracking.	|Available: Tracks autocaptured (e.g., pageviews, clicks) and custom events (e.g., sign-ups, feature usage) for product analytics. Supports funnels, retention, and session replays.
+
 
 ## [Adjust](Adjust)
 - [10.9.0 Adjust Document](https://docs.google.com/document/d/1o4W9hWqjEqSRYWCJ2yGxwleZzpXG2BA6FxYBy_IZVMg/edit#heading=h.qv5tuf5lkyjv)
