@@ -1,4 +1,4 @@
-# CI/CD, Build Distribution, Deployments
+# CI/CD, Build Distribution, Deployment
 
 
 # ■ BUILD DISTRIBUTION
@@ -22,4 +22,11 @@ Requirements: icloud email (invite 1) -> then invite user to testflight (only ad
 
 ### Testflight (External Tester - Public Link) [Apple Review Required: ✅]
 needs apple approval on testflight
+
+
+# ■ APP NOT AVAILABLE
+app not available on certain devices
+
+## ANDROID
+
 
