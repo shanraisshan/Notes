@@ -1,7 +1,7 @@
 # Appsflyer
 user identification ❌✅, event tracking  ✅
 
-# User Identification
+# USER IDENTIFICATION
 appsflyer identification works different from moengage and mixpanel
 
 Platform	|Email for User Identification
@@ -14,6 +14,14 @@ Mixpanel	|Directly (custom identifier for analytics)
 
 Android(AID {GAID or OAID}, IMEI, Android ID) ■ iOS(IDFA, IDFV) ■ Windows Phone(Windows advertising ID)
 
-![android](appsflyer/!/appsflyer-android.jpg)
-![ios](appsflyer/!/appsflyer-ios.jpg)
-![windows](appsflyer/!/appsflyer-windows.jpg)
+![android](!/appsflyer-android.jpg)
+![ios](!/appsflyer-ios.jpg)
+![windows](!/appsflyer-windows.jpg)
+
+# LIVE TRACKING
+you can view the live events of the live app device
+
+1. Select Live App
+2. In side menu, goto Settings->Test Devices->Add Android AID (Device Settings->Privacy->Ads->Bottom of screen)
+3. Goto SDK Integration Tests -> Select Live Events
+4. Start
