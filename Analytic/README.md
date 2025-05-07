@@ -28,10 +28,12 @@ PostHog|	Available: Supports email, UUIDs, or custom distinct_id via SDK/API. Li
 
 ## [Appsflyer](appsflyer)
 - event management (properties cannot be viewed on dashboard, but need to download raw data)
+- 4 different projects bind with package name (Android) and apple app id (iOS)
 - [Live events tracking ✅](https://support.appsflyer.com/hc/en-us/articles/207031996-Registering-test-devices#register-a-device-using-the-appsflyer-device-id-app-admin-only)
 
 ## [Firebase / GA4](Firebase)
 - [Dashboard](https://console.firebase.google.com/u/1/project/savyour-test/analytics/app/ios:com.disrupt.savyour/events/)
+- 4 = 2 Projects (with 2 Apps)
 - Live events tracking ✅
 
 ## [Facebook](Facebook)
@@ -49,6 +51,6 @@ But to stay in business Facebook came up with a new way of tracking which is kno
 ## [MoEngage](Moengage)
 - [Convex Document](https://docs.google.com/document/d/1FgRO8P9BUZEXUOCQfTN1m5EoogzNcWPakogHs9H6fww/edit#heading=h.u6fin22lpwu7)
 - Dashboard - https://dashboard-03.moengage.com/v4/#/developers/activity
-- track user + event management
+- Single App with MOENGAGE_APP_ID with 2 env (Staging(debug build) and Live(release build))
 - events can be viewed with properties on user profile (Activity Tab)
 - Live events tracking ✅
