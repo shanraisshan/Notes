@@ -25,3 +25,5 @@ you can view the live events of the live app device
 2. In side menu, goto Settings->Test Devices->Add Android AID (Device Settings->Privacy->Ads->Bottom of screen)
 3. Goto SDK Integration Tests -> Select Live Events
 4. Start
+
+![live-events](!/appsflyer-live-events.png)
