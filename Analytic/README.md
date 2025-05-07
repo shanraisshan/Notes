@@ -34,7 +34,8 @@ PostHog|	Available: Supports email, UUIDs, or custom distinct_id via SDK/API. Li
 ## [Firebase / GA4](Firebase)
 - [Dashboard](https://console.firebase.google.com/u/1/project/savyour-test/analytics/app/ios:com.disrupt.savyour/events/)
 - 4 = 2 Projects (with 2 Apps)
-- [Live events tracking ✅](https://firebase.google.com/docs/analytics/debugview)
+- Live events tracking ✅ Side Menu->Analytics->Realtime Analytics
+- [Debug View ✅](https://firebase.google.com/docs/analytics/debugview) Side Menu->Analytics->Debug View
 
 ## [Facebook](Facebook)
 - [Dashboard](https://www.facebook.com/events_manager2/overview)
