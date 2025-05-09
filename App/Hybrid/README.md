@@ -13,6 +13,11 @@ different cross platform technologies
 
 ![alt text](!/hybrid.png)
 
+## Other Options
+
+1. PWA (Progressive Web Apps): Built with HTML, CSS, JavaScript. Frameworks like Angular, React, or Vue enhance development.
+2. Webview App
+
 ## Apps Tech Stack
 
 Technologies|Link
