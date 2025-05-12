@@ -17,12 +17,15 @@ different cross platform technologies
 
 1. PWA (Progressive Web Apps): Built with HTML, CSS, JavaScript. Frameworks like Angular, React, or Vue enhance development.
 2. Webview App
+3. KMP (old name = KMM) also include Compose Multiplatform (see article below)
 
 ## Apps Tech Stack
 
-Technologies|Link
-:-:|:-:
-React Native to Native|[Why did Airbnb decide to revert back to native apps from React Native?](https://www.quora.com/Why-did-Airbnb-decide-to-revert-back-to-native-apps-from-React-Native)
-React Native + Native|[Instagram's tech stack will surprise you](https://www.youtube.com/watch?v=ODKzJrrHua0)
+Date|Technologies|Link
+-|-|-
+06/May/25|Compose Multiplatform|[Compose Multiplatform 1.8.0 Released: Compose Multiplatform for iOS Is Stable and Production-Ready](https://blog.jetbrains.com/kotlin/2025/05/compose-multiplatform-1-8-0-released-compose-multiplatform-for-ios-is-stable-and-production-ready/)
+22/Mar/23|React Native + Native|[Instagram's tech stack will surprise you](https://www.youtube.com/watch?v=ODKzJrrHua0)
+19/Jul/18|React Native to Native|[Why did Airbnb decide to revert back to native apps from React Native?](https://www.quora.com/Why-did-Airbnb-decide-to-revert-back-to-native-apps-from-React-Native)
+
 
 
