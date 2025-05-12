@@ -28,12 +28,16 @@ needs apple approval on testflight
 
 ## IOS
 
-### Diawi - Release Build to QA
-
 1. Set the destination to Generic iOS Device (Product > Destination > Generic iOS Device).
 2. Product -> Archive
 3. Window -> Organize
-4. Distribute App (4 options) -> (2) Release Testing (Ad hoc distribute to regitered devices)
+4. Distribute App (4 options)
+
+![ios-build-distribution](!/ios-build-distribution.png)
+
+### Diawi - Release Build to QA
+
+1. (2) Release Testing (Ad hoc distribute to regitered devices)
 
 
 
