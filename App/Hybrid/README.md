@@ -27,6 +27,7 @@ Date|Technologies|Link
 17/Jan/25|Flutter v React Native|[React Native vs Flutter: What to Choose in 2025](https://www.browserstack.com/guide/flutter-vs-react-native)
 14/Jan/25|Flutter v React Native|[Cross-platform mobile development - pragmaticengineer](https://newsletter.pragmaticengineer.com/p/cross-platform-mobile-development)
 04/Feb/25|React Native (Expo)|[Cross-platform mobile development with Expo - pragmaticengineer](https://newsletter.pragmaticengineer.com/p/expo)
+18/Feb/25|Hiring Market|[State of the startup and scaleup hiring markets in 2025 – as seen by recruiters - pragmaticengineer](https://newsletter.pragmaticengineer.com/p/startup-market-in-2025)
 22/Mar/23|React Native + Native|[Instagram's tech stack will surprise you](https://www.youtube.com/watch?v=ODKzJrrHua0)
 19/Jul/18|React Native to Native|[Why did Airbnb decide to revert back to native apps from React Native?](https://www.quora.com/Why-did-Airbnb-decide-to-revert-back-to-native-apps-from-React-Native)
 
