@@ -35,9 +35,25 @@ needs apple approval on testflight
 
 ![ios-build-distribution](!/ios-build-distribution.png)
 
-### Diawi - Release Build to QA
+### Diawi - #2 - Release Testing (Old Name = Adhoc)
 
-1. (2) Release Testing (Ad hoc distribute to regitered devices)
+1. MoEngage events will trigger on prod
+2. React Native __DEV__ == false
+
+**ENTITLEMENTS**
+1. get-task-allow = false
+2. aps-environment = production
+
+### Diawi - #4 - Debugging (Old Name = development)
+
+Although its a debugging build, but its has few issues
+1. MoEngage events will trigger on prod
+2. MoEngage Push (both stag/prod) wont work
+3. React Native __DEV__ == false
+
+**ENTITLEMENTS**
+1. get-task-allow = true
+2. aps-environment = development
 
 
 
