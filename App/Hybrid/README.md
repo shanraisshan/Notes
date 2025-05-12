@@ -24,6 +24,8 @@ different cross platform technologies
 Date|Technologies|Link
 -|-|-
 06/May/25|Compose Multiplatform|[Compose Multiplatform 1.8.0 Released: Compose Multiplatform for iOS Is Stable and Production-Ready](https://blog.jetbrains.com/kotlin/2025/05/compose-multiplatform-1-8-0-released-compose-multiplatform-for-ios-is-stable-and-production-ready/)
+14/Jan/25|Flutter v React Native|[Cross-platform mobile development](https://newsletter.pragmaticengineer.com/p/cross-platform-mobile-development)
+04/Feb/25|React Native (Expo)|[Cross-platform mobile development with Expo](https://newsletter.pragmaticengineer.com/p/expo)
 22/Mar/23|React Native + Native|[Instagram's tech stack will surprise you](https://www.youtube.com/watch?v=ODKzJrrHua0)
 19/Jul/18|React Native to Native|[Why did Airbnb decide to revert back to native apps from React Native?](https://www.quora.com/Why-did-Airbnb-decide-to-revert-back-to-native-apps-from-React-Native)
 
