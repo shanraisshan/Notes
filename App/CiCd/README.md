@@ -24,6 +24,19 @@ Requirements: icloud email (invite 1) -> then invite user to testflight (only ad
 needs apple approval on testflight
 
 
+# ■ BUILD GENERATION
+
+## IOS
+
+### Diawi - Release Build to QA
+
+1. Set the destination to Generic iOS Device (Product > Destination > Generic iOS Device).
+2. Product -> Archive
+3. Window -> Organize
+4. Distribute App (4 options) -> (2) Release Testing (Ad hoc distribute to regitered devices)
+
+
+
 # ■ APP NOT AVAILABLE
 app not available on certain devices
 
