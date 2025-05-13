@@ -11,6 +11,7 @@ using an APNS authentication key (.p8 file) or a provider certificate (.p12/.pem
 
 ### Creating .cer -> .p12 -> .pem (.pem is required by MoEngage Push Notification)
 1) Log in to the Apple Developer Portal, go to "Certificates, Identifiers & Profiles," create a new APNs certificate for sandbox under your app’s identifier, and download the .cer file.
+***(Select Sandbox & Production, otherwise it will not work for moengage)***
 2) Import the .cer file into Keychain Access by dragging it into the app or using: security import certificate.cer -k ~/Library/Keychains/login.keychain. In Keychain Access, find the certificate, right-click, and export it as a .p12 file (set a password).
 3) Open Terminal and use OpenSSL to convert the .p12 file to .pem: ```openssl pkcs12 -in push_cert.p12 -out push_cert.pem -nodes``` (-legacy | in the end if required). Enter the .p12 password if prompted. The certificate_key.pem file contains the certificate and private key for sandbox push notifications.
 
