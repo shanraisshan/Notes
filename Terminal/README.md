@@ -14,6 +14,20 @@ top: Lists actively running computer processes
 ditto: Copies contents of a folder to a new folder
 ```
 
+# REACT NATIVE
+
+default react native commands in package.json,
+```
+"android": "react-native run-android",
+"ios": "react-native run-ios",
+"start": "react-native start",
+```
+can be used by
+```
+npm start
+npm run android
+```
+
 # SSH
 
 ### 2 Diff Github SSH on Single Mac 
