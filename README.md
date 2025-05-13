@@ -29,6 +29,7 @@ created on [26 Jan 2022](https://github.com/shanraisshan/Notes/commit/6de4ecb3eb
 ### ➼ [Other ⛔](/Other)
 ### ➼ [Security 🔒](/Security)
 ### ➼ [Software Engineering (+System Design) 👷🏻](/Software)
+### ➼ [Terminal](/Terminal)
 ### ➼ [Version Control (+Git) 🎛️](/Version)
 ### ➼ [Writing ✍️](/Writing)
 
