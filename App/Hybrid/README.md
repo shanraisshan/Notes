@@ -1,6 +1,11 @@
 # Hybrid (+Cross Platform) ✝️
 different cross platform technologies
 
+### ➼ [Flutter](Flutter)
+### ➼ [React Native](ReactNative)
+
+# DIFFERENT TECHNOLOGY
+
 #|Technologies|Languages
 :-:|:-:|:-:
 1|React Native|Javascript
