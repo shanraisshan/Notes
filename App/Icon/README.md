@@ -2,7 +2,7 @@
 
 ## ANDROID
 
-### User Theming
+### [Adaptive Icon](https://developer.android.com/develop/ui/views/launch/icon_design_adaptive) | User Theming
 
 In the following scenarios, the home screen doesn't display the themed app icon on Android 13 (API level 33), and instead displays the adaptive or standard app icon:
 
