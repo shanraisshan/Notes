@@ -17,7 +17,8 @@ Date|App Version
 ## Tech
 Name|Android|iOS
 :-:|:-:|:-:
-Api Level|35|15
-Langugae|React Native 0.78.0|
+Api Level|mSV(24) cSV(35) tSV(35)| Minimum Deployment(15.1) iOS(18)
+Language|React Native CLI|0.78.0
 Native|Kotlin 2.0.21|Swift 5
+VS Code 1.100.1|Android Studio Meerkat|XCode 16.3
 
