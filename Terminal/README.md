@@ -1,6 +1,12 @@
 # Terminal
 must have terminal commands
 
+# DOCKER
+```
+docker-compose up --build: start/run services in docker-compose.yml
+docker-compose up --build -d: exit
+```
+
 # MAC OS
 ```
 ls: Lists files in the default folder
@@ -12,6 +18,11 @@ rm -R: Removes nested directories
 sudo: Executes commands with superuser privileges
 top: Lists actively running computer processes
 ditto: Copies contents of a folder to a new folder
+```
+
+# PHP
+```
+php artisan serve: start local dev server for laravel app
 ```
 
 # REACT NATIVE
