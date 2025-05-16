@@ -10,6 +10,8 @@ In the following scenarios, the home screen doesn't display the themed app icon 
 2. If your app doesn't provide a monochromatic app icon.
 3. If the launcher doesn't support themed app icons.
 
+Unlock Developer Options | Go to Settings>Wallpaper & style | Toggle Themed icons ON
+
 
 ## GENERATE
 https://easyappicon.com/
