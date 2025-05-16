@@ -22,3 +22,9 @@ Name|Detail|From
 Name|Detail|From
 :-:|:-:|:-:
 [Squatwolf](Squatwolf)|UAE|
+
+# Notes
+
+Name|Detail|From
+:-:|:-:|:-:
+[Chatty Notes](https://github.com/shanraisshan/ChattyNotes)|Pakistan|
