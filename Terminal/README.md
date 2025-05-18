@@ -69,3 +69,5 @@ pbcopy < ~/.ssh/shanraisshan.pub
 ```
 9. Go to GitHub > Settings > SSH and GPG keys > New SSH key, paste the key, and save.
 10. Now clone the project using ssh url
+
+⚠️ if you have more than 1 accounts in single computer, you need to active the account using ```eval``` command, and then cross check using ```ssh -T git@github.com```
