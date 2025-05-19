@@ -9,6 +9,7 @@ docker-compose up --build -d: exit
 
 # MAC OS
 ```
+exit: Ctrl C
 ls: Lists files in the default folder
 mv: Moves a file
 touch: Creates a text file
@@ -25,7 +26,16 @@ ditto: Copies contents of a folder to a new folder
 php artisan serve: start local dev server for laravel app
 ```
 
+# PYTHON
+pip: Pip Installs Packages
+```
+pip install -r requirements.txt
+source venv/bin/activate
+uvicorn main:app --reload
+```
+
 # REACT NATIVE
+npm: Node Package Manager
 
 default react native commands in package.json,
 ```
