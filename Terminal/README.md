@@ -33,6 +33,12 @@ pip install -r requirements.txt
 source venv/bin/activate
 uvicorn main:app --reload
 ```
+**FAST API**
+```
+pip install -r requirements.txt
+source venv/bin/activate
+uvicorn main:app --reload
+```
 
 # REACT NATIVE
 npm: Node Package Manager
