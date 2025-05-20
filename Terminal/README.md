@@ -28,20 +28,25 @@ php artisan serve: start local dev server for laravel app
 
 # PYTHON
 pip: Pip Installs Packages
+
+run script
 ```
-pip install -r requirements.txt
+python main.py
+```
+create venv
+```
+python3 -m venv venv
 source venv/bin/activate
-uvicorn main:app --reload
 ```
 **FAST API**
 ```
 pip install -r requirements.txt
-source venv/bin/activate
 uvicorn main:app --reload
 ```
 
 # REACT NATIVE
 npm: Node Package Manager
+yarn: Yet another resource negotiator
 
 default react native commands in package.json,
 ```
