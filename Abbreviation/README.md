@@ -48,6 +48,7 @@ DDD|Domain Driven Design|
 DIE|Duplication Is Evil|
 DIP|Dependency Inversion Principle|
 DRY|Don't Repeat Yourself|
+ETL|Extract, Transform, Load|
 GoF|Gang of Four|
 GRASP|General Responsibility Assignment Software Patterns|
 IoC|Inversion of Control| 
@@ -103,6 +104,7 @@ DDL|Data Definition Language|
 DML|Data Manipulation Language|
 DTO|Data Transfer Object|
 ER model|Entity Relationship Model|
+ETL|Extract, Transform, Load|
 SIUD|Select Insert Update Delete|
 SKU|Stock Keeping Unit
 SQL|Structured Query Language|
