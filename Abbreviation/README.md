@@ -1,6 +1,6 @@
 # Abbreviation (Terminology, Quote, Latest)
 
-1. [Abbreviation](/Abbreviation#abbreviation) [17]
+1. [Abbreviation](/Abbreviation#abbreviation) [16]
 2. [Terminology](/Abbreviation#terminology) [3]
 3. [Quotes](/Abbreviation#quotes)
 4. [Similarity](/Abbreviation#similarity)
@@ -23,6 +23,7 @@ ADT|Android Development Tools|
 AIDL|Android Interface Definition Language|
 ANR|Application Not Responding|
 .apk|Android Application Package (Android Package)|
+ASO|Appstore Optimization|
 AVD|Android Virtual Devices|
 DDMS|Dalvik Debug Monitoring Service|
 .dex|Dalvik Executable|
@@ -31,6 +32,12 @@ DVM|Dalvik Virtual Machine|
 JVM|Java Virtual Machine|
 KAPT|Kotlin Annotation Processing Tool|
 MAD Skills|Modern Android Development Skills|
+
+.|.|.
+:-:|:-:|:-:
+CMP|Compose Multiplatform|
+KMM|Koltin Multiplatform Mobile|
+KMP|Kotlin Multiplatform|
 
 ## 3. Architecture/Design
 Abbreviation|Full Form|Desc
@@ -45,6 +52,8 @@ GoF|Gang of Four|
 GRASP|General Responsibility Assignment Software Patterns|
 IoC|Inversion of Control| 
 KISS|Keep It Simple! Stupid|
+MVP|Model View Presenter|
+MVVM|Model View ViewModel|
 OOAD|Object Oriented Analysis and Design|
 OOD|Object Oriented Design
 OOP|Object Oriented Programming|
@@ -81,7 +90,7 @@ npx|Node Package eXecute|
 pip|pip Installs Packages|
 yarn|Yet Another Resource Negotiator|
 
-## 6. Database
+## 6. Database/Warehousing
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 ACID|Atomicity Consistency Isolation Durability|
@@ -95,6 +104,7 @@ DML|Data Manipulation Language|
 DTO|Data Transfer Object|
 ER model|Entity Relationship Model|
 SIUD|Select Insert Update Delete|
+SKU|Stock Keeping Unit
 SQL|Structured Query Language|
 TCL|Transaction Control Language|
 
@@ -108,22 +118,13 @@ Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 CCC|Creator, Critic, and Crusader|[shark-tank-america](https://youtu.be/HpUR7-Oe1ss?t=224)
 
-## 9. General
-Abbreviation|Full Form|Desc
-:-:|:-:|:-:
-PR|Pull Request|
-RC|Release Candidate|
-SDK|Software Development Kit|
-STEM|Science Technology Engineering Mathematics
-XML|Extensible Markup Language|
-
-## 10. Hardware
+## 09. Hardware
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 ODM|original design manufacturer|
 OEM|original equipment manufacturer|
 
-## 11. Management
+## 10. Management
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 CRM|Customer Relationship Management|
@@ -143,12 +144,12 @@ SD|Sales and Distribution|
 SRM|Supplier Relationship Management|
 WMS|Warehouse management system|
 
-## 12. Marketing
+## 11. Marketing
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 PPPP|Product, Price, Place and Promotion|
 
-## 13. Network
+## 12. Network
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 API|Application Programming Interface|
@@ -157,14 +158,16 @@ IP|Internet Protocol|
 HTTP|Hypertext Transfer Protocol|
 JSON|JavaScript Object Notation|
 JWT|Json Web Token|
+POJO|Plain Old Java Object|
 REST|Representational state transfer|
 SOAP|Simple Object Access Protocol|
 SMTP|Simple Mail Transfer Protocol|
 TCP|Transmission Control Protocol|
 UDP|User Datagram Protocol|
+XML|Extensible Markup Language|
 XMPP|Extensible Messaging and Presence Protocol|
 
-## 14. Project/Product
+## 13. Project/Product
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 BRD|Business Requirements Document|
@@ -182,12 +185,12 @@ QFD|Quality Function Deployment|
 QP|Quality Planning|
 SRS|Software Requirements Specification|
 
-## 15. Security
+## 14. Security
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 CIA|Confidentiality Integrity Availability|
 
-## 16. Tech Stack
+## 15. Tech Stack
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 LAMP|Linux, Apache, MySQL, PHP|
@@ -196,12 +199,17 @@ MERN|MongoDB, ExpressJS, ReactJS, Node.JS|
 MEVN|MongoDB, ExpressJS, Vue.JS, Node.JS|
 WAMP|Windows, Apache, MySQL, PHP|
 
-## 17. Others
+## 16. Others
 Abbreviation|Full Form|Desc
 :-:|:-:|:-:
 CAPTCHA|Completely Automated Public Turing Test to Tell Computers and Humans Apart|
 IELTS|International English Language Testing System|
+PR|Pull Request|
+RC|Release Candidate|
+SDK|Software Development Kit|
 SOS|Save Our Souls
+STEM|Science Technology Engineering Mathematics|
+
 
 # TERMINOLOGY
 
