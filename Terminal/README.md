@@ -22,9 +22,22 @@ ditto: Copies contents of a folder to a new folder
 ```
 
 # MONGO DB
+
+install
+```
+brew tap mongodb/brew
+brew install mongodb-community
+```
+
+confirm
 ```
 shayanrais@Shayans-MacBook-Pro ~ % which mongod
 /opt/homebrew/bin/mongod
+```
+
+To start MongoDB in the background and keep it running:
+```
+brew services start mongodb-community
 ```
 
 # PHP
