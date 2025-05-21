@@ -40,6 +40,14 @@ To start MongoDB in the background and keep it running:
 brew services start mongodb-community
 ```
 
+view MongoDB locally
+```
+mongosh
+use dealflow_db
+show collections
+db.contacts.find().pretty()
+```
+
 # PHP
 ```
 php artisan serve: start local dev server for laravel app
