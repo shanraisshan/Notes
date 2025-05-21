@@ -48,6 +48,16 @@ show collections
 db.contacts.find().pretty()
 ```
 
+verify MongoDB is running | http://127.0.0.1:27017/ (It looks like you are trying to access MongoDB over HTTP on the native driver port.)
+```
+curl http://localhost:27017
+```
+
+stop
+```
+brew services stop mongodb-community
+```
+
 # PHP
 ```
 php artisan serve: start local dev server for laravel app
