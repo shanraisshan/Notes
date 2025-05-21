@@ -21,6 +21,12 @@ top: Lists actively running computer processes
 ditto: Copies contents of a folder to a new folder
 ```
 
+# MONGO DB
+```
+shayanrais@Shayans-MacBook-Pro ~ % which mongod
+/opt/homebrew/bin/mongod
+```
+
 # PHP
 ```
 php artisan serve: start local dev server for laravel app
