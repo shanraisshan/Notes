@@ -1,3 +1,3 @@
 # SQL
-structured query language
+> 💭 sequel | structured query language
  
