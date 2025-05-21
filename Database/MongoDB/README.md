@@ -1,6 +1,6 @@
 # MongoDB
 
-> db that is not made by mongols | inspired by the need for a database that could handle large amounts of data, and the word "humongous"
+> 💭 db that is not made by mongols | inspired by the need for a database that could handle large amounts of data, and the word "humongous"
 
 
 # Python Driver
