@@ -1,5 +1,5 @@
 # Database
-> data and its base or baseless data
+> 💭 data and its base or baseless data
 
 ### ➼ [SQL](SQL)
 ### ➼ [Tutorial (+Cheat Sheet, Quick Reference)](Tutorial)
