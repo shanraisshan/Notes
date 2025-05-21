@@ -46,6 +46,11 @@ Bolt New|https://bolt.new
 Lovable Dev|https://lovable.dev
 Cursor AI|https://www.cursor.com/
 
+# Workflow Automation
+Purpose|Reference|Link
+:-:|:-:|:-:
+make.com|-|-
+n8n.io|-|-
 
 # Others
 
