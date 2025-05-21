@@ -3,5 +3,4 @@
 ### ➼ [Company 🏢](Company)
 ### ➼ [Interview 👨‍💻](Interview)
 ### ➼ [Motivation 💪](Motivation)
-### ➼ [Profile 👤](Profile)
 
