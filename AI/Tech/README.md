@@ -1,6 +1,22 @@
 # Tech
 concepts, frameworks, tools
 
+
+### ➼ [Natural Language Processing](NLP) Language Translation
+### ➼ [Machine Learning (subset of AI)](ML) Weather Prediction
+### ➼ [Deep Learning (subset of ML)](DL) Speech/Image Recognition
+### ➼ [GenerativeAI (app of AI)](GenAI) Text/Image Generation
+### ➼ [AgenticAI (app of AI)](AgentAI) Autonomous System / Self Driving Cars 
+
+
+
+
+
+----
+----
+----
+
+
 # Difference between models
 
 https://youtu.be/FooC7gp4wk4?t=328
