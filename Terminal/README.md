@@ -3,7 +3,7 @@ must have terminal commands
 
 # CELERY
 ```
-celery
+celery -A app.core.celery.celery_app worker --loglevel=info
 ```
 
 # DOCKER
