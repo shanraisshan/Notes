@@ -1,6 +1,11 @@
 # Terminal
 must have terminal commands
 
+# CELERY
+```
+celery
+```
+
 # DOCKER
 ```
 docker-compose up --build: start/run services in docker-compose.yml
@@ -95,6 +100,15 @@ can be used by
 ```
 npm start
 npm run android
+```
+
+
+# REDIS
+```
+brew install redis
+brew services start redis
+brew services stop redis
+redis-cli ping
 ```
 
 # SSH
