@@ -7,6 +7,7 @@ Krish Naik - [Things Required To Master Generative AI- A Must Skill In 2024](htt
 
 ## RAG
 
+**RAG vs AGENTIC RAG** [->](https://www.youtube.com/watch?v=HodCjnGv8Ag)
 
 
 Krish Naik - [What is Agentic AI? Important For GEN AI In 2025](https://youtu.be/xOS0BhhdUbo?t=270)
