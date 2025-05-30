@@ -38,3 +38,19 @@ https://platform.openai.com/docs/api-reference/moderations/create
 https://api.openai.com/v1/chat/completions
 
 
+# VIBE CODING / CODING AGENTS
+
+## OpenHands by All Hands AI
+
+Browser Version: https://app.all-hands.dev/
+
+
+## Augment Code
+
+Best with Claude Sonnet 4: https://www.augmentcode.com/
+
+## Devin
+
+
+
+
