@@ -2,7 +2,7 @@
 backend related stuff
 
 ### ➼ [Api 🔗](Api)
-### ➼ [Message Broker (Que, In-Memory DB, Supervisor)](Message)
+### ➼ [Message Broker (Queue, In-Memory DB, Supervisor)](Message)
 ### ➼ [Tutorial (+Cheat Sheet, Quick Reference) ✒️](Tutorial)
 
 >.
