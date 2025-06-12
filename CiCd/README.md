@@ -28,4 +28,7 @@ tell me step by step process of deployment.
 | 27017|MongoDB|
 | 6379|Redis|
 
+- localhost and 127.0.0.1 are essentially interchangeable for accessing the local machine, but localhost is a name, while 127.0.0.1 is the actual IP address.
+- 0.0.0.0 is not an address you connect to; it’s used by servers to bind to all interfaces. Connecting to 0.0.0.0 directly is invalid.
+
 
