@@ -32,6 +32,14 @@ inevitable|unavoidable
 steep|almost perpendicular (difficult)
 titan|giant
 
+## New 
+General|Defination
+:-:|:-:
+cadence|تسلسل
+canonical|معیاری
+caveat|شرط,استثنا,تنبیہ
+
+
 ## Presentation 
 General|Defination
 :-:|:-:
