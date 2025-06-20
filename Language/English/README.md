@@ -38,6 +38,7 @@ General|Defination
 cadence|تسلسل
 canonical|معیاری
 caveat|شرط,استثنا,تنبیہ
+preamble|تمہید
 
 
 ## Presentation 
