@@ -20,6 +20,9 @@ https://rapidapi.com/fkal094tiokg09w3vi095i/api/reddit-scraper2/playground/apien
 
 https://eu2.make.com/1094040/scenarios/2981583/edit
 
+### Libraries
+```BeautifulSoup (Python)``` and ```Cheerio (Javascript)``` are both libraries used for parsing HTML and XML documents, primarily for web scraping
+
 ## -
 
 - chatgpt prompt ```setup docker on macos for following stack:
