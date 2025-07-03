@@ -1,12 +1,12 @@
 # Abbreviation (Terminology, Quote, Latest)
 
-1. [Abbreviation](/Abbreviation#abbreviation) [16]
+1. [Abbreviation](#abbreviation) [16]
 2. [Terminology](#terminology) [3]
-3. [Quotes](/Abbreviation#quotes)
-4. [Similarity](/Abbreviation#similarity)
-5. [Operators](/Abbreviation#operators)
-6. [Concepts](/Abbreviation#concepts)
-7. [Latest](/Abbreviation#latest)
+3. [Quotes](#quotes)
+4. [Similarity](#similarity)
+5. [Operators](#operators)
+6. [Concepts](#concepts)
+7. [Latest](#latest)
 
 # ABBREVIATION
 
