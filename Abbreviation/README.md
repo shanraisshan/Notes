@@ -1,7 +1,7 @@
 # Abbreviation (Terminology, Quote, Latest)
 
 1. [Abbreviation](/Abbreviation#abbreviation) [16]
-2. [Terminology](/Abbreviation#terminology) [3]
+2. [Terminology](#terminology) [3]
 3. [Quotes](/Abbreviation#quotes)
 4. [Similarity](/Abbreviation#similarity)
 5. [Operators](/Abbreviation#operators)
