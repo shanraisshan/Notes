@@ -8,6 +8,7 @@ everything free and useful bookmarked here
 -|:-:|-
 Android App | edit video | https://play.google.com/store/apps/details?id=com.camerasideas.trimmer
 Website | edit video | https://app.clipchamp.com
+CapCut Old Version | edit video | https://www.reddit.com/r/CapCut/comments/1eg8nae/comment/lgn24ap
 
 ## Image
 -|-|-
