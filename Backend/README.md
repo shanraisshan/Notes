@@ -1,9 +1,10 @@
 # Backend
 backend related stuff
 
-### ➼ [Api 🔗](Api)
+### ➼ [Api](Api)
+### ➼ [Domain (+DNS, Hosting)](Domain)
 ### ➼ [Message Broker (Queue, In-Memory DB, Supervisor)](Message)
-### ➼ [Tutorial (+Cheat Sheet, Quick Reference) ✒️](Tutorial)
+### ➼ [Tutorial (+Cheat Sheet, Quick Reference)](Tutorial)
 
 >.
 
