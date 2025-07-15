@@ -1,6 +1,9 @@
 # Generative AI
 > ai for genZ
 
+## [Google AI First](https://ai.google/education/)
+Introduction to Generative AI -> https://www.cloudskillsboost.google/paths/118/course_templates/536/video/520739
+
 ## GenAI
 Krish Naik - [Things Required To Master Generative AI- A Must Skill In 2024](https://youtu.be/HEHUpBO8UVc?list=PLA1lVIthbM1D5I6r5uY2K89X1KD2w5LNh)
 ![genai](/AI/Tech/!/genai-krish.png)
