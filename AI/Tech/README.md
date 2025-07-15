@@ -7,6 +7,8 @@ concepts, frameworks, tools
 ### ➼ [Deep Learning (subset of ML)](DL) Speech/Image Recognition
 ### ➼ [GenerativeAI (app of AI)](GenAI) Text/Image Generation
 ### ➼ [AgenticAI (app of AI)](AgentAI) Autonomous System / Self Driving Cars 
+---
+### ➼ [Vibe Coding](VibeCoding) Co-pilot / Augment / Devin
 
 
 
