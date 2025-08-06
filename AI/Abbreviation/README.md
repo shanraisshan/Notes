@@ -21,6 +21,14 @@ generative ai =
 
 Agent = Control flow of program is driven by LLM. (UAK)
 
+vllm vs olama = 
+
+inference = 
+
+re-inforcement learning vs fine-tuning =
+
+ 
+
 ## Chatbots
 
 # AI Chatbots and Their Models
