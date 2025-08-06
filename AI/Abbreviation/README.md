@@ -27,6 +27,8 @@ inference =
 
 re-inforcement learning vs fine-tuning =
 
+semantic search vs open search =  
+
  
 
 ## Chatbots
