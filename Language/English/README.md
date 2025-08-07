@@ -39,7 +39,7 @@ cadence|تسلسل
 canonical|معیاری
 caveat|شرط,استثنا,تنبیہ
 preamble|تمہید
-
+slop|گڑھا 
 
 ## Presentation 
 General|Defination
