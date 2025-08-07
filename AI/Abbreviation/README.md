@@ -29,6 +29,8 @@ re-inforcement learning vs fine-tuning =
 
 semantic search vs open search =  
 
+tokenization = https://platform.openai.com/tokenizer
+
  
 
 ## Chatbots
