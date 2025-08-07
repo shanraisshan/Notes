@@ -38,6 +38,7 @@ General|Defination
 cadence|تسلسل
 canonical|معیاری
 caveat|شرط,استثنا,تنبیہ
+nitpicks|نکتہ چینی کرنا
 preamble|تمہید
 slop|گڑھا 
 
