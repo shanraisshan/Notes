@@ -13,13 +13,11 @@ concepts, frameworks, tools
 
 
 
-
-----
 ----
 ----
 
 
-# Difference between models
+## MODELS
 
 https://youtu.be/FooC7gp4wk4?t=328
 
@@ -38,6 +36,12 @@ https://platform.openai.com/docs/api-reference/moderations/create
 #### Chat Completions Api
 
 https://api.openai.com/v1/chat/completions
+
+## MCP SERVER
+
+[What are MCP servers | Explained in Hindi](https://www.youtube.com/watch?v=dZyQNy3-HjU) by Chai and Code
+
+
 
 
 
