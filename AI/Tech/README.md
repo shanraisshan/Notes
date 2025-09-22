@@ -41,9 +41,9 @@ https://api.openai.com/v1/chat/completions
 
 [What are MCP servers | Explained in Hindi](https://www.youtube.com/watch?v=dZyQNy3-HjU) by Chai and Code
 
-15:50 : As of now MCP Server is Stateful
-16:03 : Vercel (Stateless - cloud functions) vs EC2 (Stateful - ever running)
-16:03 : Server Sent Events (SSE) vs Message Endpoints
+- 15:50 : As of now MCP Server is Stateful
+- 16:03 : Vercel (Stateless - cloud functions) vs EC2 (Stateful - ever running)
+- 16:03 : Server Sent Events (SSE) vs Message Endpoints
 
 
 
