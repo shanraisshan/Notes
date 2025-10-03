@@ -1,6 +1,20 @@
 # Terminal
 must have terminal commands
 
+# MAC
+```
+touch file.txt # create empty file
+open file.txt # open
+nano file.txt # edit in nano editor # Ctrl + X, then Y, then Enter
+echo "Hello World" > file.txt # create with some initial text
+code . # open project in vs code
+open . # open current folder in Finder
+Ctrl + C # exit
+pwd # show current path
+ls -a # show hidden files
+```
+
+
 # CELERY
 ```
 celery -A app.core.celery.celery_app worker --loglevel=info
