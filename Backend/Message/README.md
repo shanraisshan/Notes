@@ -1,5 +1,12 @@
 # Publish Subscribe Architecture
 
+[YOUTUBE TUTORIAL](https://youtu.be/O1PgqUqZKTA)
+
+![](!/1.png)
+![](!/2.png)
+![](!/3.png)
+
+
 1. Publisher
 2. Message Broker
 3. Subscriber
