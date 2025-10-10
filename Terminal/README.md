@@ -14,6 +14,16 @@ pwd # show current path
 ls -a # show hidden files
 ```
 
+# FIREBASE
+```
+firebase login
+firebase login --reauth
+firebase emulators:start
+pkill -f firebase
+lsof -i :3001
+kill -9 1234
+```
+
 
 # CELERY
 ```
