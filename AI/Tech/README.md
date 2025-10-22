@@ -45,6 +45,25 @@ https://api.openai.com/v1/chat/completions
 - 16:03 : Vercel (Stateless - cloud functions) vs EC2 (Stateful - ever running)
 - 16:03 : Server Sent Events (SSE) vs Message Endpoints
 
+## SPEC DRIVEN DEVELOPMENT
+
+### [Agent OS 2.0](https://buildermethods.com/agent-os)
+Agent OS is a spec-driven development system that gives AI agents the structured context they need to write production-quality code. It provides your AI with clear specifications, standards, and workflows—transforming inconsistent outputs into reliable, production-ready implementations.
+
+Agent OS uses a 3-layer context system:
+1. Standards
+2. Product
+3. Specs
+
+Workflow
+1. Plan Product
+2. Shape Spec
+3. Write Spec
+4. Create Tasks
+5. Implement Tasks
+6. Orchestrate Tasks
+
+
 
 
 
