@@ -8,7 +8,7 @@ concepts, frameworks, tools
 ### ➼ [GenerativeAI (app of AI)](GenAI) Text/Image Generation
 ### ➼ [AgenticAI (app of AI)](AgentAI) Autonomous System / Self Driving Cars 
 ---
-### ➼ [Vibe Coding](VibeCoding) Co-pilot / Augment / Devin
+### ➼ [AI Assisted Development (Vibe Coding)](VibeCoding) Claude Code / Augment Code / Co-pilot
 
 
 
