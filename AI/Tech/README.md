@@ -45,6 +45,12 @@ https://api.openai.com/v1/chat/completions
 - 16:03 : Vercel (Stateless - cloud functions) vs EC2 (Stateful - ever running)
 - 16:03 : Server Sent Events (SSE) vs Message Endpoints
 
+| MCP Type                      | Example            | How It Runs           | Communication  | Command Example               |
+| ----------------------------- | ------------------ | --------------------- | -------------- | ----------------------------- |
+| **Command-based (Local MCP)** | Figma MCP          | Local Node.js process | stdio / socket | `npx @figma/mcp-server`       |
+| **HTTP-based MCP**            | REST-style API MCP | Remote server         | HTTP/HTTPS     | `https://api.company.com/mcp` |
+
+
 ## SPEC DRIVEN DEVELOPMENT
 
 ### [Agent OS 2.0](https://buildermethods.com/agent-os)
