@@ -1,4 +1,4 @@
-# AI ASSESTED DEVELOPMENT (VIBE CODING, CODING AGENTS)
+# AI ASSISTED DEVELOPMENT (VIBE CODING, CODING AGENTS)
 claude code, augment code, codex cli, co-pilot, devin, openhands
 
 # IDE
@@ -41,6 +41,7 @@ https://devin.ai/
 #### API vs Subscription Plan 
 API ■■ used in our apps ■■ pay-as-you-go model for developers, token-based billing 
 Subscription ■■ chatgpt.com ■■ is for web/app users, offering fixed monthly access
+
 
 
 
