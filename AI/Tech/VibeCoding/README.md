@@ -6,8 +6,6 @@ claude code, augment code, codex cli, co-pilot, devin, openhands
 ## ■ Cursor / Windsurf / VS Code
 - Advantage (Secret Sauce) of Cursor / Windsurf over VS Code is Tool Calling. [Claude Code Replaced Cursor for Me… Here’s Why](https://www.youtube.com/watch?v=0iGEpx8IeM0&t=159s)
 - Cursor is a fork of VS Code
-- OpenHands is 
-
 
 # CODING AGENTS
 
@@ -32,11 +30,18 @@ Our focus: Making your entire codebase searchable and contextually available to 
 ## ■ Augment Code
 Best with Claude Sonnet 4: https://www.augmentcode.com/
 
-## ■ OpenHands by All Hands AI
+## ■ OpenHands by All Hands AI (Open Source)
 Browser Version: https://app.all-hands.dev/
 
-## ■ Devin
+## ■ Devin (Closed Source)
 https://devin.ai/
+
+# COST (/usage)
+
+#### API vs Subscription Plan 
+API ■■ used in our apps ■■ pay-as-you-go model for developers, token-based billing 
+Subscription ■■ chatgpt.com ■■ is for web/app users, offering fixed monthly access
+
 
 
 
