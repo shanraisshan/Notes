@@ -1,5 +1,5 @@
 # Tech
-concepts, frameworks, tools
+tool calling, langgraph, rag, dense sparse search, mcp, 
 
 
 ### ➼ [Natural Language Processing](NLP) Language Translation
