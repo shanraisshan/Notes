@@ -1,5 +1,5 @@
 # Tech
-tool calling, langgraph, rag, dense sparse search, mcp, reinforcement learning, fine tunning
+tool calling, langgraph, rag, dense sparse search, mcp, reinforcement learning, fine tunning, guard rails
 
 
 ### ➼ [Natural Language Processing](NLP) Language Translation
