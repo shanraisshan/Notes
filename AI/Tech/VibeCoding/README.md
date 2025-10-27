@@ -24,6 +24,12 @@ claude code, augment code, codex cli, co-pilot, devin, openhands
 6. 11:02 - feature3 Ctrl+R (search prompts)
 7. 12:28 - /compact (managing context window)
 
+### [Share your Claude Code setup with plugins](https://www.anthropic.com/news/claude-code-plugins#:~:text=share%20your%20claude%20code)
+1. Slash commands: Create custom shortcuts for frequently-used operations
+2. Subagents: Install purpose-built agents for specialized development tasks
+3. MCP servers: Connect to tools and data sources through the Model Context Protocol
+4. Hooks: Customize Claude Code's behavior at key points in its workflow
+
 #### Q: How does Claude Context compare to other coding tools like Serena, Context7, or DeepWiki?
 A: Claude Context is specifically focused on codebase indexing and semantic search. Here's how we compare:
 - **Serena** A comprehensive coding agent toolkit with language server integration and symbolic code understanding. Provides broader AI coding capabilities.
@@ -46,6 +52,7 @@ https://devin.ai/
 #### API vs Subscription Plan 
 API ■■ used in our apps ■■ pay-as-you-go model for developers, token-based billing 
 Subscription ■■ chatgpt.com ■■ is for web/app users, offering fixed monthly access
+
 
 
 
