@@ -7,5 +7,10 @@ useful tools for content generation - [cContent Sheet](https://docs.google.com/s
 - [WisprFlow](https://www.youtube.com/watch?v=7_SL0FaY8MM) - claude prompting (speech to text)
 - [SuperWhisper](https://www.reddit.com/r/ClaudeCode/comments/1oivs81/claude_code_is_a_beast_tips_from_6_months_of) - Voice-to-text for mac
 
+### Screen Recording + Face + Audio (Internal & External)
+- [QuickTime Sound Tutorial](https://www.youtube.com/watch?v=LSmM5FXzVBg)
+- [QuickTime + Loom + Ecamm](https://www.youtube.com/watch?v=HL_PkylpbG8)
+
+
 
 
