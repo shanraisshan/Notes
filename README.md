@@ -11,6 +11,7 @@ created on [26 Jan 2022](https://github.com/shanraisshan/Notes/commit/6de4ecb3eb
 ### ➼ [Algorithm 👨🏻‍💻](/Algorithm)
 ### ➼ [Architecture (+Design Pattern, Principle, Paradigm) 🧱](Architecture)
 ### ➼ [Backend/Frontend 🖥️](/Backend)
+### ➼ [Content (+Video) 🎬](/Content)
 ### ➼ [CI/CD (+Deployment)](/CiCd)
 ### ➼ [Database 📊](/Database)
 ### ➼ [Data Structure 📊](/DataStructure)
