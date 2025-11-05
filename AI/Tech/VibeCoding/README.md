@@ -10,6 +10,7 @@ claude code, augment code, codex cli, co-pilot, devin, openhands
 # CODING AGENTS
 
 ## ■  Claude Code
+when login via email, use option2 (API)
 
 #### Shortcuts
 1. Shift + Tab ([Plan Mode](https://youtu.be/7_SL0FaY8MM?t=389))
@@ -52,6 +53,7 @@ https://devin.ai/
 #### API vs Subscription Plan 
 API ■■ used in our apps ■■ pay-as-you-go model for developers, token-based billing 
 Subscription ■■ chatgpt.com ■■ is for web/app users, offering fixed monthly access
+
 
 
 
