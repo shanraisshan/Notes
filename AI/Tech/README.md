@@ -16,6 +16,15 @@ tool calling, langgraph, rag, dense sparse search, mcp, reinforcement learning, 
 ----
 ----
 
+## MUST USE
+
+1- [Claude Code Prompt Improver](https://www.reddit.com/r/Anthropic/comments/1ouw3oc/claude_code_prompt_improver_v040_major/)
+2- [Claude Code Voice Hooks](https://github.com/shanraisshan/claude-code-voice-hooks)
+3- [Frontend Inspector](https://www.ycombinator.com/launches/Opr-inspector-ai-ide-for-front-end)
+4- Agent Os
+5- Spec Kit
+6- Wispr Flow
+
 
 ## MODELS
 
