@@ -48,11 +48,16 @@ Browser Version: https://app.all-hands.dev/
 ## ■ Devin (Closed Source)
 https://devin.ai/
 
+
+## ■ Others
+https://github.com/ChromeDevTools/chrome-devtools-mcp
+
 # COST (/usage)
 
 #### API vs Subscription Plan 
 API ■■ used in our apps ■■ pay-as-you-go model for developers, token-based billing 
 Subscription ■■ chatgpt.com ■■ is for web/app users, offering fixed monthly access
+
 
 
 
