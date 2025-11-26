@@ -22,6 +22,8 @@ firebase emulators:start
 pkill -f firebase
 lsof -i :3001
 kill -9 1234
+
+kill -9 $(lsof -t -i :3000)
 ```
 
 
