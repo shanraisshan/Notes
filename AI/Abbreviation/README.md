@@ -11,6 +11,12 @@ RAG|Retrieval-augmented generation|
 
 ### Jargons
 
+Vibe Coding = 
+
+Sloperator = 
+
+T-shaped engineer = 
+
 clusterring =
 
 llm =
