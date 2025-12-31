@@ -78,6 +78,10 @@ Workflow
 5. Implement Tasks
 6. Orchestrate Tasks
 
+## CONTEXT ENGINEERING
+
+### [Context Window Wars 200K vs 1M](https://www.augmentcode.com/guides/context-window-wars-200k-vs-1m-token-strategies)
+
 
 
 
