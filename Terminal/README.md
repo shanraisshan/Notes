@@ -1,6 +1,20 @@
 # Terminal
 must have terminal commands
 
+# tmux
+
+| Shortcut | Action |
+  |---|---|
+  | Ctrl+b c | Create new tab |
+  | Ctrl+b n | Next tab |
+  | Ctrl+b p | Previous tab |
+  | Ctrl+b 0-9 | Jump to tab by number |
+  | Ctrl+b w | List all tabs (interactive picker) |
+  | Ctrl+b , | Rename tab |
+  | Ctrl+b & | Close tab |
+  | Ctrl+b l | Switch to last used tab |
+  | Ctrl+b . | Move tab to a new number |
+
 # MAC
 ```
 touch file.txt # create empty file
