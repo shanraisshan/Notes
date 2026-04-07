@@ -5,6 +5,7 @@ backend related stuff
 ### ➼ [Domain (+DNS, Hosting)](Domain)
 ### ➼ [Message Broker (Queue, In-Memory DB, Supervisor)](Message)
 ### ➼ [Tutorial (+Cheat Sheet, Quick Reference)](Tutorial)
+### ➼ [CDN (Content Delivery Network)](CDN)
 
 >.
 
