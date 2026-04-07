@@ -1,7 +1,18 @@
 # Webhook
-> A webhook is a way for one application to send real-time data to another application whenever a specific event occurs. Instead of your app continuously asking ("polling") SendGrid for updates, SendGrid can push data to your app when something happens — like an email being delivered, opened, clicked, bounced, etc.
+> A way for one application to send real-time data to another via HTTP callbacks whenever a specific event occurs.
 
-# Example
+## ELI5
+
+| Technical Term | Real-World Analogy |
+|:-:|:-:|
+| Webhook | Giving the pizza shop your phone number so they call you when your order is ready |
+| Polling | Calling the pizza shop every 2 minutes to ask "is it ready yet?" |
+| Webhook URL | Your phone number — where the notification gets sent |
+| Event | The pizza being ready — the thing that triggers the call |
+| Payload (JSON data) | What the pizza shop tells you on the call — "your large pepperoni is ready for pickup" |
+| POST request | The phone call itself — the delivery method of the message |
+
+## Example
 
 ### Savyour
 https://affiliates.savyour.com/orders
