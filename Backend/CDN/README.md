@@ -1,7 +1,7 @@
 # CDN (Content Delivery Network)
 A geographically distributed network of servers that delivers web content to users from the server **closest to them**, reducing latency and improving load times.
 
-## ELI5 (Explain Like I'm 5)
+## ELI5
 
 CDN Term|Pizza Kitchen Analogy
 -|-
