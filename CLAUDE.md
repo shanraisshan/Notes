@@ -32,7 +32,8 @@ These conventions are used consistently throughout the notes and must be followe
 
 ## When Adding or Editing Notes
 
-- Every README.md must include an **ELI5 (Explain Like I'm 5)** section at the top (right after the title and description), presented as a table that maps technical terms to a simple real-world analogy (e.g., food, kitchen, everyday objects)
+- Every README.md must have a **1-liner description** (as a blockquote `>`) directly below the title heading, summarizing the topic in one sentence
+- Every README.md must include an **ELI5 (Explain Like I'm 5)** section right after the title and description, presented as a table that maps technical terms to a simple real-world analogy (e.g., food, kitchen, everyday objects)
 - Place content in the appropriate topic directory; create a new subdirectory with a `README.md` if the topic doesn't exist yet
 - Follow the existing `### ➼ [Title](path)` link style when adding navigation entries
 - Keep the root `README.md` updated if adding a new top-level category
