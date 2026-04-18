@@ -1,3 +1,7 @@
 {
-    "workbench.colorCustomizations": {}
+    "window.title": "claude-code-best-practice",
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#16825d",
+        "statusBar.foreground": "#ffffff"
+    }
 }
